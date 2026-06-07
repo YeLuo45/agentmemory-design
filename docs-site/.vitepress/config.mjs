@@ -1,1 +1,89 @@
-aW1wb3J0IHsgZGVmaW5lQ29uZmlnIH0gZnJvbSAidml0ZXByZXNzIjsKCmV4cG9ydCBkZWZhdWx0IGRlZmluZUNvbmZpZyh7CiAgdGl0bGU6ICJhZ2VudG1lbW9yeSBEZXNpZ24iLAogIGRlc2NyaXB0aW9uOgogICAgImFnZW50bWVtb3J5IOKAlCBBSSDnvJbnoIHku6PnkIbnmoTmjIHkuYXljJborrDlv4bns7vnu5/jgIJpaWktZW5naW5lIC8gNTArIGZ1bmN0aW9ucyAvIDUzIE1DUCB0b29scyAvIDEyOCBSRVNUIGVuZHBvaW50cyAvIDEyIGhvb2tzIC8gNCBza2lsbHPjgIIiLAogIGJhc2U6ICIvYWdlbnRtZW1vcnktZGVzaWduLyIsCiAgaGVhZDogWwogICAgWyJsaW5rIiwgeyByZWw6ICJpY29uIiwgaHJlZjogIi9mYXZpY29uLnN2ZyIgfV0sCiAgICBbIm1ldGEiLCB7IG5hbWU6ICJ0aGVtZS1jb2xvciIsIGNvbnRlbnQ6ICIjMGEwYTBhIiB9XSwKICBdLAogIHRoZW1lQ29uZmlnOiB7CiAgICBuYXY6IFsKICAgICAgeyB0ZXh0OiAiSG9tZSIsIGxpbms6ICIvIiB9LAogICAgICB7IHRleHQ6ICJBcmNoaXRlY3R1cmUiLCBsaW5rOiAiL2FyY2hpdGVjdHVyZSIgfSwKICAgICAgeyB0ZXh0OiAiVGVjaCBTdGFjayIsIGxpbms6ICIvdGVjaC1zdGFjayIgfSwKICAgICAgeyB0ZXh0OiAiQ29yZSIsIGxpbms6ICIvYmFja2VuZCIgfSwKICAgICAgeyB0ZXh0OiAiTUNQIiwgbGluazogIi9tY3AiIH0sCiAgICAgIHsgdGV4dDogIkZ1bmN0aW9ucyIsIGxpbms6ICIvZnVuY3Rpb25zIiB9LAogICAgICB7IHRleHQ6ICJIb29rcyIsIGxpbms6ICIvaG9va3MiIH0sCiAgICAgIHsgdGV4dDogIkRlcGxveW1lbnQiLCBsaW5rOiAiL2RlcGxveW1lbnQiIH0sCiAgICBdLAogICAgc2lkZWJhcjogWwogICAgICB7CiAgICAgICAgdGV4dDogIkdldHRpbmcgU3RhcnRlZCIsCiAgICAgICAgaXRlbXM6IFsKICAgICAgICAgIHsgdGV4dDogIkhvbWUiLCBsaW5rOiAiLyIgfSwKICAgICAgICAgIHsgdGV4dDogIkFyY2hpdGVjdHVyZSIsIGxpbms6ICIvYXJjaGl0ZWN0dXJlIiB9LAogICAgICAgICAgeyB0ZXh0OiAiVGVjaCBTdGFjayIsIGxpbms6ICIvdGVjaC1zdGFjayIgfSwKICAgICAgICBdLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGV4dDogIkNvcmUiLAogICAgICAgIGl0ZW1zOiBbCiAgICAgICAgICB7IHRleHQ6ICJPdmVydmlldyIsIGxpbms6ICIvYmFja2VuZCIgfSwKICAgICAgICAgIHsgdGV4dDogImlpaS1lbmdpbmUgUHJpbWl0aXZlcyIsIGxpbms6ICIvaWlpLWVuZ2luZSIgfSwKICAgICAgICAgIHsgdGV4dDogIkRhdGEgTW9kZWxzIiwgbGluazogIi9kYXRhLW1vZGVscyIgfSwKICAgICAgICBdLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGV4dDogIkZ1bmN0aW9ucyIsCiAgICAgICAgaXRlbXM6IFsKICAgICAgICAgIHsgdGV4dDogIkFsbCA1MCsgRnVuY3Rpb25zIiwgbGluazogIi9mdW5jdGlvbnMiIH0sCiAgICAgICAgICB7IHRleHQ6ICJSZW1lbWJlciAvIFNlYXJjaCIsIGxpbms6ICIvcmVtZW1iZXItc2VhcmNoIiB9LAogICAgICAgICAgeyB0ZXh0OiAiQ3J5c3RhbGxpemUiLCBsaW5rOiAiL2NyeXN0YWxsaXplIiB9LAogICAgICAgICAgeyB0ZXh0OiAiS25vd2xlZGdlIEdyYXBoIiwgbGluazogIi9ncmFwaCIgfSwKICAgICAgICBdLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGV4dDogIk1DUCIsCiAgICAgICAgaXRlbXM6IFsKICAgICAgICAgIHsgdGV4dDogIk1DUCBUb29scyIsIGxpbms6ICIvbWNwIiB9LAogICAgICAgICAgeyB0ZXh0OiAiTUNQIFJlc291cmNlcyIsIGxpbms6ICIvbWNwLXJlc291cmNlcyIgfSwKICAgICAgICBdLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGV4dDogIkhvb2tzICYgU2tpbGxzIiwKICAgICAgICBpdGVtczogWwogICAgICAgICAgeyB0ZXh0OiAiSG9va3MgKDEyKSIsIGxpbms6ICIvaG9va3MiIH0sCiAgICAgICAgICB7IHRleHQ6ICJQbHVnaW4gU2tpbGxzICg0KSIsIGxpbms6ICIvc2tpbGxzIiB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0ZXh0OiAiSW50ZWdyYXRpb24iLAogICAgICAgIGl0ZW1zOiBbCiAgICAgICAgICB7IHRleHQ6ICJQbGF0Zm9ybXMiLCBsaW5rOiAiL3BsYXRmb3JtcyIgfSwKICAgICAgICAgIHsgdGV4dDogIlJFU1QgQVBJIiwgbGluazogIi9yZXN0LWFwaSIgfSwKICAgICAgICBdLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGV4dDogIkJ1aWxkICYgU2hpcCIsCiAgICAgICAgaXRlbXM6IFsKICAgICAgICAgIHsgdGV4dDogIkRlcGxveW1lbnQiLCBsaW5rOiAiL2RlcGxveW1lbnQiIH0sCiAgICAgICAgICB7IHRleHQ6ICJWZXJzaW9uaW5nIiwgbGluazogIi92ZXJzaW9uaW5nIiB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICBdLAogICAgc29jaWFsTGlua3M6IFsKICAgICAgeyBpY29uOiAiZ2l0aHViIiwgbGluazogImh0dHBzOi8vZ2l0aHViLmNvbS9yb2hpdGcwMC9hZ2VudG1lbW9yeSIgfSwKICAgIF0sCiAgfSwKICBtYXJrZG93bjogewogICAgdGhlbWU6IHsKICAgICAgbGlnaHQ6ICJnaXRodWItbGlnaHQiLAogICAgICBkYXJrOiAiZ2l0aHViLWRhcmsiLAogICAgfSwKICB9LAogIGxhc3RVcGRhdGVkOiB0cnVlLAp9KTsK
+import { defineConfig } from "vitepress";
+
+export default defineConfig({
+  title: "agentmemory Design",
+  description:
+    "agentmemory — AI 编码代理的持久化记忆系统。iii-engine / 50+ functions / 53 MCP tools / 128 REST endpoints / 12 hooks / 4 skills。",
+  base: "/agentmemory-design/",
+  head: [
+    ["link", { rel: "icon", href: "/favicon.svg" }],
+    ["meta", { name: "theme-color", content: "#0a0a0a" }],
+  ],
+  themeConfig: {
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "Architecture", link: "/architecture" },
+      { text: "Tech Stack", link: "/tech-stack" },
+      { text: "Core", link: "/backend" },
+      { text: "MCP", link: "/mcp" },
+      { text: "Functions", link: "/functions" },
+      { text: "Hooks", link: "/hooks" },
+      { text: "Deployment", link: "/deployment" },
+    ],
+    sidebar: [
+      {
+        text: "Getting Started",
+        items: [
+          { text: "Home", link: "/" },
+          { text: "Architecture", link: "/architecture" },
+          { text: "Tech Stack", link: "/tech-stack" },
+        ],
+      },
+      {
+        text: "Core",
+        items: [
+          { text: "Overview", link: "/backend" },
+          { text: "iii-engine Primitives", link: "/iii-engine" },
+          { text: "Data Models", link: "/data-models" },
+        ],
+      },
+      {
+        text: "Functions",
+        items: [
+          { text: "All 50+ Functions", link: "/functions" },
+          { text: "Remember / Search", link: "/remember-search" },
+          { text: "Crystallize", link: "/crystallize" },
+          { text: "Knowledge Graph", link: "/graph" },
+        ],
+      },
+      {
+        text: "MCP",
+        items: [
+          { text: "MCP Tools", link: "/mcp" },
+          { text: "MCP Resources", link: "/mcp-resources" },
+        ],
+      },
+      {
+        text: "Hooks & Skills",
+        items: [
+          { text: "Hooks (12)", link: "/hooks" },
+          { text: "Plugin Skills (4)", link: "/skills" },
+        ],
+      },
+      {
+        text: "Integration",
+        items: [
+          { text: "Platforms", link: "/platforms" },
+          { text: "REST API", link: "/rest-api" },
+        ],
+      },
+      {
+        text: "Build & Ship",
+        items: [
+          { text: "Deployment", link: "/deployment" },
+          { text: "Versioning", link: "/versioning" },
+        ],
+      },
+    ],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/rohitg00/agentmemory" },
+    ],
+  },
+  markdown: {
+    theme: {
+      light: "github-light",
+      dark: "github-dark",
+    },
+  },
+  lastUpdated: true,
+});

@@ -1,1 +1,306 @@
-IyBSZW1lbWJlciAvIFNlYXJjaAoKPiBhZ2VudG1lbW9yeSDmoLjlv4PvvJpyZW1lbWJlciDlhaXlupMgKyBzZWFyY2gg5qOA57SiCgojIyBSZW1lbWJlcgoKIyMjIE1DUCDlt6XlhbcKCmBgYAptZW1vcnlfcmVtZW1iZXIoc2NvcGUsIGNvbnRlbnQsIHRhZ3M/LCBjb25maWRlbmNlPywgbWV0YWRhdGE/LCByZWxhdGVkPykKYGBgCgojIyMg5YaF6YOo5rWB56iLCgpgYGB0eXBlc2NyaXB0Ci8vIHNyYy9mdW5jdGlvbnMvcmVtZW1iZXIudHMKYXN5bmMgZnVuY3Rpb24gcmVtZW1iZXIoaW5wdXQpIHsKICAvLyAxLiBWYWxpZGF0ZQogIGlmICghaW5wdXQuY29udGVudCB8fCAhaW5wdXQuc2NvcGUpIHRocm93IG5ldyBFcnJvcigicmVxdWlyZWQiKTsKICAKICAvLyAyLiBGaW5nZXJwcmludAogIGNvbnN0IGZpbmdlcnByaW50ID0gZmluZ2VycHJpbnRJZChpbnB1dC5jb250ZW50KTsKICAKICAvLyAzLiBEZWR1cCBjaGVjawogIGNvbnN0IGV4aXN0aW5nID0gYXdhaXQga3YuZ2V0KGBtZW1vcnk6ZmluZ2VycHJpbnQ6JHtmaW5nZXJwcmludH1gKTsKICBpZiAoZXhpc3RpbmcpIHsKICAgIC8vIOaPkOWNhyBjb25maWRlbmNlIOiAjOmdnuaWsOWingogICAgYXdhaXQga3YudXBkYXRlKGBtZW1vcnk6JHtleGlzdGluZy5pZH1gLCBtID0+ICh7CiAgICAgIC4uLm0sCiAgICAgIGNvbmZpZGVuY2U6IE1hdGgubWluKDEsIG0uY29uZmlkZW5jZSArIDAuMSksCiAgICAgIGFjY2Vzc0NvdW50OiBtLmFjY2Vzc0NvdW50ICsgMSwKICAgIH0pKTsKICAgIHJldHVybiB7IGlkOiBleGlzdGluZy5pZCwgZGVkdXBsaWNhdGVkOiB0cnVlIH07CiAgfQogIAogIC8vIDQuIENyZWF0ZSBuZXcKICBjb25zdCBpZCA9IGdlbmVyYXRlSWQoKTsKICBjb25zdCBlbnRyeSA9IHsKICAgIGlkLAogICAgZmluZ2VycHJpbnQsCiAgICBjb250ZW50OiBpbnB1dC5jb250ZW50LAogICAgY29uZmlkZW5jZTogaW5wdXQuY29uZmlkZW5jZSA/PyAxLjAsCiAgICBsaWZlY3ljbGU6ICJhY3RpdmUiLAogICAgdGFnczogaW5wdXQudGFncyB8fCBbXSwKICAgIHNjb3BlOiBpbnB1dC5zY29wZSwKICAgIG1ldGFkYXRhOiBpbnB1dC5tZXRhZGF0YSB8fCB7fSwKICAgIGNyZWF0ZWRBdDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogICAgbGFzdEFjY2Vzc2VkQXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwKICAgIGFjY2Vzc0NvdW50OiAwLAogICAgcmVsYXRlZElkczogaW5wdXQucmVsYXRlZCB8fCBbXSwKICB9OwogIAogIC8vIDUuIFBlcnNpc3QgKHBhcmFsbGVsKQogIGF3YWl0IFByb21pc2UuYWxsKFsKICAgIGt2LnNldChgbWVtb3J5OiR7aWR9YCwgZW50cnkpLAogICAga3Yuc2V0KGBtZW1vcnk6ZmluZ2VycHJpbnQ6JHtmaW5nZXJwcmludH1gLCB7IGlkIH0pLAogICAga3Yuc2V0KGBtZW1vcnk6Ynktc2NvcGU6JHtpbnB1dC5zY29wZX06JHtpZH1gLCB7IGlkIH0pLAogICAgLi4uaW5wdXQudGFncy5tYXAodGFnID0+IGt2LnNldChgbWVtb3J5OmJ5LXRhZzoke3RhZ306JHtpZH1gLCB7IGlkIH0pKSwKICBdKTsKICAKICAvLyA2LiBBdWRpdAogIHJlY29yZEF1ZGl0KHsgb3BlcmF0aW9uOiAicmVtZW1iZXIiLCBpZCwgZmluZ2VycHJpbnQgfSk7CiAgCiAgcmV0dXJuIHsgaWQsIGZpbmdlcnByaW50LCBkZWR1cGxpY2F0ZWQ6IGZhbHNlIH07Cn0KYGBgCgojIyMgRmluZ2VycHJpbnQg566X5rOVCgpgYGB0eXBlc2NyaXB0Ci8vIHV0aWxzL2ZpbmdlcnByaW50LnRzCmZ1bmN0aW9uIGZpbmdlcnByaW50SWQoY29udGVudDogc3RyaW5nKTogc3RyaW5nIHsKICAvLyBub3JtYWxpemU6IHRyaW0gKyBsb3dlcmNhc2UgKyBjb2xsYXBzZSB3aGl0ZXNwYWNlCiAgY29uc3Qgbm9ybWFsaXplZCA9IGNvbnRlbnQudHJpbSgpLnRvTG93ZXJDYXNlKCkucmVwbGFjZSgvXHMrL2csICIgIik7CiAgLy8gc2hhMjU2ICsgYmFzZTMyICjnn60pCiAgcmV0dXJuIHNoYTI1Nihub3JtYWxpemVkKS5zbGljZSgwLCAxNik7Cn0KYGBgCgojIyBTZWFyY2gKCiMjIyBNQ1Ag5bel5YW3CgpgYGAKbWVtb3J5X3NlYXJjaChxdWVyeSwgc2NvcGU/LCB0YWdzPywgbGltaXQ/LCBtb2RlPykKICBtb2RlOiAiaHlicmlkIiB8ICJibTI1IiB8ICJ2ZWN0b3IiIHwgImdyYXBoIgpgYGAKCiMjIyBIeWJyaWQgU2VhcmNoIOaetuaehAoKYGBgdHlwZXNjcmlwdAovLyBzcmMvZnVuY3Rpb25zL3NlYXJjaC50cyAoMzMgc3ltYm9scykKYXN5bmMgZnVuY3Rpb24gc2VhcmNoKGlucHV0KSB7CiAgY29uc3QgbW9kZSA9IGlucHV0Lm1vZGUgfHwgImh5YnJpZCI7CiAgY29uc3QgbGltaXQgPSBpbnB1dC5saW1pdCB8fCAxMDsKICAKICBpZiAobW9kZSA9PT0gImh5YnJpZCIpIHsKICAgIC8vIFRocmVlLXdheSBwYXJhbGxlbAogICAgY29uc3QgW2JtMjUsIHZlYywgZ3JhcGhdID0gYXdhaXQgUHJvbWlzZS5hbGwoWwogICAgICBibTI1U2VhcmNoKGlucHV0KSwKICAgICAgdmVjdG9yU2VhcmNoKGlucHV0KSwKICAgICAgZ3JhcGhSZXRyaWV2YWwoaW5wdXQpLAogICAgXSk7CiAgICAKICAgIC8vIE1lcmdlIHdpdGggcmVjaXByb2NhbCByYW5rIGZ1c2lvbgogICAgY29uc3QgbWVyZ2VkID0gcmVjaXByb2NhbFJhbmtGdXNpb24oWwogICAgICBibTI1LnJlc3VsdHMsIHZlYy5yZXN1bHRzLCBncmFwaC5yZXN1bHRzCiAgICBdKTsKICAgIAogICAgcmV0dXJuIHsgcmVzdWx0czogbWVyZ2VkLnNsaWNlKDAsIGxpbWl0KSwgbW9kZTogImh5YnJpZCIgfTsKICB9CiAgCiAgaWYgKG1vZGUgPT09ICJibTI1IikgcmV0dXJuIGJtMjVTZWFyY2goaW5wdXQpOwogIGlmIChtb2RlID09PSAidmVjdG9yIikgcmV0dXJuIHZlY3RvclNlYXJjaChpbnB1dCk7CiAgaWYgKG1vZGUgPT09ICJncmFwaCIpIHJldHVybiBncmFwaFJldHJpZXZhbChpbnB1dCk7Cn0KYGBgCgojIyMg5LiJ6Lev5Y+s5Zue6K+m6KejCgojIyMjIDEuIEJNMjUKCmBgYHR5cGVzY3JpcHQKYXN5bmMgZnVuY3Rpb24gYm0yNVNlYXJjaChpbnB1dCkgewogIC8vIHRva2VuaXplIHF1ZXJ5CiAgY29uc3QgdGVybXMgPSB0b2tlbml6ZShpbnB1dC5xdWVyeSk7CiAgCiAgLy8gU1FMaXRlIEZUUzUgc2VhcmNoCiAgY29uc3QgcmVzdWx0cyA9IGF3YWl0IHNxbC5hbGwoYAogICAgU0VMRUNUIG1lbW9yeV9pZCwgcmFuawogICAgRlJPTSBtZW1vcnlfZnRzCiAgICBXSEVSRSBtZW1vcnlfZnRzIE1BVENIID8KICAgIE9SREVSIEJZIHJhbmsKICAgIExJTUlUIDUwCiAgYCwgdGVybXMuam9pbigiICIpKTsKICAKICAvLyBGaWx0ZXIgYnkgc2NvcGUvdGFncwogIHJldHVybiByZXN1bHRzLmZpbHRlcihyID0+IHsKICAgIGNvbnN0IGVudHJ5ID0ga3YuZ2V0KGBtZW1vcnk6JHtyLm1lbW9yeV9pZH1gKTsKICAgIHJldHVybiBtYXRjaFNjb3BlKGVudHJ5LCBpbnB1dC5zY29wZSkgJiYgbWF0Y2hUYWdzKGVudHJ5LCBpbnB1dC50YWdzKTsKICB9KTsKfQpgYGAKCiMjIyMgMi4gVmVjdG9yIFNlYXJjaAoKYGBgdHlwZXNjcmlwdAphc3luYyBmdW5jdGlvbiB2ZWN0b3JTZWFyY2goaW5wdXQpIHsKICAvLyBlbWJlZCBxdWVyeQogIGNvbnN0IHF1ZXJ5VmVjID0gYXdhaXQgZW1iZWQoaW5wdXQucXVlcnkpOwogIAogIC8vIHNxbGl0ZS12c3Mgc2VhcmNoCiAgY29uc3QgcmVzdWx0cyA9IGF3YWl0IHNxbC5hbGwoYAogICAgU0VMRUNUIG1lbW9yeV9pZCwgZGlzdGFuY2UKICAgIEZST00gbWVtb3J5X3ZlY3RvcnMKICAgIFdIRVJFIHZzc19zZWFyY2goZW1iZWRkaW5nLCA/KQogICAgTElNSVQgNTAKICBgLCBKU09OLnN0cmluZ2lmeShxdWVyeVZlYykpOwogIAogIHJldHVybiByZXN1bHRzOwp9CmBgYAoKIyMjIyAzLiBHcmFwaCBSZXRyaWV2YWwKCmBgYHR5cGVzY3JpcHQKYXN5bmMgZnVuY3Rpb24gZ3JhcGhSZXRyaWV2YWwoaW5wdXQpIHsKICAvLyAxLiBGaW5kIHNlZWQgbm9kZXMgZnJvbSBxdWVyeQogIGNvbnN0IHNlZWROb2RlcyA9IGF3YWl0IGZpbmROb2Rlc0J5UXVlcnkoaW5wdXQucXVlcnksIDUpOwogIAogIC8vIDIuIEJGUyBmcm9tIHNlZWRzCiAgY29uc3QgdmlzaXRlZCA9IG5ldyBTZXQoKTsKICBjb25zdCBxdWV1ZSA9IFsuLi5zZWVkTm9kZXNdOwogIGNvbnN0IHJlc3VsdHMgPSBbXTsKICAKICB3aGlsZSAocXVldWUubGVuZ3RoID4gMCkgewogICAgY29uc3Qgbm9kZSA9IHF1ZXVlLnNoaWZ0KCk7CiAgICBpZiAodmlzaXRlZC5oYXMobm9kZS5pZCkpIGNvbnRpbnVlOwogICAgdmlzaXRlZC5hZGQobm9kZS5pZCk7CiAgICAKICAgIC8vIEFkZCBub2RlJ3Mgc291cmNlIG1lbW9yaWVzCiAgICByZXN1bHRzLnB1c2goLi4ubm9kZS5tZW1vcnlJZHMubWFwKGlkID0+ICh7CiAgICAgIG1lbW9yeUlkOiBpZCwKICAgICAgdmlhTm9kZTogbm9kZS5pZCwKICAgICAgZGlzdGFuY2U6IGJmc0Rpc3QsCiAgICB9KSkpOwogICAgCiAgICAvLyBFeHBhbmQgdG8gbmVpZ2hib3JzCiAgICBjb25zdCBlZGdlcyA9IGF3YWl0IGt2Lmxpc3QoeyBwcmVmaXg6IGBncmFwaDplZGdlOmAsIGZpbHRlcjogZSA9PiBlLnNvdXJjZSA9PT0gbm9kZS5pZCB8fCBlLnRhcmdldCA9PT0gbm9kZS5pZCB9KTsKICAgIGZvciAoY29uc3QgZWRnZSBvZiBlZGdlcykgewogICAgICBjb25zdCBuZXh0ID0gZWRnZS5zb3VyY2UgPT09IG5vZGUuaWQgPyBlZGdlLnRhcmdldCA6IGVkZ2Uuc291cmNlOwogICAgICBxdWV1ZS5wdXNoKHsgaWQ6IG5leHQgfSk7CiAgICB9CiAgfQogIAogIHJldHVybiByZXN1bHRzOwp9CmBgYAoKIyMjIFJlY2lwcm9jYWwgUmFuayBGdXNpb24gKFJSRikKCmBgYHR5cGVzY3JpcHQKZnVuY3Rpb24gcmVjaXByb2NhbFJhbmtGdXNpb24ocmFua2luZ3M6IFNlYXJjaFJlc3VsdFtdW10sIGsgPSA2MCk6IFNlYXJjaFJlc3VsdFtdIHsKICBjb25zdCBzY29yZXMgPSBuZXcgTWFwPHN0cmluZywgbnVtYmVyPigpOwogIAogIGZvciAoY29uc3QgcmFua2luZyBvZiByYW5raW5ncykgewogICAgcmFua2luZy5mb3JFYWNoKChyZXN1bHQsIGlkeCkgPT4gewogICAgICBjb25zdCBpZCA9IHJlc3VsdC5tZW1vcnlJZDsKICAgICAgY29uc3QgcnJmU2NvcmUgPSAxIC8gKGsgKyBpZHggKyAxKTsKICAgICAgc2NvcmVzLnNldChpZCwgKHNjb3Jlcy5nZXQoaWQpIHx8IDApICsgcnJmU2NvcmUpOwogICAgfSk7CiAgfQogIAogIHJldHVybiBBcnJheS5mcm9tKHNjb3Jlcy5lbnRyaWVzKCkpCiAgICAuc29ydCgoYSwgYikgPT4gYlsxXSAtIGFbMV0pCiAgICAubWFwKChbaWQsIHNjb3JlXSkgPT4gKHsgbWVtb3J5SWQ6IGlkLCBycmZTY29yZTogc2NvcmUgfSkpOwp9CmBgYAoKIyMgU21hcnQgU2VhcmNo77yIUXVlcnkgRXhwYW5zaW9u77yJCgpgYGB0eXBlc2NyaXB0Ci8vIHNyYy9mdW5jdGlvbnMvc21hcnQtc2VhcmNoLnRzCmFzeW5jIGZ1bmN0aW9uIHNtYXJ0U2VhcmNoKGlucHV0KSB7CiAgLy8gMS4gRXhwYW5kIHF1ZXJ5CiAgY29uc3QgZXhwYW5kZWQgPSBhd2FpdCBxdWVyeUV4cGFuc2lvbihpbnB1dC5xdWVyeSk7CiAgLy8gZXhwYW5kZWQ6ICJqYXZhc2NyaXB0IGFzeW5jIiDihpIgWyJqYXZhc2NyaXB0IGFzeW5jIiwgImpzIGFzeW5jIiwgImFzeW5jaHJvbm91cyBqYXZhc2NyaXB0Il0KICAKICAvLyAyLiBTZWFyY2ggZWFjaCB2YXJpYW50IGluIHBhcmFsbGVsCiAgY29uc3QgYWxsUmVzdWx0cyA9IGF3YWl0IFByb21pc2UuYWxsKAogICAgZXhwYW5kZWQubWFwKHEgPT4gc2VhcmNoKHsgLi4uaW5wdXQsIHF1ZXJ5OiBxIH0pKQogICk7CiAgCiAgLy8gMy4gRGVkdXBlICsgcmVyYW5rCiAgY29uc3QgbWVyZ2VkID0gZGVkdXBlKGFsbFJlc3VsdHMuZmxhdCgpKTsKICBjb25zdCByZXJhbmtlZCA9IGF3YWl0IHJlcmFuayhtZXJnZWQsIGlucHV0LnF1ZXJ5KTsKICAKICByZXR1cm4gcmVyYW5rZWQ7Cn0KYGBgCgojIyBUZW1wb3JhbCBHcmFwaAoK5pe26Ze057u05bqm55qE5Zu+5p+l6K+i77yIIui/h+WOuyAxIOWRqOWGhSLvvInvvJoKCmBgYHR5cGVzY3JpcHQKYXN5bmMgZnVuY3Rpb24gdGVtcG9yYWxHcmFwaFNlYXJjaChpbnB1dCkgewogIGNvbnN0IHsgcXVlcnksIHRpbWVSYW5nZSB9ID0gaW5wdXQ7CiAgLy8gZS5nLiB0aW1lUmFuZ2U6IHsgc3RhcnQ6ICIuLi4iLCBlbmQ6ICIuLi4iIH0KICAKICAvLyAxLiDlnKjml7bpl7Tnqpflj6PlhoUgc2VhcmNoCiAgY29uc3QgdGltZUZpbHRlcmVkID0gYXdhaXQgc2VhcmNoKHsKICAgIC4uLmlucHV0LAogICAgdGltZVJhbmdlLCAgLy8g5Yqg5pe26Ze06L+H5rukCiAgfSk7CiAgCiAgLy8gMi4g55SoIHNlYXJjaCDnu5PmnpzkvZzkuLogZ3JhcGggc2VlZAogIGNvbnN0IHNlZWROb2RlcyA9IHRpbWVGaWx0ZXJlZC5tYXAociA9PiByLm1lbW9yeUlkKTsKICBjb25zdCBncmFwaCA9IGF3YWl0IGdyYXBoUmV0cmlldmFsKHsgLi4uaW5wdXQsIHNlZWRzOiBzZWVkTm9kZXMgfSk7CiAgCiAgcmV0dXJuIHsgdGltZUZpbHRlcmVkLCBncmFwaCB9Owp9CmBgYAoKIyMgVmlzaW9uIFNlYXJjaAoKYGBgdHlwZXNjcmlwdAovLyBzcmMvZnVuY3Rpb25zL3Zpc2lvbi1zZWFyY2gudHMKYXN5bmMgZnVuY3Rpb24gdmlzaW9uU2VhcmNoKGlucHV0KSB7CiAgLy8g6L6T5YWlOiDlm77niYcgKGJhc2U2NCBvciBwYXRoKQogIC8vIDEuIENMSVAtc3R5bGUgZW1iZWQKICBjb25zdCBpbWdFbWJlZGRpbmcgPSBhd2FpdCB2aXNpb25FbWJlZChpbnB1dC5pbWFnZSk7CiAgCiAgLy8gMi4g5om+5pyA6L+R5Zu+54mHIG1lbW9yeQogIGNvbnN0IHNpbWlsYXIgPSBhd2FpdCBzcWwuYWxsKGAKICAgIFNFTEVDVCBtZW1vcnlfaWQsIGRpc3RhbmNlCiAgICBGUk9NIGltYWdlX3ZlY3RvcnMKICAgIFdIRVJFIHZzc19zZWFyY2goZW1iZWRkaW5nLCA/KQogICAgTElNSVQgMTAKICBgLCBKU09OLnN0cmluZ2lmeShpbWdFbWJlZGRpbmcpKTsKICAKICAvLyAzLiDlj6/pgIk6IGNhcHRpb24tYmFzZWQgc2VhcmNoCiAgY29uc3QgY2FwdGlvbk1hdGNoID0gYXdhaXQgc2VhcmNoKHsKICAgIHF1ZXJ5OiBpbnB1dC5jYXB0aW9uIHx8ICIiLAogICAgdGFnczogWyJpbWFnZSJdLAogIH0pOwogIAogIHJldHVybiB7IHZpc3VhbDogc2ltaWxhciwgY2FwdGlvbjogY2FwdGlvbk1hdGNoIH07Cn0KYGBgCgojIyDmgKfog73nibnlvoEKCnwgTW9kZSB8IDEwMCBtZW1vcmllcyB8IDFrIG1lbW9yaWVzIHwgMTBrIG1lbW9yaWVzIHwKfC0tLS0tLXwtLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tfAp8IEJNMjUgfCB+NW1zIHwgfjIwbXMgfCB+ODBtcyB8CnwgVmVjdG9yIHwgfjEwbXMgfCB+MzBtcyB8IH4xMDBtcyB8CnwgR3JhcGggKGRlcHRoIDIpIHwgfjE1bXMgfCB+NTBtcyB8IH4yMDBtcyB8CnwgSHlicmlkIChSUkYpIHwgfjMwbXMgfCB+MTAwbXMgfCB+NDAwbXMgfAoKIyMg5bey55+l57qm5p2fCgotIEJNMjUg5a+55Lit5paH5LiN5Y+L5aW977yI5b6FIHRva2VuaXplciDlop7lvLrvvIkKLSBWZWN0b3Igc2VhcmNoIOmcgOimgSBlbWJlZCDmqKHlnovvvJvpu5jorqQgb2ZmbGluZQotIEdyYXBoIHJldHJpZXZhbCDlnKjlpKflm77vvIg+MTBrIOiKgueCue+8ieS8muWPmOaFogotIFNtYXJ0IHNlYXJjaCDnmoQgcXVlcnkgZXhwYW5zaW9uIOS+nei1liBMTE0K
+# Remember / Search
+
+> agentmemory 核心：remember 入库 + search 检索
+
+## Remember
+
+### MCP 工具
+
+```
+memory_remember(scope, content, tags?, confidence?, metadata?, related?)
+```
+
+### 内部流程
+
+```typescript
+// src/functions/remember.ts
+async function remember(input) {
+  // 1. Validate
+  if (!input.content || !input.scope) throw new Error("required");
+  
+  // 2. Fingerprint
+  const fingerprint = fingerprintId(input.content);
+  
+  // 3. Dedup check
+  const existing = await kv.get(`memory:fingerprint:${fingerprint}`);
+  if (existing) {
+    // 提升 confidence 而非新增
+    await kv.update(`memory:${existing.id}`, m => ({
+      ...m,
+      confidence: Math.min(1, m.confidence + 0.1),
+      accessCount: m.accessCount + 1,
+    }));
+    return { id: existing.id, deduplicated: true };
+  }
+  
+  // 4. Create new
+  const id = generateId();
+  const entry = {
+    id,
+    fingerprint,
+    content: input.content,
+    confidence: input.confidence ?? 1.0,
+    lifecycle: "active",
+    tags: input.tags || [],
+    scope: input.scope,
+    metadata: input.metadata || {},
+    createdAt: new Date().toISOString(),
+    lastAccessedAt: new Date().toISOString(),
+    accessCount: 0,
+    relatedIds: input.related || [],
+  };
+  
+  // 5. Persist (parallel)
+  await Promise.all([
+    kv.set(`memory:${id}`, entry),
+    kv.set(`memory:fingerprint:${fingerprint}`, { id }),
+    kv.set(`memory:by-scope:${input.scope}:${id}`, { id }),
+    ...input.tags.map(tag => kv.set(`memory:by-tag:${tag}:${id}`, { id })),
+  ]);
+  
+  // 6. Audit
+  recordAudit({ operation: "remember", id, fingerprint });
+  
+  return { id, fingerprint, deduplicated: false };
+}
+```
+
+### Fingerprint 算法
+
+```typescript
+// utils/fingerprint.ts
+function fingerprintId(content: string): string {
+  // normalize: trim + lowercase + collapse whitespace
+  const normalized = content.trim().toLowerCase().replace(/\s+/g, " ");
+  // sha256 + base32 (短)
+  return sha256(normalized).slice(0, 16);
+}
+```
+
+## Search
+
+### MCP 工具
+
+```
+memory_search(query, scope?, tags?, limit?, mode?)
+  mode: "hybrid" | "bm25" | "vector" | "graph"
+```
+
+### Hybrid Search 架构
+
+```typescript
+// src/functions/search.ts (33 symbols)
+async function search(input) {
+  const mode = input.mode || "hybrid";
+  const limit = input.limit || 10;
+  
+  if (mode === "hybrid") {
+    // Three-way parallel
+    const [bm25, vec, graph] = await Promise.all([
+      bm25Search(input),
+      vectorSearch(input),
+      graphRetrieval(input),
+    ]);
+    
+    // Merge with reciprocal rank fusion
+    const merged = reciprocalRankFusion([
+      bm25.results, vec.results, graph.results
+    ]);
+    
+    return { results: merged.slice(0, limit), mode: "hybrid" };
+  }
+  
+  if (mode === "bm25") return bm25Search(input);
+  if (mode === "vector") return vectorSearch(input);
+  if (mode === "graph") return graphRetrieval(input);
+}
+```
+
+### 三路召回详解
+
+#### 1. BM25
+
+```typescript
+async function bm25Search(input) {
+  // tokenize query
+  const terms = tokenize(input.query);
+  
+  // SQLite FTS5 search
+  const results = await sql.all(`
+    SELECT memory_id, rank
+    FROM memory_fts
+    WHERE memory_fts MATCH ?
+    ORDER BY rank
+    LIMIT 50
+  `, terms.join(" "));
+  
+  // Filter by scope/tags
+  return results.filter(r => {
+    const entry = kv.get(`memory:${r.memory_id}`);
+    return matchScope(entry, input.scope) && matchTags(entry, input.tags);
+  });
+}
+```
+
+#### 2. Vector Search
+
+```typescript
+async function vectorSearch(input) {
+  // embed query
+  const queryVec = await embed(input.query);
+  
+  // sqlite-vss search
+  const results = await sql.all(`
+    SELECT memory_id, distance
+    FROM memory_vectors
+    WHERE vss_search(embedding, ?)
+    LIMIT 50
+  `, JSON.stringify(queryVec));
+  
+  return results;
+}
+```
+
+#### 3. Graph Retrieval
+
+```typescript
+async function graphRetrieval(input) {
+  // 1. Find seed nodes from query
+  const seedNodes = await findNodesByQuery(input.query, 5);
+  
+  // 2. BFS from seeds
+  const visited = new Set();
+  const queue = [...seedNodes];
+  const results = [];
+  
+  while (queue.length > 0) {
+    const node = queue.shift();
+    if (visited.has(node.id)) continue;
+    visited.add(node.id);
+    
+    // Add node's source memories
+    results.push(...node.memoryIds.map(id => ({
+      memoryId: id,
+      viaNode: node.id,
+      distance: bfsDist,
+    })));
+    
+    // Expand to neighbors
+    const edges = await kv.list({ prefix: `graph:edge:`, filter: e => e.source === node.id || e.target === node.id });
+    for (const edge of edges) {
+      const next = edge.source === node.id ? edge.target : edge.source;
+      queue.push({ id: next });
+    }
+  }
+  
+  return results;
+}
+```
+
+### Reciprocal Rank Fusion (RRF)
+
+```typescript
+function reciprocalRankFusion(rankings: SearchResult[][], k = 60): SearchResult[] {
+  const scores = new Map<string, number>();
+  
+  for (const ranking of rankings) {
+    ranking.forEach((result, idx) => {
+      const id = result.memoryId;
+      const rrfScore = 1 / (k + idx + 1);
+      scores.set(id, (scores.get(id) || 0) + rrfScore);
+    });
+  }
+  
+  return Array.from(scores.entries())
+    .sort((a, b) => b[1] - a[1])
+    .map(([id, score]) => ({ memoryId: id, rrfScore: score }));
+}
+```
+
+## Smart Search（Query Expansion）
+
+```typescript
+// src/functions/smart-search.ts
+async function smartSearch(input) {
+  // 1. Expand query
+  const expanded = await queryExpansion(input.query);
+  // expanded: "javascript async" → ["javascript async", "js async", "asynchronous javascript"]
+  
+  // 2. Search each variant in parallel
+  const allResults = await Promise.all(
+    expanded.map(q => search({ ...input, query: q }))
+  );
+  
+  // 3. Dedupe + rerank
+  const merged = dedupe(allResults.flat());
+  const reranked = await rerank(merged, input.query);
+  
+  return reranked;
+}
+```
+
+## Temporal Graph
+
+时间维度的图查询（"过去 1 周内"）：
+
+```typescript
+async function temporalGraphSearch(input) {
+  const { query, timeRange } = input;
+  // e.g. timeRange: { start: "...", end: "..." }
+  
+  // 1. 在时间窗口内 search
+  const timeFiltered = await search({
+    ...input,
+    timeRange,  // 加时间过滤
+  });
+  
+  // 2. 用 search 结果作为 graph seed
+  const seedNodes = timeFiltered.map(r => r.memoryId);
+  const graph = await graphRetrieval({ ...input, seeds: seedNodes });
+  
+  return { timeFiltered, graph };
+}
+```
+
+## Vision Search
+
+```typescript
+// src/functions/vision-search.ts
+async function visionSearch(input) {
+  // 输入: 图片 (base64 or path)
+  // 1. CLIP-style embed
+  const imgEmbedding = await visionEmbed(input.image);
+  
+  // 2. 找最近图片 memory
+  const similar = await sql.all(`
+    SELECT memory_id, distance
+    FROM image_vectors
+    WHERE vss_search(embedding, ?)
+    LIMIT 10
+  `, JSON.stringify(imgEmbedding));
+  
+  // 3. 可选: caption-based search
+  const captionMatch = await search({
+    query: input.caption || "",
+    tags: ["image"],
+  });
+  
+  return { visual: similar, caption: captionMatch };
+}
+```
+
+## 性能特征
+
+| Mode | 100 memories | 1k memories | 10k memories |
+|------|--------------|-------------|--------------|
+| BM25 | ~5ms | ~20ms | ~80ms |
+| Vector | ~10ms | ~30ms | ~100ms |
+| Graph (depth 2) | ~15ms | ~50ms | ~200ms |
+| Hybrid (RRF) | ~30ms | ~100ms | ~400ms |
+
+## 已知约束
+
+- BM25 对中文不友好（待 tokenizer 增强）
+- Vector search 需要 embed 模型；默认 offline
+- Graph retrieval 在大图（>10k 节点）会变慢
+- Smart search 的 query expansion 依赖 LLM

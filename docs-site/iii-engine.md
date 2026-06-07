@@ -1,1 +1,129 @@
-IyBpaWktZW5naW5lCgo+IGFnZW50bWVtb3J5IOeahOi/kOihjOaXtuW6leW6pwoKIyMgaWlpLWVuZ2luZSDmmK/ku4DkuYgKCltpaWktaHEvaWlpXShodHRwczovL2dpdGh1Yi5jb20vaWlpLWhxL2lpaSkg5piv5LiA5LiqICoqZXZlbnQtZHJpdmVuIGFwcGxpY2F0aW9uIHJ1bnRpbWUqKu+8jOaKiuW6lOeUqOaKveixoeaIkOS4ieS4quWOn+ivre+8mgoKfCDljp/or60gfCDop5LoibIgfAp8LS0tLS0tfC0tLS0tLXwKfCAqKldvcmtlcioqIHwg5ZCO5Y+w5omn6KGM5Y2V5YWD77yIYWdlbnRtZW1vcnkg5LiN55u05o6l55So77yM55SxIGlpaSDoh6rouqvnrqHnkIbvvIkgfAp8ICoqRnVuY3Rpb24qKiB8IOazqOWGjOW8jyBSUEPvvIxhZ2VudG1lbW9yeSDms6jlhowgNTArIGlpaSBmdW5jdGlvbnMgfAp8ICoqVHJpZ2dlcioqIHwg5LqL5Lu26Kem5Y+R5Zmo77yIaHR0cCAvIGNyb24gLyBtY3DvvIkgfAoKIyMg6YCa5L+hCgpgYGAKYWdlbnRtZW1vcnkgIOKUgOKUgOKUgOKUgCBXZWJTb2NrZXQgKHBvcnQgNDkxMzQpIOKUgOKUgOKUgOKUgOKWuiAgaWlpLWVuZ2luZQogICAgICAgICAgICDil4TilIDilIDilIDilIAgIChldmVudHMsIGZ1bmN0aW9uIHJlc3VsdHMpIOKUgOKUgOKUgOKUgApgYGAKCiMjIGFnZW50bWVtb3J5IOWcqCBpaWkg5LiK5YGa5LuA5LmICgojIyMgMS4gRnVuY3Rpb24g5rOo5YaMCgpgYGB0eXBlc2NyaXB0Ci8vIHNyYy9pbmRleC50cyDpobblsYIKaW1wb3J0IHsgaW5pdCB9IGZyb20gImlpaS1zZGsiOwoKY29uc3Qgc2RrID0gYXdhaXQgaW5pdCh7IHVybDogIndzOi8vbG9jYWxob3N0OjQ5MTM0IiB9KTsKCi8vIOazqOWGjCA1MCsgZnVuY3Rpb25zCnNkay5yZWdpc3RlckZ1bmN0aW9uKCJtZW06OnJlbWVtYmVyIiwgYXN5bmMgKGRhdGEpID0+IHsgLi4uIH0pOwpzZGsucmVnaXN0ZXJGdW5jdGlvbigibWVtOjpzZWFyY2giLCBhc3luYyAoZGF0YSkgPT4geyAuLi4gfSk7CnNkay5yZWdpc3RlckZ1bmN0aW9uKCJtZW06OmNyeXN0YWxsaXplIiwgYXN5bmMgKGRhdGEpID0+IHsgLi4uIH0pOwovLyAuLi4gNTArIG1vcmUKYGBgCgojIyMgMi4gVHJpZ2dlciDms6jlhowKCmBgYHR5cGVzY3JpcHQKLy8gc3JjL3RyaWdnZXJzL2FwaS50cwpzZGsucmVnaXN0ZXJUcmlnZ2VyKHsKICB0eXBlOiAiaHR0cCIsCiAgZnVuY3Rpb25faWQ6ICJhcGk6OnJlbWVtYmVyIiwKICBjb25maWc6IHsgYXBpX3BhdGg6ICIvYWdlbnRtZW1vcnkvcmVtZW1iZXIiLCBodHRwX21ldGhvZDogIlBPU1QiIH0sCn0pOwovLyAuLi4gMTI4IGVuZHBvaW50cwpgYGAKCiMjIyAzLiDot6ggZnVuY3Rpb24g6LCD55SoCgpgYGB0eXBlc2NyaXB0Ci8vIOWcqCBmdW5jdGlvbiBBIOS4reiwgyBmdW5jdGlvbiBCCmNvbnN0IHJlc3VsdCA9IGF3YWl0IHNkay50cmlnZ2VyKHsKICBmdW5jdGlvbl9pZDogIm1lbTo6c2VhcmNoIiwKICBwYXlsb2FkOiB7IHF1ZXJ5OiBkYXRhLnF1ZXJ5IH0sCn0pOwpgYGAKCiMjIFN0YXRlTW9kdWxl77yI5oyB5LmF5YyW77yJCgppaWktZW5naW5lIOaPkOS+myBgU3RhdGVNb2R1bGVgID0gS1YgKyBTUUxpdGUg5Y+M5bGC44CCCgphZ2VudG1lbW9yeSDnlKjnmoQgS1Ygc2NvcGVz77yI5p2l6IeqIGBzcmMvc3RhdGUvc2NoZW1hLnRzYO+8ie+8mgoKfCBTY29wZSDliY3nvIAgfCDnlKjpgJQgfAp8LS0tLS0tLS0tLS18LS0tLS0tfAp8IGBtZW1vcnk6e2lkfWAgfCDljZXmnaHorrDlv4YgfAp8IGBtZW1vcnk6ZmluZ2VycHJpbnQ6e2ZwfWAgfCBmaW5nZXJwcmludCDihpIgaWQg57Si5byV77yIZGVkdXDvvIkgfAp8IGBsZXNzb246e2lkfWAgfCBjcnlzdGFsbGl6ZSDovpPlh7rnmoQgbGVzc29ucyB8CnwgYHNraWxsOntpZH1gIHwg5LuO6K6w5b+G5o+Q5Y+W55qEIHNraWxsIHwKfCBgcGF0dGVybjp7aWR9YCB8IOaooeW8jyB8CnwgYGdyYXBoOm5vZGU6e2lkfWAgfCDnn6Xor4blm77osLHoioLngrkgfAp8IGBncmFwaDplZGdlOntpZH1gIHwg55+l6K+G5Zu+6LCx6L65IHwKfCBgYXVkaXQ6e2lkfWAgfCDlrqHorqHml6Xlv5cgfAp8IGB0ZW1wb3JhbDp7dHN9OntpZH1gIHwg5pe25bqP5pWw5o2uIHwKCiMjIOS4uuS7gOS5iOW8uuWItui1sCBpaWkKCuadpeiHqiBBR0VOVFMubWTvvJoKPiAqKkV2ZXJ5dGhpbmcgZ29lcyB0aHJvdWdoIGByZWdpc3RlckZ1bmN0aW9uYC9gcmVnaXN0ZXJUcmlnZ2VyYC9gc2RrLnRyaWdnZXIoKWAg4oCUIG5ldmVyIGJ5cGFzcyBpaWktZW5naW5lIHdpdGggc3RhbmRhbG9uZSBTUUxpdGUgb3IgaW4tcHJvY2VzcyBhbHRlcm5hdGl2ZXMuKioKCueQhueUse+8mgoxLiAqKue7n+S4gOWuoeiuoSoqIOKAlCDmiYDmnInosIPnlKjpg73nu48gaWlpLXNka++8jOWPr+i/vei4qgoyLiAqKui3qCBmdW5jdGlvbiDog73lipsqKiDigJQgc2VhcmNoKCkg5ZyoIGZ1bmN0aW9uIEEg5Lit5Y+v6LCDIGNyeXN0YWxsaXplKCkKMy4gKirnlJ/lkb3lkajmnJ8qKiDigJQgaWlpLWVuZ2luZSDlpITnkIYgZ3JhY2VmdWwgc2h1dGRvd24gLyByZXN0YXJ0IC8gaG90LXJlbG9hZAo0LiAqKuWPr+ingua1i+aApyoqIOKAlCBpaWktZW5naW5lIOiHquW4piB0ZWxlbWV0cnkgLyByZXBsYXkKNS4gKirpgb/lhY3noLTlnY8gaXNvbGF0aW9uKiog4oCUIOebtOaOpSBzcWxpdGUg5aSa6L+b56iL5bm25Y+R5a655piT6Lip6ZSBCgojIyBhZ2VudG1lbW9yeSDkuI3nlKggaWlpIOeahOS4pOenjeWcuuaZrwoKfCDlnLrmma8gfCDmm7/ku6MgfAp8LS0tLS0tfC0tLS0tLXwKfCAqKk1DUCBzdGFuZGFsb25lIOaooeW8jyoqIHwgYHNyYy9tY3Avc3RhbmRhbG9uZS50c2Ag4oCUIOebtOaOpei1tyBNQ1Agc2VydmVy77yM5LiN6L+eIGlpaSB8CnwgKipIb29rIOiEmuacrCoqIHwgYHBsdWdpbi9zY3JpcHRzLyoubWpzYCDigJQg6YCa6L+HIFJFU1QgQVBJIOiwg+eUqO+8iGlpaSDoh6rliqjlpITnkIbvvIkgfAoKIyMgaWlpLWVuZ2luZSDlkK/liqgKCmBgYGJhc2gKIyDlvIDlj5EKaWlpIGRldgoKIyBEb2NrZXIKZG9ja2VyLWNvbXBvc2UgdXAgaWlpCgojIOmFjee9rgppaWktY29uZmlnLmRvY2tlci55YW1sCmBgYAoKIyMgYWdlbnRtZW1vcnkg5ZCv5YqoCgpgYGBiYXNoCiMgMS4gaWlpIOWFiOi1twppaWkgZGV2ICYKCiMgMi4gYWdlbnRtZW1vcnkg5ZCv5Yqo77yI6L+eIGlpae+8iQpucHggYWdlbnRtZW1vcnkKCiMg5oiW6ICFIHN0YW5kYWxvbmXvvIhNQ1Agb25see+8iQpucHggYWdlbnRtZW1vcnkgbWNwIC0tc3RhbmRhbG9uZQpgYGAKCiMjIOiwg+ivlQoKLSBgcmVwbGF5L2Ag4oCUIOS6i+S7tuWbnuaUvu+8iGlpaS1lbmdpbmUg6Ieq5bim77yJCi0gYHRlbGVtZXRyeS9gIOKAlCBhZ2VudG1lbW9yeSDoh6rluKbpgaXmtYsKLSBgaWlpLWVuZ2luZWAg5o+Q5L6bIFdlYiBVSSDnm5HmjqcgZnVuY3Rpb24g6LCD55SoCi0gYHZpZXdlci9gIOKAlCBhZ2VudG1lbW9yeSDosIPor5Ugdmlld2Vy77yI5Luj56CB6YeM5pyJ77yM5b6F56Gu6K6k77yJCg==
+# iii-engine
+
+> agentmemory 的运行时底座
+
+## iii-engine 是什么
+
+[iii-hq/iii](https://github.com/iii-hq/iii) 是一个 **event-driven application runtime**，把应用抽象成三个原语：
+
+| 原语 | 角色 |
+|------|------|
+| **Worker** | 后台执行单元（agentmemory 不直接用，由 iii 自身管理） |
+| **Function** | 注册式 RPC，agentmemory 注册 50+ iii functions |
+| **Trigger** | 事件触发器（http / cron / mcp） |
+
+## 通信
+
+```
+agentmemory  ──── WebSocket (port 49134) ────►  iii-engine
+            ◄────  (events, function results) ────
+```
+
+## agentmemory 在 iii 上做什么
+
+### 1. Function 注册
+
+```typescript
+// src/index.ts 顶层
+import { init } from "iii-sdk";
+
+const sdk = await init({ url: "ws://localhost:49134" });
+
+// 注册 50+ functions
+sdk.registerFunction("mem::remember", async (data) => { ... });
+sdk.registerFunction("mem::search", async (data) => { ... });
+sdk.registerFunction("mem::crystallize", async (data) => { ... });
+// ... 50+ more
+```
+
+### 2. Trigger 注册
+
+```typescript
+// src/triggers/api.ts
+sdk.registerTrigger({
+  type: "http",
+  function_id: "api::remember",
+  config: { api_path: "/agentmemory/remember", http_method: "POST" },
+});
+// ... 128 endpoints
+```
+
+### 3. 跨 function 调用
+
+```typescript
+// 在 function A 中调 function B
+const result = await sdk.trigger({
+  function_id: "mem::search",
+  payload: { query: data.query },
+});
+```
+
+## StateModule（持久化）
+
+iii-engine 提供 `StateModule` = KV + SQLite 双层。
+
+agentmemory 用的 KV scopes（来自 `src/state/schema.ts`）：
+
+| Scope 前缀 | 用途 |
+|-----------|------|
+| `memory:{id}` | 单条记忆 |
+| `memory:fingerprint:{fp}` | fingerprint → id 索引（dedup） |
+| `lesson:{id}` | crystallize 输出的 lessons |
+| `skill:{id}` | 从记忆提取的 skill |
+| `pattern:{id}` | 模式 |
+| `graph:node:{id}` | 知识图谱节点 |
+| `graph:edge:{id}` | 知识图谱边 |
+| `audit:{id}` | 审计日志 |
+| `temporal:{ts}:{id}` | 时序数据 |
+
+## 为什么强制走 iii
+
+来自 AGENTS.md：
+> **Everything goes through `registerFunction`/`registerTrigger`/`sdk.trigger()` — never bypass iii-engine with standalone SQLite or in-process alternatives.**
+
+理由：
+1. **统一审计** — 所有调用都经 iii-sdk，可追踪
+2. **跨 function 能力** — search() 在 function A 中可调 crystallize()
+3. **生命周期** — iii-engine 处理 graceful shutdown / restart / hot-reload
+4. **可观测性** — iii-engine 自带 telemetry / replay
+5. **避免破坏 isolation** — 直接 sqlite 多进程并发容易踩锁
+
+## agentmemory 不用 iii 的两种场景
+
+| 场景 | 替代 |
+|------|------|
+| **MCP standalone 模式** | `src/mcp/standalone.ts` — 直接起 MCP server，不连 iii |
+| **Hook 脚本** | `plugin/scripts/*.mjs` — 通过 REST API 调用（iii 自动处理） |
+
+## iii-engine 启动
+
+```bash
+# 开发
+iii dev
+
+# Docker
+docker-compose up iii
+
+# 配置
+iii-config.docker.yaml
+```
+
+## agentmemory 启动
+
+```bash
+# 1. iii 先起
+iii dev &
+
+# 2. agentmemory 启动（连 iii）
+npx agentmemory
+
+# 或者 standalone（MCP only）
+npx agentmemory mcp --standalone
+```
+
+## 调试
+
+- `replay/` — 事件回放（iii-engine 自带）
+- `telemetry/` — agentmemory 自带遥测
+- `iii-engine` 提供 Web UI 监控 function 调用
+- `viewer/` — agentmemory 调试 viewer（代码里有，待确认）

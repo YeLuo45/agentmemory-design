@@ -1,1 +1,255 @@
-IyBDb3JlIExheWVyCgo+IGFnZW50bWVtb3J5IOaguOW/g+WunueOsCDigJQgNTArIGlpaSBmdW5jdGlvbnMgLyBNQ1Agc2VydmVyIC8gUkVTVCBBUEkKCiMjIOaooeWdl+e7k+aehAoKYGBgCnNyYy8K4pSc4pSA4pSAIGZ1bmN0aW9ucy8gICAgICAgICAgICAgICAgICMgNTArIGlpaSBmdW5jdGlvbnPvvIjmoLjlv4PkuJrliqHvvIkK4pSCICAg4pSc4pSA4pSAIGFjY2Vzcy10cmFja2VyLnRzICAgICAgMTMg4oCUIOiuv+mXrui/vei4qgrilIIgICDilJzilIDilIAgYWN0aW9ucy50cyAgICAgICAgICAgICAgOSDigJQg5Yqo5L2c6K6w5b2VCuKUgiAgIOKUnOKUgOKUgCBhdWRpdC50cyAgICAgICAgICAgICAgICA4IOKAlCDlrqHorqEK4pSCICAg4pSc4pSA4pSAIGF1dG8tZm9yZ2V0LnRzICAgICAgICAgIDEzIOKAlCDoh6rliqjpgZflv5gK4pSCICAg4pSc4pSA4pSAIGJyYW5jaC1hd2FyZS50cyAgICAgICAgIDkg4oCUIGdpdCBicmFuY2gg5oSf55+lCuKUgiAgIOKUnOKUgOKUgCBjYXNjYWRlLnRzICAgICAgICAgICAgICA3IOKAlCDnuqfogZTliKDpmaQK4pSCICAg4pSc4pSA4pSAIGNoZWNrcG9pbnRzLnRzICAgICAgICAgIDgg4oCUIOW/q+eFpwrilIIgICDilJzilIDilIAgY2xhdWRlLWJyaWRnZS50cyAgICAgICAxMiDigJQgQ2xhdWRlIOmbhuaIkOahpQrilIIgICDilJzilIDilIAgY29tcHJlc3MtZmlsZS50cyAgICAgICAxNyDigJQg5paH5Lu25Y6L57ypCuKUgiAgIOKUnOKUgOKUgCBjb21wcmVzcy1zeW50aGV0aWMudHMgICA3IOKAlCDlkIjmiJDljovnvKkK4pSCICAg4pSc4pSA4pSAIGNvbXByZXNzLnRzICAgICAgICAgICAgMjAg4oCUIOS4u+WOi+e8qQrilIIgICDilJzilIDilIAgY29uc29saWRhdGUudHMgICAgICAgICAxMSDigJQg5pW05ZCICuKUgiAgIOKUnOKUgOKUgCBjb25zb2xpZGF0aW9uLXBpcGVsaW5lLnRzIDExIOKAlCDmlbTlkIggcGlwZWxpbmUK4pSCICAg4pSc4pSA4pSAIGNvbnRleHQudHMgICAgICAgICAgICAgMTEg4oCUIOS4iuS4i+aWh+euoeeQhgrilIIgICDilJzilIDilIAgY3J5c3RhbGxpemUudHMgICAgICAgICAxMCDigJQg6IGa5ZCI5oiQIGxlc3NvbnMK4pSCICAg4pSc4pSA4pSAIGRlZHVwLnRzICAgICAgICAgICAgICAgMTUg4oCUIOWOu+mHjQrilIIgICDilJzilIDilIAgZGlhZ25vc3RpY3MudHMgICAgICAgICAxMSDigJQg6K+K5patCuKUgiAgIOKUnOKUgOKUgCBkaXNrLXNpemUtbWFuYWdlci50cyAgIDEwIOKAlCDno4Hnm5jphY3pop0K4pSCICAg4pSc4pSA4pSAIGVucmljaC50cyAgICAgICAgICAgICAgIDkg4oCUIOWvjOWMlu+8iOa3u+WKoCBjb250ZXh077yJCuKUgiAgIOKUnOKUgOKUgCBldmljdC50cyAgICAgICAgICAgICAgIDE3IOKAlCDmt5jmsbAK4pSCICAg4pSc4pSA4pSAIGV4cG9ydC1pbXBvcnQudHMgICAgICAgMTAg4oCUIOWvvOWFpeWvvOWHugrilIIgICDilJzilIDilIAgZmFjZXRzLnRzICAgICAgICAgICAgICAgNiDigJQg5aSa57u05bqmIGZhY2V0CuKUgiAgIOKUnOKUgOKUgCBmaWxlLWluZGV4LnRzICAgICAgICAgIDEwIOKAlCDmlofku7bntKLlvJUK4pSCICAg4pSc4pSA4pSAIGZsb3ctY29tcHJlc3MudHMgICAgICAgMTMg4oCUIOa1geW8j+WOi+e8qQrilIIgICDilJzilIDilIAgZnJvbnRpZXIudHMgICAgICAgICAgICAgOCDigJQgZnJvbnRpZXIgKGdyYXBoKQrilIIgICDilJzilIDilIAgZ292ZXJuYW5jZS50cyAgICAgICAgICAxMCDigJQg5rK755CGCuKUgiAgIOKUnOKUgOKUgCBncmFwaC1yZXRyaWV2YWwudHMgICAgIDIxIOKAlCDlm77mo4DntKIK4pSCICAg4pSc4pSA4pSAIGdyYXBoLnRzICAgICAgICAgICAgICAgMzAg4oCUIOefpeivhuWbvuiwsQrilIIgICDilJzilIDilIAgaW1hZ2UtcXVvdGEtY2xlYW51cC50cyAxMiDigJQg5Zu+54mH6YWN6aKd5riF55CGCuKUgiAgIOKUnOKUgOKUgCBpbWFnZS1yZWZzLnRzICAgICAgICAgICA5IOKAlCDlm77niYflvJXnlKgK4pSCICAg4pSc4pSA4pSAIGxlYXNlcy50cyAgICAgICAgICAgICAgMTAg4oCUIOenn+e6pu+8iGNvbmN1cnJlbnQgYWNjZXNz77yJCuKUgiAgIOKUnOKUgOKUgCBsZXNzb25zLnRzICAgICAgICAgICAgICA4IOKAlCBsZXNzb25zIChjcnlzdGFsbGl6ZWQpCuKUgiAgIOKUnOKUgOKUgCBtZXNoLnRzICAgICAgICAgICAgICAgIDIwIOKAlCDot6jku6PnkIYgbWVzaArilIIgICDilJzilIDilIAgbWlncmF0ZS12ZWN0b3ItaW5kZXgudHMgIDkg4oCUIHZlY3RvciBpbmRleCDov4Hnp7sK4pSCICAg4pSc4pSA4pSAIG1pZ3JhdGUudHMgICAgICAgICAgICAgMTMg4oCUIHNjaGVtYSDov4Hnp7sK4pSCICAg4pSc4pSA4pSAIG9ic2VydmUudHMgICAgICAgICAgICAgMTUg4oCUIOinguWvn++8iHJlY29yZCBvYnNlcnZhdGlvbnPvvIkK4pSCICAg4pSc4pSA4pSAIG9ic2lkaWFuLWV4cG9ydC50cyAgICAgMjQg4oCUIE9ic2lkaWFuIOWvvOWHugrilIIgICDilJzilIDilIAgcGF0dGVybnMudHMgICAgICAgICAgICAgOCDigJQgcGF0dGVybnMgKGNyeXN0YWxsaXplZCkK4pSCICAg4pSc4pSA4pSAIHByaXZhY3kudHMgICAgICAgICAgICAgIDYg4oCUIOmakOengeWIhuexuwrilIIgICDilJzilIDilIAgcHJvZmlsZS50cyAgICAgICAgICAgICAgOSDigJQgcHJvZmlsZQrilIIgICDilJzilIDilIAgcXVlcnktZXhwYW5zaW9uLnRzICAgICAgOCDigJQg5p+l6K+i5omp5bGVCuKUgiAgIOKUnOKUgOKUgCByZWNlbnQtc2VhcmNoZXMtc3dlZXAudHMgOSDigJQg5pCc57Si5Y6G5Y+y5riF55CGCuKUgiAgIOKUnOKUgOKUgCByZWZsZWN0LnRzICAgICAgICAgICAgIDEyIOKAlCDlj43mgJ0K4pSCICAg4pSc4pSA4pSAIHJlbGF0aW9ucy50cyAgICAgICAgICAgMTEg4oCUIOWFs+ezuwrilIIgICDilJzilIDilIAgcmVtZW1iZXIudHMgICAgICAgICAgICAxMyDigJQg5qC45b+DIHJlbWVtYmVyCuKUgiAgIOKUnOKUgOKUgCByZXBsYXkudHMgICAgICAgICAgICAgIDI3IOKAlCDkuovku7blm57mlL4K4pSCICAg4pSc4pSA4pSAIHJldGVudGlvbi50cyAgICAgICAgICAgMTYg4oCUIOS/neeVmeetlueVpQrilIIgICDilJzilIDilIAgcm91dGluZXMudHMgICAgICAgICAgICAgOCDigJQg5pel5bi45L6L6KGMCuKUgiAgIOKUnOKUgOKUgCBzZWFyY2gudHMgICAgICAgICAgICAgIDMzIOKAlCDkuLvmkJzntKIK4pSCICAg4pSc4pSA4pSAIHNlbnRpbmVscy50cyAgICAgICAgICAgMTAg4oCUIOWTqOWFte+8iOebkeaOp++8iQrilIIgICDilJzilIDilIAgc2lnbmFscy50cyAgICAgICAgICAgICAgNyDigJQg5L+h5Y+3CuKUgiAgIOKUnOKUgOKUgCBza2V0Y2hlcy50cyAgICAgICAgICAgICA4IOKAlCDojYnlm77vvIhkcmFmdO+8iQrilIIgICDilJzilIDilIAgc2tpbGwtZXh0cmFjdC50cyAgICAgICAxMSDigJQg5LuO6K6w5b+G5o+Q5Y+WIHNraWxsCuKUgiAgIOKUnOKUgOKUgCBzbGlkaW5nLXdpbmRvdy50cyAgICAgIDExIOKAlCDmu5Hliqjnqpflj6PvvIh3b3JraW5nIG1lbW9yee+8iQrilIIgICDilJzilIDilIAgc2xvdHMudHMgICAgICAgICAgICAgICAyNSDigJQg5qe95L2NCuKUgiAgIOKUnOKUgOKUgCBzbWFydC1zZWFyY2gudHMgICAgICAgIDIxIOKAlCDmmbrog73mkJzntKIK4pSCICAg4pSc4pSA4pSAIHNuYXBzaG90LnRzICAgICAgICAgICAgMTcg4oCUIOW/q+eFpwrilIIgICDilJzilIDilIAgc3VtbWFyaXplLnRzICAgICAgICAgICAyMyDigJQg5pGY6KaBCuKUgiAgIOKUnOKUgOKUgCB0ZWFtLnRzICAgICAgICAgICAgICAgICA5IOKAlCDlm6LpmJ/ljY/kvZwK4pSCICAg4pSc4pSA4pSAIHRlbXBvcmFsLWdyYXBoLnRzICAgICAgMTEg4oCUIOaXtuW6j+WbvgrilIIgICDilJzilIDilIAgdGltZWxpbmUudHMgICAgICAgICAgICAgOSDigJQg5pe26Ze057q/CuKUgiAgIOKUnOKUgOKUgCB2ZXJpZnkudHMgICAgICAgICAgICAgICA3IOKAlCDpqozor4EK4pSCICAg4pSc4pSA4pSAIHZpc2lvbi1zZWFyY2gudHMgICAgICAgMTEg4oCUIOinhuinieaQnOe0ogrilIIgICDilJTilIDilIAgd29ya2luZy1tZW1vcnkudHMgICAgICAxMyDigJQg5bel5L2c6K6w5b+GCuKUnOKUgOKUgCBtY3AvICAgICAgICAgICAgICAgICAgICAgICAgIyBNQ1Ag5Y2P6K6u5bGCCuKUgiAgIOKUnOKUgOKUgCBzZXJ2ZXIudHMgICAgICAgICAgICAgIDE3IOKAlCBNQ1Ag5Y2P6K6uCuKUgiAgIOKUnOKUgOKUgCB0cmFuc3BvcnQudHMgICAgICAgICAgIDE0IOKAlCBzdGRpby9IVFRQIHRyYW5zcG9ydArilIIgICDilJzilIDilIAgdG9vbHMtcmVnaXN0cnkudHMgICAgICAxNiDigJQgNTMgdG9vbHMg5a6a5LmJCuKUgiAgIOKUnOKUgOKUgCByZXN0LXByb3h5LnRzICAgICAgICAgIDI0IOKAlCBNQ1Ag4oaSIFJFU1QK4pSCICAg4pSc4pSA4pSAIHN0YW5kYWxvbmUudHMgICAgICAgICAgMjcg4oCUIOS4jeS+nei1liBpaWkg5qih5byPCuKUgiAgIOKUlOKUgOKUgCBpbi1tZW1vcnkta3YudHMgICAgICAgIDExIOKAlCDlhoXlrZggS1YgKHRlc3RpbmcpCuKUnOKUgOKUgCB0cmlnZ2Vycy8K4pSCICAg4pSU4pSA4pSAIGFwaS50cyAgICAgICAgICAgICAgICAgIyBSRVNUIOinpuWPkeWZqOazqOWGjArilJzilIDilIAgc3RhdGUvCuKUgiAgIOKUlOKUgOKUgCBzY2hlbWEudHMgICAgICAgICAgICAgICMgU1FMaXRlIHNjaGVtYQrilJTilIDilIAgYXV0aC50cyAgICAgICAgICAgICAgICAgICAgIyBhdXRoCmBgYAoKIyMg5YWz6ZSu5rWB56iLCgojIyMgYHJlbWVtYmVyYCDlrozmlbTmtYHnqIsKCmBgYHR5cGVzY3JpcHQKLy8gc3JjL2Z1bmN0aW9ucy9yZW1lbWJlci50cwpzZGsucmVnaXN0ZXJGdW5jdGlvbigibWVtOjpyZW1lbWJlciIsIGFzeW5jIChkYXRhKSA9PiB7CiAgLy8gMS4gVmFsaWRhdGUKICBpZiAoIWRhdGEuY29udGVudCkgdGhyb3cgbmV3IEVycm9yKCJjb250ZW50IHJlcXVpcmVkIik7CiAgCiAgLy8gMi4gRmluZ2VycHJpbnQgZm9yIGRlZHVwCiAgY29uc3QgZmluZ2VycHJpbnQgPSBmaW5nZXJwcmludElkKGRhdGEuY29udGVudCk7CiAgCiAgLy8gMy4gQ2hlY2sgZXhpc3RpbmcKICBjb25zdCBleGlzdGluZyA9IGF3YWl0IGt2LmdldChgbWVtb3J5OiR7ZmluZ2VycHJpbnR9YCk7CiAgaWYgKGV4aXN0aW5nKSB7CiAgICByZXR1cm4geyBpZDogZXhpc3RpbmcuaWQsIGRlZHVwbGljYXRlZDogdHJ1ZSB9OwogIH0KICAKICAvLyA0LiBDcmVhdGUKICBjb25zdCBpZCA9IGdlbmVyYXRlSWQoKTsKICBjb25zdCBlbnRyeSA9IHsKICAgIGlkLAogICAgZmluZ2VycHJpbnQsCiAgICBjb250ZW50OiBkYXRhLmNvbnRlbnQsCiAgICBjb25maWRlbmNlOiBkYXRhLmNvbmZpZGVuY2UgPz8gMS4wLAogICAgbGlmZWN5Y2xlOiAiYWN0aXZlIiwKICAgIHRhZ3M6IGRhdGEudGFncyB8fCBbXSwKICAgIHNjb3BlOiBkYXRhLnNjb3BlIHx8ICJkZWZhdWx0IiwKICAgIGNyZWF0ZWRBdDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogICAgbGFzdEFjY2Vzc2VkQXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwKICAgIGFjY2Vzc0NvdW50OiAwLAogIH07CiAgCiAgLy8gNS4gUGVyc2lzdAogIGF3YWl0IFByb21pc2UuYWxsKFsKICAgIGt2LnNldChgbWVtb3J5OiR7aWR9YCwgZW50cnkpLAogICAga3Yuc2V0KGBtZW1vcnk6ZmluZ2VycHJpbnQ6JHtmaW5nZXJwcmludH1gLCB7IGlkIH0pLAogIF0pOwogIAogIC8vIDYuIEF1ZGl0CiAgcmVjb3JkQXVkaXQoeyBvcGVyYXRpb246ICJyZW1lbWJlciIsIGlkLCBmaW5nZXJwcmludCB9KTsKICAKICByZXR1cm4geyBpZCwgZmluZ2VycHJpbnQsIGRlZHVwbGljYXRlZDogZmFsc2UgfTsKfSk7CmBgYAoKIyMjIGBzZWFyY2hgIOS4iei3r+WPrOWbngoKYGBgdHlwZXNjcmlwdAovLyBzcmMvZnVuY3Rpb25zL3NlYXJjaC50cyAo566A5YyWKQphc3luYyBmdW5jdGlvbiBzZWFyY2gocXVlcnk6IHN0cmluZywgb3B0czogU2VhcmNoT3B0aW9ucykgewogIC8vIDEuIFF1ZXJ5IGV4cGFuc2lvbgogIGNvbnN0IGV4cGFuZGVkID0gYXdhaXQgcXVlcnlFeHBhbnNpb24ocXVlcnkpOwogIAogIC8vIDIuIFRocmVlLXdheSBwYXJhbGxlbAogIGNvbnN0IFtibTI1UmVzdWx0cywgdmVjdG9yUmVzdWx0cywgZ3JhcGhSZXN1bHRzXSA9IGF3YWl0IFByb21pc2UuYWxsKFsKICAgIGJtMjVTZWFyY2goZXhwYW5kZWQsIG9wdHMpLAogICAgdmVjdG9yU2VhcmNoKGV4cGFuZGVkLCBvcHRzKSwKICAgIGdyYXBoUmV0cmlldmFsKGV4cGFuZGVkLCBvcHRzKSwKICBdKTsKICAKICAvLyAzLiBNZXJnZSArIHJlcmFuawogIGNvbnN0IG1lcmdlZCA9IHJlcmFuayhbLi4uYm0yNVJlc3VsdHMsIC4uLnZlY3RvclJlc3VsdHMsIC4uLmdyYXBoUmVzdWx0c10sIHF1ZXJ5KTsKICAKICAvLyA0LiBUcmFjayBhY2Nlc3MKICBtZXJnZWQuc2xpY2UoMCwgMTApLmZvckVhY2gobSA9PiBhY2Nlc3NUcmFja2VyLnJlY29yZChtLmlkKSk7CiAgCiAgcmV0dXJuIG1lcmdlZDsKfQpgYGAKCiMjIyBgY3J5c3RhbGxpemVgIOaKiiByZW1lbWJlciDlj5jmiJAgbGVzc29ucwoKYGBgdHlwZXNjcmlwdAovLyBzcmMvZnVuY3Rpb25zL2NyeXN0YWxsaXplLnRzCi8vIOi+k+WFpTog5aSn6YeP6Zu25pWjIHJlbWVtYmVyCi8vIOi+k+WHujogc3RydWN0dXJlZCBsZXNzb24gLyBza2lsbCAvIHBhdHRlcm4Kc2RrLnJlZ2lzdGVyRnVuY3Rpb24oIm1lbTo6Y3J5c3RhbGxpemUiLCBhc3luYyAoeyB0aW1lV2luZG93IH0pID0+IHsKICAvLyAxLiDmi4nlj5YgdGltZVdpbmRvdyDlhoXnmoTmiYDmnIkgcmVtZW1iZXIKICBjb25zdCBtZW1vcmllcyA9IGF3YWl0IGt2Lmxpc3QoeyBwcmVmaXg6ICJtZW1vcnk6Iiwgc2luY2U6IHRpbWVXaW5kb3cgfSk7CiAgCiAgLy8gMi4gQ2x1c3RlciBieSBzaW1pbGFyaXR5CiAgY29uc3QgY2x1c3RlcnMgPSBjbHVzdGVyKG1lbW9yaWVzLCB7IHRocmVzaG9sZDogMC44IH0pOwogIAogIC8vIDMuIExMTSBzdW1tYXJpemUgZWFjaCBjbHVzdGVyCiAgY29uc3QgbGVzc29ucyA9IGF3YWl0IFByb21pc2UuYWxsKGNsdXN0ZXJzLm1hcChhc3luYyBjID0+IHsKICAgIGNvbnN0IHN1bW1hcnkgPSBhd2FpdCBsbG0uc3VtbWFyaXplKGMuZW50cmllcywgewogICAgICBzdHlsZTogImxlc3NvbiIsCiAgICAgIGluY2x1ZGVFeGFtcGxlczogdHJ1ZSwKICAgIH0pOwogICAgcmV0dXJuIHsKICAgICAgdHlwZTogImxlc3NvbiIsCiAgICAgIGlkOiBnZW5lcmF0ZUlkKCksCiAgICAgIHN1bW1hcnksCiAgICAgIGJhc2VkT246IGMuZW50cmllcy5tYXAoZSA9PiBlLmlkKSwKICAgICAgY29uZmlkZW5jZTogYXZlcmFnZShjLmVudHJpZXMubWFwKGUgPT4gZS5jb25maWRlbmNlKSksCiAgICB9OwogIH0pKTsKICAKICAvLyA0LiBQZXJzaXN0CiAgZm9yIChjb25zdCBsZXNzb24gb2YgbGVzc29ucykgewogICAgYXdhaXQga3Yuc2V0KGBsZXNzb246JHtsZXNzb24uaWR9YCwgbGVzc29uKTsKICB9CiAgCiAgcmV0dXJuIHsgY291bnQ6IGxlc3NvbnMubGVuZ3RoIH07Cn0pOwpgYGAKCiMjIFBsdWdpbiBTY3JpcHRz77yISG9vayDlrp7njrDvvIkKCmBwbHVnaW4vc2NyaXB0cy9gIDE0IGhvb2sg6ISa5pys77yITm9kZS5qcyDni6znq4vohJrmnKzvvIzku44gc3RkaW4g6K+7IEpTT07vvInvvJoKCnwg5qih5byPIHwg5a6e546wIHwg5YWz6ZSu54K5IHwKfC0tLS0tLXwtLS0tLS18LS0tLS0tLS18CnwgQ29udGV4dC1pbmplY3RpbmcgfCBgYXdhaXQgZmV0Y2goLi4uLCB7IHNpZ25hbDogQWJvcnRTaWduYWwudGltZW91dChOKSB9KWAgKyB0cnkvY2F0Y2ggfCDohJrmnKzlv4XpobvnrYnlk43lupQgfAp8IFRlbGVtZXRyeS1vbmx5IHwgYGZldGNoKC4uLikuY2F0Y2goKCk9Pnt9KWAgKyBgc2V0VGltZW91dCgoKT0+cHJvY2Vzcy5leGl0KDApLCA1MDApLnVucmVmKClgIHwgZmlyZS1hbmQtZm9yZ2V0IHwKCmBgYGphdmFzY3JpcHQKLy8gcGx1Z2luL3NjcmlwdHMvcHJlLXRvb2wtdXNlLm1qcyAoY29udGV4dC1pbmplY3Rpbmcg5qih5byPKQppbXBvcnQgeyByZWFkRmlsZVN5bmMgfSBmcm9tICJmcyI7Cgpjb25zdCBpbnB1dCA9IEpTT04ucGFyc2UocmVhZEZpbGVTeW5jKDAsICJ1dGYtOCIpKTsKdHJ5IHsKICBjb25zdCByZXNwID0gYXdhaXQgZmV0Y2goCiAgICBgJHtwcm9jZXNzLmVudi5BR0VOVE1FTU9SWV9VUkx9L2FnZW50bWVtb3J5L3NlYXJjaGAsCiAgICB7CiAgICAgIG1ldGhvZDogIlBPU1QiLAogICAgICBoZWFkZXJzOiB7ICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIgfSwKICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBxdWVyeTogaW5wdXQudG9vbF9pbnB1dCwgbGltaXQ6IDUgfSksCiAgICAgIHNpZ25hbDogQWJvcnRTaWduYWwudGltZW91dCgzMDAwKSwKICAgIH0KICApOwogIGNvbnN0IGRhdGEgPSBhd2FpdCByZXNwLmpzb24oKTsKICAvLyDlhpnlhaUgc3Rkb3V0IOKGkiBDbGF1ZGUgQ29kZSDms6jlhaUgcHJvbXB0CiAgY29uc29sZS5sb2coYDxtZW1vcnk+XG4ke0pTT04uc3RyaW5naWZ5KGRhdGEucmVzdWx0cywgbnVsbCwgMil9XG48L21lbW9yeT5gKTsKfSBjYXRjaCAoZSkgewogIC8vIOmdmem7mOWksei0pQp9CmBgYAoKYGBgamF2YXNjcmlwdAovLyBwbHVnaW4vc2NyaXB0cy9wb3N0LXRvb2wtdXNlLm1qcyAodGVsZW1ldHJ5IOaooeW8jykKY29uc3QgaW5wdXQgPSBKU09OLnBhcnNlKHJlYWRGaWxlU3luYygwLCAidXRmLTgiKSk7CmZldGNoKGAke3Byb2Nlc3MuZW52LkFHRU5UTUVNT1JZX1VSTH0vYWdlbnRtZW1vcnkvb2JzZXJ2ZWAsIHsKICBtZXRob2Q6ICJQT1NUIiwKICBoZWFkZXJzOiB7ICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIgfSwKICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IGV2ZW50OiAicG9zdC10b29sLXVzZSIsIGRhdGE6IGlucHV0IH0pLAogIHNpZ25hbDogQWJvcnRTaWduYWwudGltZW91dCgzMDAwKSwKfSkuY2F0Y2goKCkgPT4ge30pOyAgLy8g5LiNIGF3YWl0CnNldFRpbWVvdXQoKCkgPT4gcHJvY2Vzcy5leGl0KDApLCA1MDApLnVucmVmKCk7ICAvLyDlvLrliLbpgIDlh7oKYGBgCgojIyDmtYvor5UKCi0gYHZpdGVzdGAgOTUwKyB0ZXN0cwotIGB2aS5tb2NrKCJpaWktc2RrIilgIOaooeW8jyDigJQgbW9jayBgc2RrLnRyaWdnZXJgIC8gYGt2LmdldC9zZXQvbGlzdGAKLSDmtYvor5Xmlofku7blnKggYHRlc3QvYCDnlKggYC50ZXN0LnRzYCDlkI7nvIAKLSDot5/pmo8gYHRlc3QvY3J5c3RhbGxpemUudGVzdC50c2Ag5qih5byP77yIZnVuY3Rpb24g5rWL6K+V77yJCgojIyDlhbPplK7nuqbmnZ8KCi0gKipUeXBlU2NyaXB0IHN0cmljdCBtb2RlKiog4oCUIOS7u+S9lemakOW8jyBhbnkg6YO95oqlCi0gKipFU00gb25seSoqIChgInR5cGUiOiAibW9kdWxlImApIOKAlCDkuI3mlK/mjIEgQ0pTCi0gKippaWktZW5naW5lIOW8uuS4gOiHtCoqIOKAlCDmsLjov5zkuI3nm7Tov54gU1FMaXRl77yb5oC75piv57uPIGBrdi4qYCAvIGBzZGsudHJpZ2dlcigpYAotICoqUkVTVCB3aGl0ZWxpc3QqKiDigJQg5a2X5q6155m95ZCN5Y2V6L+H5rukIHJhdyBib2R5Ci0gKipUaW1lc3RhbXAg5LiA5qyh5o2V6I63Kiog4oCUIGBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKClgIOS4gOasoeWPlu+8jOWkmuasoeeUqAotICoqUHJvbWlzZS5hbGwg5bm26KGMKiog4oCUIOeLrOeriyBrdiDor7vlhpnlubbooYwK
+# Core Layer
+
+> agentmemory 核心实现 — 50+ iii functions / MCP server / REST API
+
+## 模块结构
+
+```
+src/
+├── functions/                 # 50+ iii functions（核心业务）
+│   ├── access-tracker.ts      13 — 访问追踪
+│   ├── actions.ts              9 — 动作记录
+│   ├── audit.ts                8 — 审计
+│   ├── auto-forget.ts          13 — 自动遗忘
+│   ├── branch-aware.ts         9 — git branch 感知
+│   ├── cascade.ts              7 — 级联删除
+│   ├── checkpoints.ts          8 — 快照
+│   ├── claude-bridge.ts       12 — Claude 集成桥
+│   ├── compress-file.ts       17 — 文件压缩
+│   ├── compress-synthetic.ts   7 — 合成压缩
+│   ├── compress.ts            20 — 主压缩
+│   ├── consolidate.ts         11 — 整合
+│   ├── consolidation-pipeline.ts 11 — 整合 pipeline
+│   ├── context.ts             11 — 上下文管理
+│   ├── crystallize.ts         10 — 聚合成 lessons
+│   ├── dedup.ts               15 — 去重
+│   ├── diagnostics.ts         11 — 诊断
+│   ├── disk-size-manager.ts   10 — 磁盘配额
+│   ├── enrich.ts               9 — 富化（添加 context）
+│   ├── evict.ts               17 — 淘汰
+│   ├── export-import.ts       10 — 导入导出
+│   ├── facets.ts               6 — 多维度 facet
+│   ├── file-index.ts          10 — 文件索引
+│   ├── flow-compress.ts       13 — 流式压缩
+│   ├── frontier.ts             8 — frontier (graph)
+│   ├── governance.ts          10 — 治理
+│   ├── graph-retrieval.ts     21 — 图检索
+│   ├── graph.ts               30 — 知识图谱
+│   ├── image-quota-cleanup.ts 12 — 图片配额清理
+│   ├── image-refs.ts           9 — 图片引用
+│   ├── leases.ts              10 — 租约（concurrent access）
+│   ├── lessons.ts              8 — lessons (crystallized)
+│   ├── mesh.ts                20 — 跨代理 mesh
+│   ├── migrate-vector-index.ts  9 — vector index 迁移
+│   ├── migrate.ts             13 — schema 迁移
+│   ├── observe.ts             15 — 观察（record observations）
+│   ├── obsidian-export.ts     24 — Obsidian 导出
+│   ├── patterns.ts             8 — patterns (crystallized)
+│   ├── privacy.ts              6 — 隐私分类
+│   ├── profile.ts              9 — profile
+│   ├── query-expansion.ts      8 — 查询扩展
+│   ├── recent-searches-sweep.ts 9 — 搜索历史清理
+│   ├── reflect.ts             12 — 反思
+│   ├── relations.ts           11 — 关系
+│   ├── remember.ts            13 — 核心 remember
+│   ├── replay.ts              27 — 事件回放
+│   ├── retention.ts           16 — 保留策略
+│   ├── routines.ts             8 — 日常例行
+│   ├── search.ts              33 — 主搜索
+│   ├── sentinels.ts           10 — 哨兵（监控）
+│   ├── signals.ts              7 — 信号
+│   ├── sketches.ts             8 — 草图（draft）
+│   ├── skill-extract.ts       11 — 从记忆提取 skill
+│   ├── sliding-window.ts      11 — 滑动窗口（working memory）
+│   ├── slots.ts               25 — 槽位
+│   ├── smart-search.ts        21 — 智能搜索
+│   ├── snapshot.ts            17 — 快照
+│   ├── summarize.ts           23 — 摘要
+│   ├── team.ts                 9 — 团队协作
+│   ├── temporal-graph.ts      11 — 时序图
+│   ├── timeline.ts             9 — 时间线
+│   ├── verify.ts               7 — 验证
+│   ├── vision-search.ts       11 — 视觉搜索
+│   └── working-memory.ts      13 — 工作记忆
+├── mcp/                        # MCP 协议层
+│   ├── server.ts              17 — MCP 协议
+│   ├── transport.ts           14 — stdio/HTTP transport
+│   ├── tools-registry.ts      16 — 53 tools 定义
+│   ├── rest-proxy.ts          24 — MCP → REST
+│   ├── standalone.ts          27 — 不依赖 iii 模式
+│   └── in-memory-kv.ts        11 — 内存 KV (testing)
+├── triggers/
+│   └── api.ts                 # REST 触发器注册
+├── state/
+│   └── schema.ts              # SQLite schema
+└── auth.ts                    # auth
+```
+
+## 关键流程
+
+### `remember` 完整流程
+
+```typescript
+// src/functions/remember.ts
+sdk.registerFunction("mem::remember", async (data) => {
+  // 1. Validate
+  if (!data.content) throw new Error("content required");
+  
+  // 2. Fingerprint for dedup
+  const fingerprint = fingerprintId(data.content);
+  
+  // 3. Check existing
+  const existing = await kv.get(`memory:${fingerprint}`);
+  if (existing) {
+    return { id: existing.id, deduplicated: true };
+  }
+  
+  // 4. Create
+  const id = generateId();
+  const entry = {
+    id,
+    fingerprint,
+    content: data.content,
+    confidence: data.confidence ?? 1.0,
+    lifecycle: "active",
+    tags: data.tags || [],
+    scope: data.scope || "default",
+    createdAt: new Date().toISOString(),
+    lastAccessedAt: new Date().toISOString(),
+    accessCount: 0,
+  };
+  
+  // 5. Persist
+  await Promise.all([
+    kv.set(`memory:${id}`, entry),
+    kv.set(`memory:fingerprint:${fingerprint}`, { id }),
+  ]);
+  
+  // 6. Audit
+  recordAudit({ operation: "remember", id, fingerprint });
+  
+  return { id, fingerprint, deduplicated: false };
+});
+```
+
+### `search` 三路召回
+
+```typescript
+// src/functions/search.ts (简化)
+async function search(query: string, opts: SearchOptions) {
+  // 1. Query expansion
+  const expanded = await queryExpansion(query);
+  
+  // 2. Three-way parallel
+  const [bm25Results, vectorResults, graphResults] = await Promise.all([
+    bm25Search(expanded, opts),
+    vectorSearch(expanded, opts),
+    graphRetrieval(expanded, opts),
+  ]);
+  
+  // 3. Merge + rerank
+  const merged = rerank([...bm25Results, ...vectorResults, ...graphResults], query);
+  
+  // 4. Track access
+  merged.slice(0, 10).forEach(m => accessTracker.record(m.id));
+  
+  return merged;
+}
+```
+
+### `crystallize` 把 remember 变成 lessons
+
+```typescript
+// src/functions/crystallize.ts
+// 输入: 大量零散 remember
+// 输出: structured lesson / skill / pattern
+sdk.registerFunction("mem::crystallize", async ({ timeWindow }) => {
+  // 1. 拉取 timeWindow 内的所有 remember
+  const memories = await kv.list({ prefix: "memory:", since: timeWindow });
+  
+  // 2. Cluster by similarity
+  const clusters = cluster(memories, { threshold: 0.8 });
+  
+  // 3. LLM summarize each cluster
+  const lessons = await Promise.all(clusters.map(async c => {
+    const summary = await llm.summarize(c.entries, {
+      style: "lesson",
+      includeExamples: true,
+    });
+    return {
+      type: "lesson",
+      id: generateId(),
+      summary,
+      basedOn: c.entries.map(e => e.id),
+      confidence: average(c.entries.map(e => e.confidence)),
+    };
+  }));
+  
+  // 4. Persist
+  for (const lesson of lessons) {
+    await kv.set(`lesson:${lesson.id}`, lesson);
+  }
+  
+  return { count: lessons.length };
+});
+```
+
+## Plugin Scripts（Hook 实现）
+
+`plugin/scripts/` 14 hook 脚本（Node.js 独立脚本，从 stdin 读 JSON）：
+
+| 模式 | 实现 | 关键点 |
+|------|------|--------|
+| Context-injecting | `await fetch(..., { signal: AbortSignal.timeout(N) })` + try/catch | 脚本必须等响应 |
+| Telemetry-only | `fetch(...).catch(()=>{})` + `setTimeout(()=>process.exit(0), 500).unref()` | fire-and-forget |
+
+```javascript
+// plugin/scripts/pre-tool-use.mjs (context-injecting 模式)
+import { readFileSync } from "fs";
+
+const input = JSON.parse(readFileSync(0, "utf-8"));
+try {
+  const resp = await fetch(
+    `${process.env.AGENTMEMORY_URL}/agentmemory/search`,
+    {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ query: input.tool_input, limit: 5 }),
+      signal: AbortSignal.timeout(3000),
+    }
+  );
+  const data = await resp.json();
+  // 写入 stdout → Claude Code 注入 prompt
+  console.log(`<memory>\n${JSON.stringify(data.results, null, 2)}\n</memory>`);
+} catch (e) {
+  // 静默失败
+}
+```
+
+```javascript
+// plugin/scripts/post-tool-use.mjs (telemetry 模式)
+const input = JSON.parse(readFileSync(0, "utf-8"));
+fetch(`${process.env.AGENTMEMORY_URL}/agentmemory/observe`, {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({ event: "post-tool-use", data: input }),
+  signal: AbortSignal.timeout(3000),
+}).catch(() => {});  // 不 await
+setTimeout(() => process.exit(0), 500).unref();  // 强制退出
+```
+
+## 测试
+
+- `vitest` 950+ tests
+- `vi.mock("iii-sdk")` 模式 — mock `sdk.trigger` / `kv.get/set/list`
+- 测试文件在 `test/` 用 `.test.ts` 后缀
+- 跟随 `test/crystallize.test.ts` 模式（function 测试）
+
+## 关键约束
+
+- **TypeScript strict mode** — 任何隐式 any 都报
+- **ESM only** (`"type": "module"`) — 不支持 CJS
+- **iii-engine 强一致** — 永远不直连 SQLite；总是经 `kv.*` / `sdk.trigger()`
+- **REST whitelist** — 字段白名单过滤 raw body
+- **Timestamp 一次捕获** — `new Date().toISOString()` 一次取，多次用
+- **Promise.all 并行** — 独立 kv 读写并行

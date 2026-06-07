@@ -1,1 +1,135 @@
-IyBWZXJzaW9uaW5nCgo+IOeJiOacrOeuoeeQhu+8iHYwLjkuMjgg6LW35q2l77yMc2VtdmVy77yJCgojIyDlvZPliY3niYjmnKwKCmB2MC45LjI4YCDigJQg5Zyo5Lul5LiLIDcg5Liq5Zyw5pa55L+d5oyB5ZCM5q2l77yaCgoxLiAqKmBwYWNrYWdlLmpzb25gKiog4oCUIGB2ZXJzaW9uYCBmaWVsZAoyLiAqKmBzcmMvdmVyc2lvbi50c2AqKiDigJQgYFZFUlNJT05gIOW4uOmHjyArIHR5cGUgdW5pb24KMy4gKipgc3JjL3R5cGVzLnRzYCoqIOKAlCBgRXhwb3J0RGF0YWAgdmVyc2lvbiB1bmlvbgo0LiAqKmBzcmMvZnVuY3Rpb25zL2V4cG9ydC1pbXBvcnQudHNgKiog4oCUIGBzdXBwb3J0ZWRWZXJzaW9uc2Agc2V0CjUuICoqYHRlc3QvZXhwb3J0LWltcG9ydC50ZXN0LnRzYCoqIOKAlCB2ZXJzaW9uIGFzc2VydGlvbgo2LiAqKmBwbHVnaW4vLmNsYXVkZS1wbHVnaW4vcGx1Z2luLmpzb25gKiog4oCUIGB2ZXJzaW9uYCBmaWVsZAo3LiAqKmBwbHVnaW4vcGx1Z2luLmpzb25gKiog4oCUIGB2ZXJzaW9uYCBmaWVsZCAod2hlbiBwcmVzZW50KQoKIyMgYnVtcCDlkb3ku6QKCmBgYGJhc2gKIyDnlKggbnBtIHZlcnNpb24KbnBtIHZlcnNpb24gcGF0Y2ggICAjIDAuOS4yOCDihpIgMC45LjI5Cm5wbSB2ZXJzaW9uIG1pbm9yICAgIyAwLjkuMjgg4oaSIDAuMTAuMApucG0gdmVyc2lvbiBtYWpvciAgICMgMC45LjI4IOKGkiAxLjAuMAoKIyDnhLblkI7miYvliqjlkIzmraXlhbbku5YgNiDkuKrmlofku7YKTkVXPTAuOS4yOQoKc2VkIC1pICJzL1widmVyc2lvblwiOiBcIi4qXCIvXCJ2ZXJzaW9uXCI6IFwiJE5FV1wiLyIgXAogIHBhY2thZ2UuanNvbiBcCiAgcGx1Z2luLy5jbGF1ZGUtcGx1Z2luL3BsdWdpbi5qc29uIFwKICBwbHVnaW4vcGx1Z2luLmpzb24KCiMgc3JjL3ZlcnNpb24udHMKZWNobyAiZXhwb3J0IGNvbnN0IFZFUlNJT04gPSBcIiRORVdcIjsiID4gc3JjL3ZlcnNpb24udHMKZWNobyAiZXhwb3J0IHR5cGUgVmVyc2lvbiA9IFwiJE5FV1wiIHwgLi4uIiA+PiBzcmMvdmVyc2lvbi50cwpgYGAKCiMjIFZlcnNpb24gRm9ybWF0CgpgTUFKT1IuTUlOT1IuUEFUQ0hgIChzZW12ZXIpCgp8IEJ1bXAgfCDop6blj5EgfAp8LS0tLS0tfC0tLS0tLXwKfCBQQVRDSCB8IGJ1Z2ZpeCAvIOaWh+ahoyAvIOWNleS4qiB0b29sIOWKoCB8CnwgTUlOT1IgfCDmlrAgZnVuY3Rpb24gLyDmlrAgTUNQIHRvb2wg57uEIC8g5pawIHBsYXRmb3JtIHwKfCBNQUpPUiB8IHNjaGVtYSBicmVha2luZyBjaGFuZ2UgLyBBUEkg5LiN5YW85a65IHwKCiMjIFZlcnNpb24gVW5pb27vvIhzcmMvdmVyc2lvbi50c++8iQoKYGBgdHlwZXNjcmlwdApleHBvcnQgY29uc3QgVkVSU0lPTiA9ICIwLjkuMjgiOwpleHBvcnQgdHlwZSBWZXJzaW9uID0gIjAuOS4wIiB8ICIwLjkuMTYiIHwgIjAuOS4yOCIgfCAuLi4KCi8vIGV4cG9ydC9pbXBvcnQKZXhwb3J0IGNvbnN0IFNVUFBPUlRFRF9WRVJTSU9OUzogU2V0PFZlcnNpb24+ID0gbmV3IFNldChbCiAgIjAuOS4wIiwgIjAuOS4xNiIsICIwLjkuMjgiLApdKTsKYGBgCgojIyBFeHBvcnQgQ29tcGF0aWJpbGl0eQoKYGBgdHlwZXNjcmlwdAovLyBzcmMvZnVuY3Rpb25zL2V4cG9ydC1pbXBvcnQudHMKYXN5bmMgZnVuY3Rpb24gaW1wb3J0RGF0YShkYXRhOiBFeHBvcnREYXRhKSB7CiAgaWYgKCFTVVBQT1JURURfVkVSU0lPTlMuaGFzKGRhdGEudmVyc2lvbikpIHsKICAgIHRocm93IG5ldyBFcnJvcihgVW5zdXBwb3J0ZWQgdmVyc2lvbjogJHtkYXRhLnZlcnNpb259YCk7CiAgfQogIAogIC8vIOi9rOaNoiBvbGQg4oaSIG5ldwogIGlmIChkYXRhLnZlcnNpb24gPT09ICIwLjkuMCIpIHsKICAgIGRhdGEgPSBtaWdyYXRlX3YwOTBfdG9fdjA5MjgoZGF0YSk7CiAgfQogIAogIC8vIC4uLiBwZXJzaXN0Cn0KYGBgCgojIyBDaGFuZ2Vsb2cKCmBDSEFOR0VMT0cubWRgIOeUqCBbS2VlcCBhIENoYW5nZWxvZ10oaHR0cHM6Ly9rZWVwYWNoYW5nZWxvZy5jb20vKSDmoLzlvI/vvJoKCmBgYG1hcmtkb3duCiMjIFswLjkuMjhdIC0gMjAyNi0wNi1YWAoKIyMjIEFkZGVkCi0gTmV3IG1lbW9yeV9pbWFnZV9xdW90YSBmdW5jdGlvbgotIE9wZW5Db2RlIHBsdWdpbiBzdXBwb3J0CgojIyMgQ2hhbmdlZAotIHZlY3RvciBpbmRleCB1c2VzIHNxbGl0ZS12c3MgMC4zCgojIyMgRml4ZWQKLSBEZWR1cCByYWNlIGNvbmRpdGlvbiBpbiBwYXJhbGxlbCByZW1lbWJlcgoKIyMjIFJlbW92ZWQKLSBMZWdhY3kgSlNPTi1vbmx5IGV4cG9ydCBmb3JtYXQKYGBgCgojIyBHaXQgVGFncwoKYGBgYmFzaAojIOavj+asoSByZWxlYXNlCmdpdCB0YWcgLWEgdjAuOS4yOCAtbSAiUmVsZWFzZSB2MC45LjI4IgpnaXQgcHVzaCBvcmlnaW4gdjAuOS4yOAoKIyBHaXRIdWIgQWN0aW9ucyDoh6rliqggYnVpbGQgKyBwdWJsaXNoCmBgYAoKIyMgUk9BRE1BUAoKYFJPQURNQVAubWRgIOi3n+i4quacquadpSA2LTEyIOS4quaciO+8mgoKYGBgbWFya2Rvd24KIyBSb2FkbWFwCgojIyB2MS4wIChuZXh0KQotIFsgXSBGdWxsIGkxOG4gc3VwcG9ydCAoemgtQ04sIGphLUpQLCBldGMuKQotIFsgXSBNdWx0aS10ZW5hbnQgc2NvcGluZwotIFsgXSBIZWxtIGNoYXJ0IGZvciBrOHMKLSBbIF0gV2ViIFVJIGZvciBub24tQ0xJIHVzZXJzCgojIyB2MC4xMAotIFsgXSBQZXItdXNlciBtZW1vcnkgaXNvbGF0aW9uCi0gWyBdIERpc3RyaWJ1dGVkIGlpaS1lbmdpbmUgKG11bHRpLW5vZGUpCi0gWyBdIFN0cmVhbWluZyBNQ1AgcmVzcG9uc2VzCmBgYAoKIyMg5YW85a655oCn55+p6Zi1Cgp8IGFnZW50bWVtb3J5IHwgaWlpLWVuZ2luZSB8IE5vZGUuanMgfCBUeXBlU2NyaXB0IHwKfC0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS0tLS18CnwgMC45LjI4IHwgbGF0ZXN0IHwgPj0gMjIgfCA1LnggfAp8IDAuOS4xNiB8IDAuNSsgfCA+PSAyMiB8IDUueCB8CnwgMC45LjAgfCAwLjQrIHwgPj0gMjAgfCA1LnggfAp8IDAuOC54IHwgMC4zKyB8ID49IDIwIHwgNC54IHwK
+# Versioning
+
+> 版本管理（v0.9.28 起步，semver）
+
+## 当前版本
+
+`v0.9.28` — 在以下 7 个地方保持同步：
+
+1. **`package.json`** — `version` field
+2. **`src/version.ts`** — `VERSION` 常量 + type union
+3. **`src/types.ts`** — `ExportData` version union
+4. **`src/functions/export-import.ts`** — `supportedVersions` set
+5. **`test/export-import.test.ts`** — version assertion
+6. **`plugin/.claude-plugin/plugin.json`** — `version` field
+7. **`plugin/plugin.json`** — `version` field (when present)
+
+## bump 命令
+
+```bash
+# 用 npm version
+npm version patch   # 0.9.28 → 0.9.29
+npm version minor   # 0.9.28 → 0.10.0
+npm version major   # 0.9.28 → 1.0.0
+
+# 然后手动同步其他 6 个文件
+NEW=0.9.29
+
+sed -i "s/\"version\": \".*\"/\"version\": \"$NEW\"/" \
+  package.json \
+  plugin/.claude-plugin/plugin.json \
+  plugin/plugin.json
+
+# src/version.ts
+echo "export const VERSION = \"$NEW\";" > src/version.ts
+echo "export type Version = \"$NEW\" | ..." >> src/version.ts
+```
+
+## Version Format
+
+`MAJOR.MINOR.PATCH` (semver)
+
+| Bump | 触发 |
+|------|------|
+| PATCH | bugfix / 文档 / 单个 tool 加 |
+| MINOR | 新 function / 新 MCP tool 组 / 新 platform |
+| MAJOR | schema breaking change / API 不兼容 |
+
+## Version Union（src/version.ts）
+
+```typescript
+export const VERSION = "0.9.28";
+export type Version = "0.9.0" | "0.9.16" | "0.9.28" | ...
+
+// export/import
+export const SUPPORTED_VERSIONS: Set<Version> = new Set([
+  "0.9.0", "0.9.16", "0.9.28",
+]);
+```
+
+## Export Compatibility
+
+```typescript
+// src/functions/export-import.ts
+async function importData(data: ExportData) {
+  if (!SUPPORTED_VERSIONS.has(data.version)) {
+    throw new Error(`Unsupported version: ${data.version}`);
+  }
+  
+  // 转换 old → new
+  if (data.version === "0.9.0") {
+    data = migrate_v090_to_v0928(data);
+  }
+  
+  // ... persist
+}
+```
+
+## Changelog
+
+`CHANGELOG.md` 用 [Keep a Changelog](https://keepachangelog.com/) 格式：
+
+```markdown
+## [0.9.28] - 2026-06-XX
+
+### Added
+- New memory_image_quota function
+- OpenCode plugin support
+
+### Changed
+- vector index uses sqlite-vss 0.3
+
+### Fixed
+- Dedup race condition in parallel remember
+
+### Removed
+- Legacy JSON-only export format
+```
+
+## Git Tags
+
+```bash
+# 每次 release
+git tag -a v0.9.28 -m "Release v0.9.28"
+git push origin v0.9.28
+
+# GitHub Actions 自动 build + publish
+```
+
+## ROADMAP
+
+`ROADMAP.md` 跟踪未来 6-12 个月：
+
+```markdown
+# Roadmap
+
+## v1.0 (next)
+- [ ] Full i18n support (zh-CN, ja-JP, etc.)
+- [ ] Multi-tenant scoping
+- [ ] Helm chart for k8s
+- [ ] Web UI for non-CLI users
+
+## v0.10
+- [ ] Per-user memory isolation
+- [ ] Distributed iii-engine (multi-node)
+- [ ] Streaming MCP responses
+```
+
+## 兼容性矩阵
+
+| agentmemory | iii-engine | Node.js | TypeScript |
+|-------------|------------|---------|------------|
+| 0.9.28 | latest | >= 22 | 5.x |
+| 0.9.16 | 0.5+ | >= 22 | 5.x |
+| 0.9.0 | 0.4+ | >= 20 | 5.x |
+| 0.8.x | 0.3+ | >= 20 | 4.x |

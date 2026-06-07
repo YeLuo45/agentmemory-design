@@ -1,1 +1,13 @@
-ewogICJuYW1lIjogImFnZW50bWVtb3J5LWRlc2lnbi1kb2NzIiwKICAidmVyc2lvbiI6ICIxLjAuMCIsCiAgInByaXZhdGUiOiB0cnVlLAogICJzY3JpcHRzIjogewogICAgImRvY3M6ZGV2IjogInZpdGVwcmVzcyBkZXYiLAogICAgImJ1aWxkIjogInZpdGVwcmVzcyBidWlsZCIsCiAgICAiZG9jczpwcmV2aWV3IjogInZpdGVwcmVzcyBwcmV2aWV3IgogIH0sCiAgImRldkRlcGVuZGVuY2llcyI6IHsKICAgICJ2aXRlcHJlc3MiOiAiXjEuMy40IgogIH0KfQo=
+{
+  "name": "agentmemory-design-docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.3.4"
+  }
+}

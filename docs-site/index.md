@@ -1,1 +1,62 @@
-LS0tCmxheW91dDogaG9tZQoKaGVybzoKICBuYW1lOiAiYWdlbnRtZW1vcnkiCiAgdGV4dDogIlBlcnNpc3RlbnQgTWVtb3J5IGZvciBBSSBDb2RpbmcgQWdlbnRzIgogIHRhZ2xpbmU6ICLkvaDnmoTnvJbnoIEgYWdlbnQg6K6w5L2P5LiA5YiHIOKAlCDkuI3lho3pnIDopoHlj43lpI3op6Pph4rjgILlu7rlnKggaWlpLWVuZ2luZSDkuYvkuIrvvIzot6ggMTArIEFJIGFnZW50IOW5s+WPsOOAgiIKICBhY3Rpb25zOgogICAgLSB0aGVtZTogYnJhbmQKICAgICAgdGV4dDogQXJjaGl0ZWN0dXJlCiAgICAgIGxpbms6IC9hcmNoaXRlY3R1cmUKICAgIC0gdGhlbWU6IGFsdAogICAgICB0ZXh0OiBHaXRIdWIKICAgICAgbGluazogaHR0cHM6Ly9naXRodWIuY29tL3JvaGl0ZzAwL2FnZW50bWVtb3J5CgpmZWF0dXJlczoKICAtIGljb246IPCfp6AKICAgIHRpdGxlOiA1MCsgaWlpIEZ1bmN0aW9ucwogICAgZGV0YWlsczogcmVtZW1iZXIgLyBzZWFyY2ggLyBjcnlzdGFsbGl6ZSAvIGNvbnNvbGlkYXRlIC8gZXZpY3QgLyBncmFwaCAvIG1lc2ggLyB0ZW1wb3JhbC1ncmFwaCAvIHZpc2lvbi1zZWFyY2ggLyBzbWFydC1zZWFyY2gKICAtIGljb246IPCflbjvuI8KICAgIHRpdGxlOiBLbm93bGVkZ2UgR3JhcGgKICAgIGRldGFpbHM6IOiKgueCuSA9IOiusOW/hi/kuovlrp4v5YWz57O777yb6L65ID0g5byV55SoL+WboOaenC/ml7bpl7TvvJvmlK/mjIEgY29uZmlkZW5jZSBzY29yaW5nICsgbGlmZWN5Y2xlICsgaHlicmlkIHNlYXJjaAogIC0gaWNvbjog8J+UjAogICAgdGl0bGU6IDUzIE1DUCBUb29scwogICAgZGV0YWlsczog6buY6K6kIDgg5Liq5Y+v6KeB77yIQUdFTlRNRU1PUllfVE9PTFM9YWxsIOWQr+eUqOWFqOmDqO+8ie+8mzYgTUNQIHJlc291cmNlcyArIDMgTUNQIHByb21wdHMKICAtIGljb246IPCfqp0KICAgIHRpdGxlOiAxMiBIb29rcyArIDQgU2tpbGxzCiAgICBkZXRhaWxzOiBDbGF1ZGUgQ29kZSDlrozmlbTnlJ/lkb3lkajmnJ8gaG9vayDopobnm5bvvJpwcmUtdG9vbC11c2UgLyBwb3N0LXRvb2wtdXNlIC8gcHJlLWNvbXBhY3QgLyBzZXNzaW9uLXN0YXJ0L3N0b3AgLyBzdWJhZ2VudC1zdGFydC9zdG9wIC8gdGFzay1jb21wbGV0ZWQg562JCiAgLSBpY29uOiDwn4yQCiAgICB0aXRsZTogMTArIFBsYXRmb3JtIEludGVncmF0aW9ucwogICAgZGV0YWlsczogQ2xhdWRlIENvZGUgLyBHaXRIdWIgQ29waWxvdCBDTEkgLyBDdXJzb3IgLyBHZW1pbmkgQ0xJIC8gQ29kZXggQ0xJIC8gSGVybWVzIC8gT3BlbkNsYXcgLyBwaSAvIE9wZW5Db2RlIC8g5Lu75L2VIE1DUCBjbGllbnQKICAtIGljb246IPCflI0KICAgIHRpdGxlOiBIeWJyaWQgU2VhcmNoCiAgICBkZXRhaWxzOiBCTTI1ICsgdmVjdG9yICsga25vd2xlZGdlLWdyYXBoIOS4iei3r+WPrOWbnu+8jGNvbmZpZGVuY2Ugc2NvcmluZyArIHRlbXBvcmFsIGRlY2F5CiAgLSBpY29uOiDwn5OmCiAgICB0aXRsZTogMTI4IFJFU1QgRW5kcG9pbnRzCiAgICBkZXRhaWxzOiDlhaggU0RLIOaatOmcsu+8m+WPr+iiq+S7u+S9lSBIVFRQIGNsaWVudCDosIPnlKjvvJtQbHVnaW4gUkVTVCBwcm94eSDovazlj5EKICAtIGljb246IPCfm6HvuI8KICAgIHRpdGxlOiBQcml2YWN5ICsgUmV0ZW50aW9uCiAgICBkZXRhaWxzOiDpmpDnp4HliIbnsbvjgIFyZXRlbnRpb24g562W55Wl44CBYXV0by1mb3JnZXTjgIFjYXNjYWRlIGRlbGV0ZeOAgWRpc2stc2l6ZS1tYW5hZ2Vy44CBbGVhc2luZwogIC0gaWNvbjog8J+nrAogICAgdGl0bGU6IENyeXN0YWxsaXplIFBhdHRlcm4KICAgIGRldGFpbHM6IOaKiumbtuaVoyByZW1lbWJlciDosIPnlKjogZrlkIjmiJAgc3RydWN0dXJlZCBsZXNzb25zIC8gc2tpbGxzIC8gcGF0dGVybnPvvIhrYXJwYXRoeSBMTE0gV2lraSDmianlsZXvvIkKLS0tCgojIyDpobnnm67lrprkvY0KCj4gKioiWW91ciBjb2RpbmcgYWdlbnQgcmVtZW1iZXJzIGV2ZXJ5dGhpbmcuIE5vIG1vcmUgcmUtZXhwbGFpbmluZy4iKioKCmFnZW50bWVtb3J5IOaYryAqKmlpaS1lbmdpbmUg5LmL5LiK55qE5oyB5LmF5YyW6K6w5b+G5bGCKirvvIzorqnku7vkvZUgQUkg57yW56CB5Luj55CG6LeoIHNlc3Npb24gLyDot6jpobnnm64gLyDot6jlubPlj7Dkv53nlZnkuIrkuIvmlofjgIIKCiMjIOaguOW/g+WIm+aWsAoKLSAqKmlpaS1lbmdpbmUg5LmL5LiKKiog4oCUIFdvcmtlci9GdW5jdGlvbi9UcmlnZ2VyIOS4ieWOn+ivre+8m+S4gOWIh+aTjeS9nOe7jyBgcmVnaXN0ZXJGdW5jdGlvbmAgLyBgcmVnaXN0ZXJUcmlnZ2VyYCAvIGBzZGsudHJpZ2dlcigpYO+8jCoq57ud5LiNKirnu5Xov4cgaWlpLWVuZ2luZSDnlKjnm7Tov54gU1FMaXRlCi0gKipDcnlzdGFsbGl6ZSoqIOKAlCDmiorpm7bmlaMgcmVtZW1iZXIg6LCD55So6IGa5ZCI5oiQIHN0cnVjdHVyZWQga25vd2xlZGdl77yIbGVzc29ucyAvIHNraWxscyAvIHBhdHRlcm5z77yJ77yM5rqQ5aS05pivIEthcnBhdGh5IOeahCBMTE0gV2lraSBnaXN0Ci0gKipDb25maWRlbmNlICsgTGlmZWN5Y2xlKiog4oCUIOavj+S4quiusOW/huaciSBjb25maWRlbmNlIHNjb3JlICsgbGlmZWN5Y2xlIChhY3RpdmUvc3RhbGUvZXZpY3RlZCnvvIzoh6rliqggZGVjYXkgKyBHQwotICoqSHlicmlkIFNlYXJjaCoqIOKAlCBCTTI1ICsgdmVjdG9yICsgZ3JhcGgg5LiJ6Lev5Y+s5Zue77yM6Ieq5YqoIHJlcmFuawotICoqTXVsdGktcGxhdGZvcm0gdmlhIE1DUCoqIOKAlCDlkIzkuIDku73ku6PnoIHvvIwxMCsgQUkg5bmz5Y+w56uL5Yi75Y+v55SoCgojIyDkuI4gYWdlbnRtZW1vcnktZGVzaWduIOermQoK5pys56uZ77yIYWdlbnRtZW1vcnktZGVzaWdu77yJ5LulKirnnJ/lrp7ku6PnoIHmjqLntKIqKuS4uuS+neaNru+8iGNvZGVncmFwaCBpbmRleGVkIDQxMjIgbm9kZXMgLyAxMDQ4MyBlZGdlcyBpbiA3Ljlz77yJ77yM6YCQ5paH5Lu26K6w5b2VIGFnZW50bWVtb3J5IOeahOaetuaehOOAgeaVsOaNruaooeWei+OAgUFQSeOAgWhvb2tz44CC5omA5pyJIGNsYWltIOmDveiDveWbnuWIsCBzb3VyY2UgY29kZSDpqozor4HjgIIK
+---
+layout: home
+
+hero:
+  name: "agentmemory"
+  text: "Persistent Memory for AI Coding Agents"
+  tagline: "你的编码 agent 记住一切 — 不再需要反复解释。建在 iii-engine 之上，跨 10+ AI agent 平台。"
+  actions:
+    - theme: brand
+      text: Architecture
+      link: /architecture
+    - theme: alt
+      text: GitHub
+      link: https://github.com/rohitg00/agentmemory
+
+features:
+  - icon: 🧠
+    title: 50+ iii Functions
+    details: remember / search / crystallize / consolidate / evict / graph / mesh / temporal-graph / vision-search / smart-search
+  - icon: 🕸️
+    title: Knowledge Graph
+    details: 节点 = 记忆/事实/关系；边 = 引用/因果/时间；支持 confidence scoring + lifecycle + hybrid search
+  - icon: 🔌
+    title: 53 MCP Tools
+    details: 默认 8 个可见（AGENTMEMORY_TOOLS=all 启用全部）；6 MCP resources + 3 MCP prompts
+  - icon: 🪝
+    title: 12 Hooks + 4 Skills
+    details: Claude Code 完整生命周期 hook 覆盖：pre-tool-use / post-tool-use / pre-compact / session-start/stop / subagent-start/stop / task-completed 等
+  - icon: 🌐
+    title: 10+ Platform Integrations
+    details: Claude Code / GitHub Copilot CLI / Cursor / Gemini CLI / Codex CLI / Hermes / OpenClaw / pi / OpenCode / 任何 MCP client
+  - icon: 🔍
+    title: Hybrid Search
+    details: BM25 + vector + knowledge-graph 三路召回，confidence scoring + temporal decay
+  - icon: 📦
+    title: 128 REST Endpoints
+    details: 全 SDK 暴露；可被任何 HTTP client 调用；Plugin REST proxy 转发
+  - icon: 🛡️
+    title: Privacy + Retention
+    details: 隐私分类、retention 策略、auto-forget、cascade delete、disk-size-manager、leasing
+  - icon: 🧬
+    title: Crystallize Pattern
+    details: 把零散 remember 调用聚合成 structured lessons / skills / patterns（karpathy LLM Wiki 扩展）
+---
+
+## 项目定位
+
+> **"Your coding agent remembers everything. No more re-explaining."**
+
+agentmemory 是 **iii-engine 之上的持久化记忆层**，让任何 AI 编码代理跨 session / 跨项目 / 跨平台保留上下文。
+
+## 核心创新
+
+- **iii-engine 之上** — Worker/Function/Trigger 三原语；一切操作经 `registerFunction` / `registerTrigger` / `sdk.trigger()`，**绝不**绕过 iii-engine 用直连 SQLite
+- **Crystallize** — 把零散 remember 调用聚合成 structured knowledge（lessons / skills / patterns），源头是 Karpathy 的 LLM Wiki gist
+- **Confidence + Lifecycle** — 每个记忆有 confidence score + lifecycle (active/stale/evicted)，自动 decay + GC
+- **Hybrid Search** — BM25 + vector + graph 三路召回，自动 rerank
+- **Multi-platform via MCP** — 同一份代码，10+ AI 平台立刻可用
+
+## 与 agentmemory-design 站
+
+本站（agentmemory-design）以**真实代码探索**为依据（codegraph indexed 4122 nodes / 10483 edges in 7.9s），逐文件记录 agentmemory 的架构、数据模型、API、hooks。所有 claim 都能回到 source code 验证。

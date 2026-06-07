@@ -1,1 +1,179 @@
-IyBGdW5jdGlvbnMKCj4gNTArIGlpaSBGdW5jdGlvbnMg5YWo5pmvCgojIyDmoLjlv4MgQ1JVRO+8iOm7mOiupCA4IOW3peWFt+iDjOWQju+8iQoKfCBGdW5jdGlvbiB8IOinkuiJsiB8IFN5bWJvbHMgfAp8LS0tLS0tLS0tLXwtLS0tLS18LS0tLS0tLS0tfAp8IGBtZW06OnJlbWVtYmVyYCB8IOWGmeWFpeWNleadoeiusOW/hiArIGRlZHVwIHwgMTMgfAp8IGBtZW06OnNlYXJjaGAgfCBCTTI1ICsgdmVjdG9yICsgZ3JhcGgg5LiJ6Lev5pCc57SiIHwgMzMgfAp8IGBtZW06OmZvcmdldGAgfCDliKDpmaTorrDlv4bvvIhjYXNjYWRl77yJIHwgKOWQqyBjYXNjYWRlLnRzKSB8CnwgYG1lbTo6b2JzZXJ2ZWAgfCDorrDlvZXop4Llr5/vvIjkuI0gZGVkdXDvvIkgfCAxNSB8CnwgYG1lbTo6ZW5yaWNoYCB8IOe7meiusOW/huWKoCBjb250ZXh0IHwgOSB8CnwgYG1lbTo6cHJvZmlsZWAgfCDnlKjmiLcv6aG555uuIHByb2ZpbGUgfCA5IHwKfCBgbWVtOjphY3Rpb25zYCB8IOiusOW9leWKqOS9nCB8IDkgfAp8IGBtZW06OnNpZ25hbHNgIHwg5L+h5Y+3IHwgNyB8CgojIyDmkJzntKLkuI7mo4DntKIKCnwgRnVuY3Rpb24gfCDop5LoibIgfCBTeW1ib2xzIHwKfC0tLS0tLS0tLS18LS0tLS0tfC0tLS0tLS0tLXwKfCBgbWVtOjpzZWFyY2hgIHwg5Li75pCc57Si77yIaHlicmlk77yJIHwgMzMgfAp8IGBtZW06OnNtYXJ0LXNlYXJjaGAgfCDmmbrog73mkJzntKLvvIhxdWVyeSBleHBhbnNpb27vvIkgfCAyMSB8CnwgYG1lbTo6Z3JhcGgtcmV0cmlldmFsYCB8IOWbvui3r+W+hOajgOe0oiB8IDIxIHwKfCBgbWVtOjpxdWVyeS1leHBhbnNpb25gIHwg5p+l6K+i5omp5bGVIHwgOCB8CnwgYG1lbTo6dmlzaW9uLXNlYXJjaGAgfCDlm77niYcv6KeG6KeJ5pCc57SiIHwgMTEgfAp8IGBtZW06OnRlbXBvcmFsLWdyYXBoYCB8IOaXtuW6j+WbvuafpeivoiB8IDExIHwKfCBgbWVtOjpmcm9udGllcmAgfCDlm74gZnJvbnRpZXIg5o6i57SiIHwgOCB8CnwgYG1lbTo6c2xpZGluZy13aW5kb3dgIHwg5ruR5Yqo56qX5Y+jIHwgMTEgfAoKIyMg55+l6K+G57uE57uHCgp8IEZ1bmN0aW9uIHwg6KeS6ImyIHwgU3ltYm9scyB8CnwtLS0tLS0tLS0tfC0tLS0tLXwtLS0tLS0tLS18CnwgYG1lbTo6Y3J5c3RhbGxpemVgIHwg6IGa5ZCI5oiQIGxlc3NvbnMgfCAxMCB8CnwgYG1lbTo6Y29uc29saWRhdGVgIHwg5pW05ZCI5aSa5p2hIGxlc3NvbiB8IDExIHwKfCBgbWVtOjpjb25zb2xpZGF0aW9uLXBpcGVsaW5lYCB8IOaVtOWQiCBwaXBlbGluZSB8IDExIHwKfCBgbWVtOjpsZXNzb25zYCB8IGxlc3NvbnMgQ1JVRCB8IDggfAp8IGBtZW06OnBhdHRlcm5zYCB8IHBhdHRlcm5zIENSVUQgfCA4IHwKfCBgbWVtOjpza2lsbC1leHRyYWN0YCB8IOS7juiusOW/huaPkOWPliBza2lsbCB8IDExIHwKfCBgbWVtOjpzdW1tYXJpemVgIHwg5pGY6KaBIHwgMjMgfAp8IGBtZW06Om1lc2hgIHwg6Leo5Luj55CGIG1lc2ggfCAyMCB8CnwgYG1lbTo6Z3JhcGhgIHwg55+l6K+G5Zu+6LCxIHwgMzAgfAp8IGBtZW06OnJlbGF0aW9uc2AgfCDlhbPns7vnrqHnkIYgfCAxMSB8CnwgYG1lbTo6ZmFjZXRzYCB8IOWkmue7tOW6piBmYWNldCB8IDYgfAp8IGBtZW06OnNrZXRjaGVzYCB8IOiNieWbviB8IDggfAoKIyMg5bel5L2c6K6w5b+GCgp8IEZ1bmN0aW9uIHwg6KeS6ImyIHwgU3ltYm9scyB8CnwtLS0tLS0tLS0tfC0tLS0tLXwtLS0tLS0tLS18CnwgYG1lbTo6d29ya2luZy1tZW1vcnlgIHwg5bel5L2c6K6w5b+GIHwgMTMgfAp8IGBtZW06OnNsb3RzYCB8IOanveS9jeeuoeeQhiB8IDI1IHwKfCBgbWVtOjpjb250ZXh0YCB8IOS4iuS4i+aWhyB8IDExIHwKfCBgbWVtOjpicmFuY2gtYXdhcmVgIHwgZ2l0IGJyYW5jaCDmhJ/nn6UgfCA5IHwKCiMjIOWOi+e8qQoKfCBGdW5jdGlvbiB8IOinkuiJsiB8IFN5bWJvbHMgfAp8LS0tLS0tLS0tLXwtLS0tLS18LS0tLS0tLS0tfAp8IGBtZW06OmNvbXByZXNzYCB8IOS4u+WOi+e8qSB8IDIwIHwKfCBgbWVtOjpjb21wcmVzcy1maWxlYCB8IOaWh+S7tuWOi+e8qSB8IDE3IHwKfCBgbWVtOjpjb21wcmVzcy1zeW50aGV0aWNgIHwg5ZCI5oiQ5Y6L57ypIHwgNyB8CnwgYG1lbTo6Zmxvdy1jb21wcmVzc2AgfCDmtYHlvI/ljovnvKkgfCAxMyB8CgojIyDnlJ/lkb3lkajmnJ8gLyDmsrvnkIYKCnwgRnVuY3Rpb24gfCDop5LoibIgfCBTeW1ib2xzIHwKfC0tLS0tLS0tLS18LS0tLS0tfC0tLS0tLS0tLXwKfCBgbWVtOjpldmljdGAgfCDmt5jmsbAgfCAxNyB8CnwgYG1lbTo6YXV0by1mb3JnZXRgIHwg6Ieq5Yqo6YGX5b+YIHwgMTMgfAp8IGBtZW06OnJldGVudGlvbmAgfCDkv53nlZnnrZbnlaUgfCAxNiB8CnwgYG1lbTo6Y29uc29saWRhdGVgIHwg5pW05ZCIIHwgMTEgfAp8IGBtZW06OmRpc2stc2l6ZS1tYW5hZ2VyYCB8IOejgeebmOmFjeminSB8IDEwIHwKfCBgbWVtOjppbWFnZS1xdW90YS1jbGVhbnVwYCB8IOWbvueJh+mFjeminea4heeQhiB8IDEyIHwKfCBgbWVtOjpyZWNlbnQtc2VhcmNoZXMtc3dlZXBgIHwg5pCc57Si5Y6G5Y+y5riF55CGIHwgOSB8CnwgYG1lbTo6cHJpdmFjeWAgfCDpmpDnp4HliIbnsbsgfCA2IHwKfCBgbWVtOjpnb3Zlcm5hbmNlYCB8IOayu+eQhiB8IDEwIHwKfCBgbWVtOjpjYXNjYWRlYCB8IOe6p+iBlOWIoOmZpCB8IDcgfAp8IGBtZW06OmxlYXNlc2AgfCDnp5/nuqYgfCAxMCB8CgojIyDlv6vnhacgLyDml7bpl7QKCnwgRnVuY3Rpb24gfCDop5LoibIgfCBTeW1ib2xzIHwKfC0tLS0tLS0tLS18LS0tLS0tfC0tLS0tLS0tLXwKfCBgbWVtOjpzbmFwc2hvdGAgfCDlv6vnhacgfCAxNyB8CnwgYG1lbTo6Y2hlY2twb2ludHNgIHwgY2hlY2twb2ludCB8IDggfAp8IGBtZW06OnRpbWVsaW5lYCB8IOaXtumXtOe6vyB8IDkgfAp8IGBtZW06OnJlcGxheWAgfCDkuovku7blm57mlL4gfCAyNyB8CgojIyDmlofku7YgLyDotYTkuqcKCnwgRnVuY3Rpb24gfCDop5LoibIgfCBTeW1ib2xzIHwKfC0tLS0tLS0tLS18LS0tLS0tfC0tLS0tLS0tLXwKfCBgbWVtOjpmaWxlLWluZGV4YCB8IOaWh+S7tue0ouW8lSB8IDEwIHwKfCBgbWVtOjppbWFnZS1yZWZzYCB8IOWbvueJh+W8leeUqCB8IDkgfAp8IGBtZW06Om9ic2lkaWFuLWV4cG9ydGAgfCBPYnNpZGlhbiDlr7zlh7ogfCAyNCB8CnwgYG1lbTo6bWlncmF0ZWAgfCBzY2hlbWEg6L+B56e7IHwgMTMgfAp8IGBtZW06Om1pZ3JhdGUtdmVjdG9yLWluZGV4YCB8IHZlY3RvciBpbmRleCDov4Hnp7sgfCA5IHwKCiMjIOmbhuaIkCAvIOiviuaWrQoKfCBGdW5jdGlvbiB8IOinkuiJsiB8IFN5bWJvbHMgfAp8LS0tLS0tLS0tLXwtLS0tLS18LS0tLS0tLS0tfAp8IGBtZW06OmNsYXVkZS1icmlkZ2VgIHwgQ2xhdWRlIOmbhuaIkOahpSB8IDEyIHwKfCBgbWVtOjp0ZWFtYCB8IOWboumYn+WNj+S9nCB8IDkgfAp8IGBtZW06OnNlbnRpbmVsc2AgfCDlk6jlhbXnm5HmjqcgfCAxMCB8CnwgYG1lbTo6YWNjZXNzLXRyYWNrZXJgIHwg6K6/6Zeu6L+96LiqIHwgMTMgfAp8IGBtZW06OmF1ZGl0YCB8IOWuoeiuoSB8IDggfAp8IGBtZW06OmRpYWdub3N0aWNzYCB8IOiviuaWrSB8IDExIHwKfCBgbWVtOjpleHBvcnQtaW1wb3J0YCB8IOWvvOWFpeWvvOWHuiB8IDEwIHwKfCBgbWVtOjpyb3V0aW5lc2AgfCDml6XluLjkvovooYwgfCA4IHwKfCBgbWVtOjpyZWZsZWN0YCB8IOWPjeaAnSB8IDEyIHwKfCBgbWVtOjp2ZXJpZnlgIHwg6aqM6K+BIHwgNyB8CgojIyDmjInlip/og73liIbnsbsKCiMjIyBDcnlzdGFsbGl6ZSDmqKHlvI/vvIjmoLjlv4PliJvmlrDvvIkKCmBgYApyZW1lbWJlciAobWFueSkKICAg4oaTCltjcnlzdGFsbGl6ZV0g4oaSIGxlc3NvbiAoc3RydWN0dXJlZCkKICAg4oaTCltjb25zb2xpZGF0ZV0g4oaSIHBhdHRlcm4gKGhpZ2hlci1sZXZlbCkKICAg4oaTCltza2lsbC1leHRyYWN0XSDihpIgc2tpbGwgKHJldXNhYmxlKQpgYGAKCiMjIyDmkJzntKLkvJjlhYjnuqcKCmBgYApzZWFyY2ggKGJyb2FkKSDihpIgc21hcnQtc2VhcmNoIChyZXJhbmtlZCkg4oaSIGdyYXBoLXJldHJpZXZhbCAocGF0aC1iYXNlZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKGkwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlzaW9uLXNlYXJjaCAoaW1hZ2UpCmBgYAoKIyMjIOWOi+e8qei3r+W+hAoKYGBgCmNvbXByZXNzIChmdWxsIGNvbnRlbnQpIOKGkiBjb21wcmVzcy1maWxlIChmaWxlIHBhdGggYXdhcmUpIOKGkiBjb21wcmVzcy1zeW50aGV0aWMgKHN5bnRoZXNpemVkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDihpMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmxvdy1jb21wcmVzcyAoc3RyZWFtaW5nKQpgYGAKCiMjIOazqOWGjOaooeW8jwoKYGBgdHlwZXNjcmlwdAovLyAxLiBSZWdpc3RlciBmdW5jdGlvbgpzZGsucmVnaXN0ZXJGdW5jdGlvbigibWVtOjp5b3VyLW5hbWUiLCBhc3luYyAoZGF0YSkgPT4gewogIC8vIHZhbGlkYXRlCiAgLy8gYnVzaW5lc3MgbG9naWMgdmlhIGt2LioKICAvLyByZWNvcmQgYXVkaXQKICByZXR1cm4gcmVzdWx0Owp9KTsKCi8vIDIuIFJlZ2lzdGVyIEhUVFAgdHJpZ2dlciAoUkVTVCBBUEkpCnNkay5yZWdpc3RlckZ1bmN0aW9uKCJhcGk6OnlvdXItZW5kcG9pbnQiLCBhc3luYyAocmVxKSA9PiB7CiAgY29uc3QgZGVuaWVkID0gY2hlY2tBdXRoKHJlcSwgc2VjcmV0KTsKICBpZiAoZGVuaWVkKSByZXR1cm4gZGVuaWVkOwogIGNvbnN0IGJvZHkgPSByZXEuYm9keSBhcyBSZWNvcmQ8c3RyaW5nLCB1bmtub3duPjsKICBjb25zdCByZXN1bHQgPSBhd2FpdCBzZGsudHJpZ2dlcih7CiAgICBmdW5jdGlvbl9pZDogIm1lbTo6eW91ci1uYW1lIiwKICAgIHBheWxvYWQ6IHsgLyogd2hpdGVsaXN0IGZpZWxkcyAqLyB9LAogIH0pOwogIHJldHVybiB7IHN0YXR1c19jb2RlOiAyMDAsIGJvZHk6IHJlc3VsdCB9Owp9KTsKc2RrLnJlZ2lzdGVyVHJpZ2dlcih7CiAgdHlwZTogImh0dHAiLAogIGZ1bmN0aW9uX2lkOiAiYXBpOjp5b3VyLWVuZHBvaW50IiwKICBjb25maWc6IHsgYXBpX3BhdGg6ICIvYWdlbnRtZW1vcnkveW91ci1wYXRoIiwgaHR0cF9tZXRob2Q6ICJQT1NUIiB9LAp9KTsKYGBgCgojIyDmtYvor5UKCi0gOTUwKyB0ZXN0cwotIOWFqOmDqOeUqCBgdmkubW9jaygiaWlpLXNkayIpYCDmqKHlvI8KLSBgdGVzdC9jcnlzdGFsbGl6ZS50ZXN0LnRzYCDmmK8gZnVuY3Rpb24g5rWL6K+V5qih5p2/Cg==
+# Functions
+
+> 50+ iii Functions 全景
+
+## 核心 CRUD（默认 8 工具背后）
+
+| Function | 角色 | Symbols |
+|----------|------|---------|
+| `mem::remember` | 写入单条记忆 + dedup | 13 |
+| `mem::search` | BM25 + vector + graph 三路搜索 | 33 |
+| `mem::forget` | 删除记忆（cascade） | (含 cascade.ts) |
+| `mem::observe` | 记录观察（不 dedup） | 15 |
+| `mem::enrich` | 给记忆加 context | 9 |
+| `mem::profile` | 用户/项目 profile | 9 |
+| `mem::actions` | 记录动作 | 9 |
+| `mem::signals` | 信号 | 7 |
+
+## 搜索与检索
+
+| Function | 角色 | Symbols |
+|----------|------|---------|
+| `mem::search` | 主搜索（hybrid） | 33 |
+| `mem::smart-search` | 智能搜索（query expansion） | 21 |
+| `mem::graph-retrieval` | 图路径检索 | 21 |
+| `mem::query-expansion` | 查询扩展 | 8 |
+| `mem::vision-search` | 图片/视觉搜索 | 11 |
+| `mem::temporal-graph` | 时序图查询 | 11 |
+| `mem::frontier` | 图 frontier 探索 | 8 |
+| `mem::sliding-window` | 滑动窗口 | 11 |
+
+## 知识组织
+
+| Function | 角色 | Symbols |
+|----------|------|---------|
+| `mem::crystallize` | 聚合成 lessons | 10 |
+| `mem::consolidate` | 整合多条 lesson | 11 |
+| `mem::consolidation-pipeline` | 整合 pipeline | 11 |
+| `mem::lessons` | lessons CRUD | 8 |
+| `mem::patterns` | patterns CRUD | 8 |
+| `mem::skill-extract` | 从记忆提取 skill | 11 |
+| `mem::summarize` | 摘要 | 23 |
+| `mem::mesh` | 跨代理 mesh | 20 |
+| `mem::graph` | 知识图谱 | 30 |
+| `mem::relations` | 关系管理 | 11 |
+| `mem::facets` | 多维度 facet | 6 |
+| `mem::sketches` | 草图 | 8 |
+
+## 工作记忆
+
+| Function | 角色 | Symbols |
+|----------|------|---------|
+| `mem::working-memory` | 工作记忆 | 13 |
+| `mem::slots` | 槽位管理 | 25 |
+| `mem::context` | 上下文 | 11 |
+| `mem::branch-aware` | git branch 感知 | 9 |
+
+## 压缩
+
+| Function | 角色 | Symbols |
+|----------|------|---------|
+| `mem::compress` | 主压缩 | 20 |
+| `mem::compress-file` | 文件压缩 | 17 |
+| `mem::compress-synthetic` | 合成压缩 | 7 |
+| `mem::flow-compress` | 流式压缩 | 13 |
+
+## 生命周期 / 治理
+
+| Function | 角色 | Symbols |
+|----------|------|---------|
+| `mem::evict` | 淘汰 | 17 |
+| `mem::auto-forget` | 自动遗忘 | 13 |
+| `mem::retention` | 保留策略 | 16 |
+| `mem::consolidate` | 整合 | 11 |
+| `mem::disk-size-manager` | 磁盘配额 | 10 |
+| `mem::image-quota-cleanup` | 图片配额清理 | 12 |
+| `mem::recent-searches-sweep` | 搜索历史清理 | 9 |
+| `mem::privacy` | 隐私分类 | 6 |
+| `mem::governance` | 治理 | 10 |
+| `mem::cascade` | 级联删除 | 7 |
+| `mem::leases` | 租约 | 10 |
+
+## 快照 / 时间
+
+| Function | 角色 | Symbols |
+|----------|------|---------|
+| `mem::snapshot` | 快照 | 17 |
+| `mem::checkpoints` | checkpoint | 8 |
+| `mem::timeline` | 时间线 | 9 |
+| `mem::replay` | 事件回放 | 27 |
+
+## 文件 / 资产
+
+| Function | 角色 | Symbols |
+|----------|------|---------|
+| `mem::file-index` | 文件索引 | 10 |
+| `mem::image-refs` | 图片引用 | 9 |
+| `mem::obsidian-export` | Obsidian 导出 | 24 |
+| `mem::migrate` | schema 迁移 | 13 |
+| `mem::migrate-vector-index` | vector index 迁移 | 9 |
+
+## 集成 / 诊断
+
+| Function | 角色 | Symbols |
+|----------|------|---------|
+| `mem::claude-bridge` | Claude 集成桥 | 12 |
+| `mem::team` | 团队协作 | 9 |
+| `mem::sentinels` | 哨兵监控 | 10 |
+| `mem::access-tracker` | 访问追踪 | 13 |
+| `mem::audit` | 审计 | 8 |
+| `mem::diagnostics` | 诊断 | 11 |
+| `mem::export-import` | 导入导出 | 10 |
+| `mem::routines` | 日常例行 | 8 |
+| `mem::reflect` | 反思 | 12 |
+| `mem::verify` | 验证 | 7 |
+
+## 按功能分类
+
+### Crystallize 模式（核心创新）
+
+```
+remember (many)
+   ↓
+[crystallize] → lesson (structured)
+   ↓
+[consolidate] → pattern (higher-level)
+   ↓
+[skill-extract] → skill (reusable)
+```
+
+### 搜索优先级
+
+```
+search (broad) → smart-search (reranked) → graph-retrieval (path-based)
+                                  ↓
+                            vision-search (image)
+```
+
+### 压缩路径
+
+```
+compress (full content) → compress-file (file path aware) → compress-synthetic (synthesized)
+                                                ↓
+                                       flow-compress (streaming)
+```
+
+## 注册模式
+
+```typescript
+// 1. Register function
+sdk.registerFunction("mem::your-name", async (data) => {
+  // validate
+  // business logic via kv.*
+  // record audit
+  return result;
+});
+
+// 2. Register HTTP trigger (REST API)
+sdk.registerFunction("api::your-endpoint", async (req) => {
+  const denied = checkAuth(req, secret);
+  if (denied) return denied;
+  const body = req.body as Record<string, unknown>;
+  const result = await sdk.trigger({
+    function_id: "mem::your-name",
+    payload: { /* whitelist fields */ },
+  });
+  return { status_code: 200, body: result };
+});
+sdk.registerTrigger({
+  type: "http",
+  function_id: "api::your-endpoint",
+  config: { api_path: "/agentmemory/your-path", http_method: "POST" },
+});
+```
+
+## 测试
+
+- 950+ tests
+- 全部用 `vi.mock("iii-sdk")` 模式
+- `test/crystallize.test.ts` 是 function 测试模板

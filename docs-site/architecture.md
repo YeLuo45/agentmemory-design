@@ -1,1 +1,167 @@
-IyBBcmNoaXRlY3R1cmUKCj4gYWdlbnRtZW1vcnkg57O757uf5p625p6E77yIdjAuOS4yOO+8jDQxMjIgbm9kZXMgLyAxMDQ4MyBlZGdlcyBpbmRleGVk77yJCgojIyAxLiDmpoLop4gKCmFnZW50bWVtb3J5IOaYryAqKmlpaS1lbmdpbmUg5LmL5LiK55qE5bqU55So5bGCKirvvIzmioogaWlpLWVuZ2luZSDkuInljp/or63vvIhXb3JrZXIvRnVuY3Rpb24vVHJpZ2dlcu+8iee7hOijheaIkCJBSSDku6PnkIbmjIHkuYXljJborrDlv4bns7vnu58i44CCCgpgYGAK4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQCuKUgiAgICAgICAgICAgICAgICAgICBBSSBBZ2VudCAoMTArIHBsYXRmb3JtcykgICAgICAgICAgICAgICAgICAgICAgICAgIOKUggrilIIgIENsYXVkZSBDb2RlIC8gQ3Vyc29yIC8gQ29kZXggLyBDb3BpbG90IC8gR2VtaW5pIC8gSGVybWVzIC8gLi4uICAgIOKUggrilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilKzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJgKICAgICAgICAgICAgICAgICAg4pSCIE1DUCAvIFJFU1QKICAgICAgICAgICAgICAgICAg4pa8CuKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkArilIIgICAgICAgICAgICAgIGFnZW50bWVtb3J5ICAodGhpcyByZXBvKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCCuKUgiAg4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQICDilIIK4pSCICDilIIgIE1DUCBMYXllciAoNTMgdG9vbHMpICDilIDilrogIFJFU1QgUHJveHkgKDEyOCBlbmRwb2ludHMpICAgICAgIOKUgiAg4pSCCuKUgiAg4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYICDilIIK4pSCICDilIzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJAgIOKUggrilIIgIOKUgiAgRnVuY3Rpb24gTGF5ZXIgKDUwKyBpaWkgZnVuY3Rpb25zKSAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCICDilIIK4pSCICDilIIgICAtIHJlbWVtYmVyIC8gc2VhcmNoIC8gY3J5c3RhbGxpemUgICAgICAgICAgICAgICAgICAgICAgICAgIOKUgiAg4pSCCuKUgiAg4pSCICAgLSBncmFwaCAvIG1lc2ggLyB0ZW1wb3JhbC1ncmFwaCAgICAgICAgICAgICAgICAgICAgICAgICAgICDilIIgIOKUggrilIIgIOKUgiAgIC0gY29uc29saWRhdGUgLyBldmljdCAvIHJldGVudGlvbiAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCICDilIIK4pSCICDilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJggIOKUggrilIIgIOKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkCAg4pSCCuKUgiAg4pSCICBTdGF0ZSBMYXllciAoU1FMaXRlIHZpYSBpaWktZW5naW5lIFN0YXRlTW9kdWxlKSAgICAgICAgICAgICDilIIgIOKUggrilIIgIOKUgiAgIC4vZGF0YS9zdGF0ZV9zdG9yZS5kYiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCICDilIIK4pSCICDilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJggIOKUggrilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilKzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJgKICAgICAgICAgICAgICAgICAg4pSCIFdlYlNvY2tldCAocG9ydCA0OTEzNCkKICAgICAgICAgICAgICAgICAg4pa8CuKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkArilIIgICAgICAgICAgICAgIGlpaS1lbmdpbmUgIChodHRwczovL2dpdGh1Yi5jb20vaWlpLWhxL2lpaSkgICAgICAgICAgICDilIIK4pSCICAtIFdvcmtlciAvIEZ1bmN0aW9uIC8gVHJpZ2dlciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKUggrilIIgIC0gV2ViU29ja2V0IHRyYW5zcG9ydCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCCuKUgiAgLSBTdGF0ZU1vZHVsZSAoS1YgKyBTUUxpdGUpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilIIK4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYCmBgYAoKIyMgMi4g5qih5Z2X57uT5p6ECgpgYGAKYWdlbnRtZW1vcnkvCuKUnOKUgOKUgCBzcmMvCuKUgiAgIOKUnOKUgOKUgCBhdXRoLnRzICAgICAgICAgICAgICAgICAjIOmJtOadgwrilIIgICDilJzilIDilIAgY2xpLyAgICAgICAgICAgICAgICAgICAgIyBDTEkg5YWl5Y+jCuKUgiAgIOKUnOKUgOKUgCBjbGkudHMgICAgICAgICAgICAgICAgICAjIENMSSDpobblsYIK4pSCICAg4pSc4pSA4pSAIGNvbmZpZy50cyAgICAgICAgICAgICAgICMg6YWN572uCuKUgiAgIOKUnOKUgOKUgCBldmFsLyAgICAgICAgICAgICAgICAgICAjIOivhOS8sArilIIgICDilJzilIDilIAgZnVuY3Rpb25zLyAgICAgICAgICAgICAgIyDimIUgNTArIGlpaSBmdW5jdGlvbnPvvIjmoLjlv4PvvIkK4pSCICAg4pSc4pSA4pSAIGhlYWx0aC8gICAgICAgICAgICAgICAgICMg5YGl5bq35qOA5p+lCuKUgiAgIOKUnOKUgOKUgCBob29rcy8gICAgICAgICAgICAgICAgICAjIEhvb2sg6L6F5Yqp77yIdHMg56uv77yJCuKUgiAgIOKUnOKUgOKUgCBpbmRleC50cyAgICAgICAgICAgICAgICAjIOS4u+WFpeWPowrilIIgICDilJzilIDilIAgbG9nZ2VyLnRzCuKUgiAgIOKUnOKUgOKUgCBtY3AvICAgICAgICAgICAgICAgICAgICAjIOKYhSBNQ1Agc2VydmVyCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCBzZXJ2ZXIudHMgICAgICAgICAgICMgTUNQIOWNj+iuruWunueOsArilIIgICDilIIgICDilJzilIDilIAgdHJhbnNwb3J0LnRzICAgICAgICAjIHN0ZGlvIC8gSFRUUArilIIgICDilIIgICDilJzilIDilIAgdG9vbHMtcmVnaXN0cnkudHMgICAjIDUzIOW3peWFt+WumuS5iQrilIIgICDilIIgICDilJzilIDilIAgcmVzdC1wcm94eS50cyAgICAgICAjIE1DUCDihpIgUkVTVArilIIgICDilIIgICDilJzilIDilIAgc3RhbmRhbG9uZS50cyAgICAgICAjIOS4jeS+nei1liBpaWktZW5naW5lIOeahOi/kOihjOaooeW8jwrilIIgICDilIIgICDilJTilIDilIAgaW4tbWVtb3J5LWt2LnRzCuKUgiAgIOKUnOKUgOKUgCBwcm9tcHRzLyAgICAgICAgICAgICAgICAjIE1DUCBwcm9tcHRzCuKUgiAgIOKUnOKUgOKUgCBwcm92aWRlcnMvICAgICAgICAgICAgICAjIOesrOS4ieaWuSBwcm92aWRlciAoTExNLCBlbWJlZCkK4pSCICAg4pSc4pSA4pSAIHJlcGxheS8gICAgICAgICAgICAgICAgICMg5LqL5Lu25Zue5pS+CuKUgiAgIOKUnOKUgOKUgCBzdGF0ZS8gICAgICAgICAgICAgICAgICAjIOeKtuaAgSBzY2hlbWEK4pSCICAg4pSc4pSA4pSAIHRlbGVtZXRyeS8K4pSCICAg4pSc4pSA4pSAIHRyaWdnZXJzLyAgICAgICAgICAgICAgICMgUkVTVCDop6blj5HlmagK4pSCICAg4pSc4pSA4pSAIHR5cGVzLnRzCuKUgiAgIOKUnOKUgOKUgCB1dGlscy8K4pSCICAg4pSc4pSA4pSAIHZlcnNpb24udHMK4pSCICAg4pSU4pSA4pSAIHZpZXdlci8gICAgICAgICAgICAgICAgICMg6LCD6K+VIHZpZXdlcgrilJzilIDilIAgcGx1Z2luLyAgICAgICAgICAgICAgICAgICAgICMgQ2xhdWRlIENvZGUgcGx1Z2luIG1hbmlmZXN0CuKUgiAgIOKUnOKUgOKUgCBwbHVnaW4uanNvbgrilIIgICDilJzilIDilIAgaG9va3MvICAgICAgICAgICAgICAgICAgIyAxNCBob29rIOiEmuacrArilIIgICDilJzilIDilIAgb3BlbmNvZGUvICAgICAgICAgICAgICAgIyBvcGVuY29kZSDpm4bmiJAK4pSCICAg4pSc4pSA4pSAIHNjcmlwdHMvICAgICAgICAgICAgICAgICMgKHNhbWUgaG9va3M7IGxlZ2FjeSBsb2NhdGlvbikK4pSCICAg4pSU4pSA4pSAIHNraWxscy8gICAgICAgICAgICAgICAgICMgNCBza2lsbHMK4pSc4pSA4pSAIGJlbmNobWFyay8gICAgICAgICAgICAgICAgICAjIOaAp+iDveWfuuWHhgrilJzilIDilIAgZGVwbG95LyAgICAgICAgICAgICAgICAgICAgICMg6YOo572y6YWN572uCuKUnOKUgOKUgCBkb2NzLyAgICAgICAgICAgICAgICAgICAgICAgIyDnlKjmiLfmlofmoaMK4pSc4pSA4pSAIGV4YW1wbGVzLyAgICAgICAgICAgICAgICAgICAjIOekuuS+i+mhueebrgrilJzilIDilIAgZXZhbC8gICAgICAgICAgICAgICAgICAgICAgICMg6K+E5Lyw5aWX5Lu2CuKUnOKUgOKUgCBhc3NldHMvICAgICAgICAgICAgICAgICAgICAgIyDpnZnmgIHotYTmupAK4pSU4pSA4pSAIGRvY2tlci1jb21wb3NlLnltbApgYGAKCiMjIDMuIOaVsOaNrua1ge+8muS4gOasoSBgcmVtZW1iZXJgIOiwg+eUqAoKYGBgCjEuIEFnZW50IGNhbGxzIE1DUCB0b29sICJtZW1vcnlfcmVtZW1iZXIiIHdpdGggeyBzY29wZSwgY29udGVudCwgdGFncywgLi4uIH0KMi4gbWNwL3NlcnZlci50czogaGFuZGxlICJtZW1vcnlfcmVtZW1iZXIiIGNhc2UKMy4gbWNwL3Jlc3QtcHJveHkudHM6IGZvcndhcmQgdG8gUkVTVCBQT1NUIC9hZ2VudG1lbW9yeS9yZW1lbWJlcgo0LiB0cmlnZ2Vycy9hcGkudHM6IHJlZ2lzdGVyIGZ1bmN0aW9uICJhcGk6OnJlbWVtYmVyIgo1LiBmdW5jdGlvbnMvcmVtZW1iZXIudHMgKG1lbTo6cmVtZW1iZXIpOgogICBhLiB2YWxpZGF0ZSBpbnB1dAogICBiLiBmaW5nZXJwcmludElkKCkgZm9yIGRlZHVwCiAgIGMuIGt2LnNldCgibWVtb3J5OntpZH0iLCB7IGNvbnRlbnQsIGNvbmZpZGVuY2UsIGxpZmVjeWNsZSwgLi4uIH0pCiAgIGQuIHJlY29yZEF1ZGl0KCkgZm9yIHN0YXRlIGNoYW5nZSB0cmFja2luZwo2LiByZXR1cm4geyBpZCwgZmluZ2VycHJpbnQsIC4uLiB9IOKGkiBiYWNrIHRvIGFnZW50CmBgYAoKIyMgNC4g5YWz6ZSu6K6+6K6h5Y6f5YiZCgp8IOWOn+WImSB8IOWunueOsCB8CnwtLS0tLS18LS0tLS0tfAp8ICoqaWlpLWVuZ2luZSDmmK/llK/kuIDlhaXlj6MqKiB8IOS4gOWIh+e7jyBgcmVnaXN0ZXJGdW5jdGlvbmAgLyBgcmVnaXN0ZXJUcmlnZ2VyYCAvIGBzZGsudHJpZ2dlcigpYO+8m+S4jeebtOi/niBTUUxpdGUgfAp8ICoqTUNQIOS8mOWFiCoqIHwgNTMg5bel5YW377ybMTArIOW5s+WPsOmbtuaIkOacrOaOpeWFpSB8CnwgKipSRVNUIOWFqCBTREsqKiB8IDEyOCBlbmRwb2ludHPvvJvku7vkvZUgSFRUUCBjbGllbnQg5Y+v6LCDIHwKfCAqKkNyeXN0YWxsaXplIOiBmuWQiCoqIHwg6Zu25pWjIHJlbWVtYmVyIOKGkiBzdHJ1Y3R1cmVkIGxlc3NvbnMvc2tpbGxzL3BhdHRlcm5zIHwKfCAqKkNvbmZpZGVuY2UgKyBMaWZlY3ljbGUqKiB8IOavj+adoeiusOW/huaciSBjb25maWRlbmNlICsgbGlmZWN5Y2xlIOWtl+aute+8jOiHquWKqCBkZWNheSB8CnwgKipIeWJyaWQgU2VhcmNoKiogfCBCTTI1ICsgdmVjdG9yICsgZ3JhcGgg5LiJ6Lev5Y+s5ZueIHwKfCAqKlByaXZhY3kgKyBSZXRlbnRpb24qKiB8IOmakOengeWIhuexu+OAgXJldGVudGlvbiDnrZbnlaXjgIFhdXRvLWZvcmdldOOAgWNhc2NhZGUgZGVsZXRlIHwKCiMjIDUuIOS4gOiHtOaAp+inhOWIme+8iOadpeiHqiBBR0VOVFMubWTvvIkKCioq5YqgIE1DUCDlt6Xlhbflv4Xmm7TmlrAgOCDlpIQqKu+8mgoxLiBgc3JjL21jcC90b29scy1yZWdpc3RyeS50c2AKMi4gYHNyYy9tY3Avc2VydmVyLnRzYCAoaGFuZGxlciBzd2l0Y2ggY2FzZSkKMy4gYHNyYy90cmlnZ2Vycy9hcGkudHNgCjQuIGBzcmMvaW5kZXgudHNgIChmdW5jdGlvbiDms6jlhowgKyBlbmRwb2ludCDmlbApCjUuIGB0ZXN0L21jcC1zdGFuZGFsb25lLnRlc3QudHNgICh0b29sIGNvdW50IGFzc2VydGlvbikKNi4gYFJFQURNRS5tZGAgKHRvb2wgY291bnQpCjcuIGBwbHVnaW4vLmNsYXVkZS1wbHVnaW4vcGx1Z2luLmpzb25gICh0b29sIGNvdW50KQo4LiBgcGx1Z2luL3BsdWdpbi5qc29uYCArIGBwbHVnaW4vLm1jcC5jb3BpbG90Lmpzb25gIChNQ1AgZXhwb3N1cmUpCgoqKuWKoCBSRVNUIGVuZHBvaW50IOW/heabtOaWsCAzIOWkhCoq77yaCjEuIGBzcmMvdHJpZ2dlcnMvYXBpLnRzYAoyLiBgc3JjL2luZGV4LnRzYCAoZW5kcG9pbnQgY291bnQpCjMuIGBSRUFETUUubWRgIChlbmRwb2ludCBjb3VudCkKCioqVmVyc2lvbiDljYfnuqflv4Xmm7TmlrAgNyDlpIQqKu+8mgoxLiBgcGFja2FnZS5qc29uYCB2ZXJzaW9uCjIuIGBzcmMvdmVyc2lvbi50c2AgVkVSU0lPTiArIHR5cGUgdW5pb24KMy4gYHNyYy90eXBlcy50c2AgRXhwb3J0RGF0YSB2ZXJzaW9uIHVuaW9uCjQuIGBzcmMvZnVuY3Rpb25zL2V4cG9ydC1pbXBvcnQudHNgIHN1cHBvcnRlZFZlcnNpb25zCjUuIGB0ZXN0L2V4cG9ydC1pbXBvcnQudGVzdC50c2AgdmVyc2lvbiBhc3NlcnRpb24KNi4gYHBsdWdpbi8uY2xhdWRlLXBsdWdpbi9wbHVnaW4uanNvbmAgdmVyc2lvbgo3LiBgcGx1Z2luL3BsdWdpbi5qc29uYCAod2hlbiBwcmVzZW50KQoKIyMgNi4g5YWz6ZSu5paH5Lu25Luj56CB6YePCgp8IOaWh+S7tiB8IFN5bWJvbHMgfCDop5LoibIgfAp8LS0tLS0tfC0tLS0tLS0tLXwtLS0tLS18CnwgYHNyYy9mdW5jdGlvbnMvc2VhcmNoLnRzYCB8IDMzIHwg5pCc57Si5Li75YWl5Y+j77yIQk0yNSArIHZlY3RvciArIGdyYXBo77yJIHwKfCBgc3JjL2Z1bmN0aW9ucy9ncmFwaC50c2AgfCAzMCB8IOefpeivhuWbvuiwseaehOW7uiB8CnwgYHNyYy9mdW5jdGlvbnMvcmVwbGF5LnRzYCB8IDI3IHwg5LqL5Lu25Zue5pS+IHwKfCBgc3JjL2Z1bmN0aW9ucy9zbG90cy50c2AgfCAyNSB8IOanveS9jeeuoeeQhu+8iHdvcmtpbmcgbWVtb3J577yJIHwKfCBgc3JjL2Z1bmN0aW9ucy9vYnNpZGlhbi1leHBvcnQudHNgIHwgMjQgfCBPYnNpZGlhbiDpm4bmiJAgfAp8IGBzcmMvZnVuY3Rpb25zL3N1bW1hcml6ZS50c2AgfCAyMyB8IOaRmOimgSB8CnwgYHNyYy9mdW5jdGlvbnMvc21hcnQtc2VhcmNoLnRzYCB8IDIxIHwg5pm66IO95pCc57Si77yIcXVlcnkgZXhwYW5zaW9u77yJIHwKfCBgc3JjL2Z1bmN0aW9ucy9ncmFwaC1yZXRyaWV2YWwudHNgIHwgMjEgfCDlm77mo4DntKIgfAp8IGBzcmMvZnVuY3Rpb25zL21lc2gudHNgIHwgMjAgfCDot6jku6PnkIYgbWVzaCB8CnwgYHNyYy9mdW5jdGlvbnMvY29tcHJlc3MudHNgIHwgMjAgfCDljovnvKkgfAp8IGBzcmMvbWNwL3N0YW5kYWxvbmUudHNgIHwgMjcgfCDkuI3kvp3otZYgaWlpLWVuZ2luZSDnmoQgTUNQIOaooeW8jyB8CnwgYHNyYy9tY3AvcmVzdC1wcm94eS50c2AgfCAyNCB8IE1DUCDihpIgUkVTVCDku6PnkIYgfAoKIyMgNy4g5b2T5YmN6KeE5qih77yIdjAuOS4yOO+8iQoKLSAqKjUzIE1DUCB0b29scyoqICg4IHZpc2libGUgYnkgZGVmYXVsdCwgYEFHRU5UTUVNT1JZX1RPT0xTPWFsbGAgZm9yIGFsbCkKLSAqKjEyOCBSRVNUIGVuZHBvaW50cyoqCi0gKio2IE1DUCByZXNvdXJjZXMsIDMgTUNQIHByb21wdHMqKgotICoqMTIgaG9va3MsIDQgc2tpbGxzKioKLSAqKjUwKyBpaWkgZnVuY3Rpb25zKioKLSAqKjk1MCsgdGVzdHMqKgotICoqNDEyMiBub2RlcywgMTA0ODMgZWRnZXMqKiAoY29kZWdyYXBoIGluZGV4ZWQpCg==
+# Architecture
+
+> agentmemory 系统架构（v0.9.28，4122 nodes / 10483 edges indexed）
+
+## 1. 概览
+
+agentmemory 是 **iii-engine 之上的应用层**，把 iii-engine 三原语（Worker/Function/Trigger）组装成"AI 代理持久化记忆系统"。
+
+```
+┌────────────────────────────────────────────────────────────────────┐
+│                   AI Agent (10+ platforms)                          │
+│  Claude Code / Cursor / Codex / Copilot / Gemini / Hermes / ...    │
+└─────────────────┬──────────────────────────────────────────────────┘
+                  │ MCP / REST
+                  ▼
+┌────────────────────────────────────────────────────────────────────┐
+│              agentmemory  (this repo)                                │
+│  ┌──────────────────────────────────────────────────────────────┐  │
+│  │  MCP Layer (53 tools)  ─►  REST Proxy (128 endpoints)       │  │
+│  └──────────────────────────────────────────────────────────────┘  │
+│  ┌──────────────────────────────────────────────────────────────┐  │
+│  │  Function Layer (50+ iii functions)                          │  │
+│  │   - remember / search / crystallize                          │  │
+│  │   - graph / mesh / temporal-graph                            │  │
+│  │   - consolidate / evict / retention                          │  │
+│  └──────────────────────────────────────────────────────────────┘  │
+│  ┌──────────────────────────────────────────────────────────────┐  │
+│  │  State Layer (SQLite via iii-engine StateModule)             │  │
+│  │   ./data/state_store.db                                      │  │
+│  └──────────────────────────────────────────────────────────────┘  │
+└─────────────────┬──────────────────────────────────────────────────┘
+                  │ WebSocket (port 49134)
+                  ▼
+┌────────────────────────────────────────────────────────────────────┐
+│              iii-engine  (https://github.com/iii-hq/iii)            │
+│  - Worker / Function / Trigger                                       │
+│  - WebSocket transport                                               │
+│  - StateModule (KV + SQLite)                                         │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+## 2. 模块结构
+
+```
+agentmemory/
+├── src/
+│   ├── auth.ts                 # 鉴权
+│   ├── cli/                    # CLI 入口
+│   ├── cli.ts                  # CLI 顶层
+│   ├── config.ts               # 配置
+│   ├── eval/                   # 评估
+│   ├── functions/              # ★ 50+ iii functions（核心）
+│   ├── health/                 # 健康检查
+│   ├── hooks/                  # Hook 辅助（ts 端）
+│   ├── index.ts                # 主入口
+│   ├── logger.ts
+│   ├── mcp/                    # ★ MCP server
+│   │   ├── server.ts           # MCP 协议实现
+│   │   ├── transport.ts        # stdio / HTTP
+│   │   ├── tools-registry.ts   # 53 工具定义
+│   │   ├── rest-proxy.ts       # MCP → REST
+│   │   ├── standalone.ts       # 不依赖 iii-engine 的运行模式
+│   │   └── in-memory-kv.ts
+│   ├── prompts/                # MCP prompts
+│   ├── providers/              # 第三方 provider (LLM, embed)
+│   ├── replay/                 # 事件回放
+│   ├── state/                  # 状态 schema
+│   ├── telemetry/
+│   ├── triggers/               # REST 触发器
+│   ├── types.ts
+│   ├── utils/
+│   ├── version.ts
+│   └── viewer/                 # 调试 viewer
+├── plugin/                     # Claude Code plugin manifest
+│   ├── plugin.json
+│   ├── hooks/                  # 14 hook 脚本
+│   ├── opencode/               # opencode 集成
+│   ├── scripts/                # (same hooks; legacy location)
+│   └── skills/                 # 4 skills
+├── benchmark/                  # 性能基准
+├── deploy/                     # 部署配置
+├── docs/                       # 用户文档
+├── examples/                   # 示例项目
+├── eval/                       # 评估套件
+├── assets/                     # 静态资源
+└── docker-compose.yml
+```
+
+## 3. 数据流：一次 `remember` 调用
+
+```
+1. Agent calls MCP tool "memory_remember" with { scope, content, tags, ... }
+2. mcp/server.ts: handle "memory_remember" case
+3. mcp/rest-proxy.ts: forward to REST POST /agentmemory/remember
+4. triggers/api.ts: register function "api::remember"
+5. functions/remember.ts (mem::remember):
+   a. validate input
+   b. fingerprintId() for dedup
+   c. kv.set("memory:{id}", { content, confidence, lifecycle, ... })
+   d. recordAudit() for state change tracking
+6. return { id, fingerprint, ... } → back to agent
+```
+
+## 4. 关键设计原则
+
+| 原则 | 实现 |
+|------|------|
+| **iii-engine 是唯一入口** | 一切经 `registerFunction` / `registerTrigger` / `sdk.trigger()`；不直连 SQLite |
+| **MCP 优先** | 53 工具；10+ 平台零成本接入 |
+| **REST 全 SDK** | 128 endpoints；任何 HTTP client 可调 |
+| **Crystallize 聚合** | 零散 remember → structured lessons/skills/patterns |
+| **Confidence + Lifecycle** | 每条记忆有 confidence + lifecycle 字段，自动 decay |
+| **Hybrid Search** | BM25 + vector + graph 三路召回 |
+| **Privacy + Retention** | 隐私分类、retention 策略、auto-forget、cascade delete |
+
+## 5. 一致性规则（来自 AGENTS.md）
+
+**加 MCP 工具必更新 8 处**：
+1. `src/mcp/tools-registry.ts`
+2. `src/mcp/server.ts` (handler switch case)
+3. `src/triggers/api.ts`
+4. `src/index.ts` (function 注册 + endpoint 数)
+5. `test/mcp-standalone.test.ts` (tool count assertion)
+6. `README.md` (tool count)
+7. `plugin/.claude-plugin/plugin.json` (tool count)
+8. `plugin/plugin.json` + `plugin/.mcp.copilot.json` (MCP exposure)
+
+**加 REST endpoint 必更新 3 处**：
+1. `src/triggers/api.ts`
+2. `src/index.ts` (endpoint count)
+3. `README.md` (endpoint count)
+
+**Version 升级必更新 7 处**：
+1. `package.json` version
+2. `src/version.ts` VERSION + type union
+3. `src/types.ts` ExportData version union
+4. `src/functions/export-import.ts` supportedVersions
+5. `test/export-import.test.ts` version assertion
+6. `plugin/.claude-plugin/plugin.json` version
+7. `plugin/plugin.json` (when present)
+
+## 6. 关键文件代码量
+
+| 文件 | Symbols | 角色 |
+|------|---------|------|
+| `src/functions/search.ts` | 33 | 搜索主入口（BM25 + vector + graph） |
+| `src/functions/graph.ts` | 30 | 知识图谱构建 |
+| `src/functions/replay.ts` | 27 | 事件回放 |
+| `src/functions/slots.ts` | 25 | 槽位管理（working memory） |
+| `src/functions/obsidian-export.ts` | 24 | Obsidian 集成 |
+| `src/functions/summarize.ts` | 23 | 摘要 |
+| `src/functions/smart-search.ts` | 21 | 智能搜索（query expansion） |
+| `src/functions/graph-retrieval.ts` | 21 | 图检索 |
+| `src/functions/mesh.ts` | 20 | 跨代理 mesh |
+| `src/functions/compress.ts` | 20 | 压缩 |
+| `src/mcp/standalone.ts` | 27 | 不依赖 iii-engine 的 MCP 模式 |
+| `src/mcp/rest-proxy.ts` | 24 | MCP → REST 代理 |
+
+## 7. 当前规模（v0.9.28）
+
+- **53 MCP tools** (8 visible by default, `AGENTMEMORY_TOOLS=all` for all)
+- **128 REST endpoints**
+- **6 MCP resources, 3 MCP prompts**
+- **12 hooks, 4 skills**
+- **50+ iii functions**
+- **950+ tests**
+- **4122 nodes, 10483 edges** (codegraph indexed)

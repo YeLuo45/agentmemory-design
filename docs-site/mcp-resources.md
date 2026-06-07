@@ -1,1 +1,191 @@
-IyBNQ1AgUmVzb3VyY2VzCgo+IDYg5LiqIE1DUCByZXNvdXJjZXPvvIhzcmMvbWNwL3Rvb2xzLXJlZ2lzdHJ5LnRzIOazqOWGjO+8iQoKIyMg5YiX6KGoCgp8IFVSSSB8IE1JTUUgfCDmj4/ov7AgfAp8LS0tLS18LS0tLS0tfC0tLS0tLXwKfCBgYWdlbnRtZW1vcnk6Ly9zdGF0c2AgfCBgYXBwbGljYXRpb24vanNvbmAgfCDlrp7ml7bnu5/orqEgfAp8IGBhZ2VudG1lbW9yeTovL3JlY2VudGAgfCBgYXBwbGljYXRpb24vanNvbmAgfCDmnIDov5EgcmVtZW1iZXIgfAp8IGBhZ2VudG1lbW9yeTovL2dyYXBoYCB8IGBhcHBsaWNhdGlvbi9qc29uYCB8IOefpeivhuWbvuiwseaRmOimgSB8CnwgYGFnZW50bWVtb3J5Oi8vbGVzc29uc2AgfCBgYXBwbGljYXRpb24vanNvbmAgfCDmnIDov5EgbGVzc29ucyB8CnwgYGFnZW50bWVtb3J5Oi8vYXVkaXQvcmVjZW50YCB8IGBhcHBsaWNhdGlvbi9qc29uYCB8IOacgOi/keWuoeiuoSB8CnwgYGFnZW50bWVtb3J5Oi8vY29uZmlnYCB8IGBhcHBsaWNhdGlvbi9qc29uYCB8IOmFjee9ru+8iOiEseaVj++8iSB8CgojIyBgYWdlbnRtZW1vcnk6Ly9zdGF0c2AKCmBgYGpzb24KewogICJ0b3RhbE1lbW9yaWVzIjogMTIzNCwKICAiYWN0aXZlTWVtb3JpZXMiOiAxMTAwLAogICJjb25zb2xpZGF0ZWRNZW1vcmllcyI6IDEwMCwKICAiZXZpY3RlZE1lbW9yaWVzIjogMzQsCiAgImJ5U2NvcGUiOiB7CiAgICAiZGVmYXVsdCI6IDgwMCwKICAgICJwcm9qZWN0LUEiOiAzMDAsCiAgICAidXNlci0xIjogMTM0CiAgfSwKICAiYnlMaWZlY3ljbGUiOiB7CiAgICAiYWN0aXZlIjogMTEwMCwKICAgICJjb25zb2xpZGF0ZWQiOiAxMDAsCiAgICAic3RhbGUiOiAwLAogICAgImV2aWN0ZWQiOiAzNCwKICAgICJhcmNoaXZlZCI6IDAKICB9LAogICJsZXNzb25zIjogNDUsCiAgInBhdHRlcm5zIjogMTIsCiAgInNraWxscyI6IDgsCiAgImdyYXBoTm9kZXMiOiA1NjcsCiAgImdyYXBoRWRnZXMiOiAxMjM0LAogICJkaXNrVXNhZ2UiOiB7CiAgICAidG90YWxCeXRlcyI6IDUyNDI4ODAwLAogICAgImRiQnl0ZXMiOiA0ODIzNDQ5NiwKICAgICJ2ZWN0b3JJbmRleEJ5dGVzIjogNDE5NDMwNAogIH0KfQpgYGAKCiMjIGBhZ2VudG1lbW9yeTovL3JlY2VudGAKCmBgYGpzb24KewogICJtZW1vcmllcyI6IFsKICAgIHsKICAgICAgImlkIjogIm1lbS1hYmMxMjMiLAogICAgICAiZmluZ2VycHJpbnQiOiAiZnAteHl6Nzg5IiwKICAgICAgImNvbnRlbnQiOiAiLi4uIiwKICAgICAgInN1bW1hcnkiOiAiLi4uIiwKICAgICAgImNvbmZpZGVuY2UiOiAwLjksCiAgICAgICJ0YWdzIjogWyJ0eXBlc2NyaXB0IiwgImFzeW5jIl0sCiAgICAgICJzY29wZSI6ICJkZWZhdWx0IiwKICAgICAgImNyZWF0ZWRBdCI6ICIyMDI2LTA2LTA3VC4uLiIKICAgIH0KICBdLAogICJsaW1pdCI6IDIwCn0KYGBgCgojIyBgYWdlbnRtZW1vcnk6Ly9ncmFwaGAKCmBgYGpzb24KewogICJub2RlQ291bnQiOiA1NjcsCiAgImVkZ2VDb3VudCI6IDEyMzQsCiAgInRvcE5vZGVzIjogWwogICAgeyAiaWQiOiAiLi4uIiwgImxhYmVsIjogIi4uLiIsICJ0eXBlIjogImNvbmNlcHQiLCAiZGVncmVlIjogNDIgfQogIF0sCiAgInRvcEVkZ2VzIjogWwogICAgeyAidHlwZSI6ICJyZWZlcmVuY2VzIiwgImNvdW50IjogMzQ1IH0KICBdLAogICJjb21wb25lbnRzIjogMwp9CmBgYAoKIyMgYGFnZW50bWVtb3J5Oi8vbGVzc29uc2AKCmBgYGpzb24KewogICJsZXNzb25zIjogWwogICAgewogICAgICAiaWQiOiAibGVzc29uLWFiYyIsCiAgICAgICJ0eXBlIjogImxlc3NvbiIsCiAgICAgICJ0aXRsZSI6ICJBc3luYy9Bd2FpdCBlcnJvciBoYW5kbGluZyBwYXR0ZXJuIiwKICAgICAgInN1bW1hcnkiOiAiQWx3YXlzIHdyYXAgYXdhaXQgaW4gdHJ5L2NhdGNoIHdpdGggc3BlY2lmaWMgZXJyb3IgdHlwZXMiLAogICAgICAidmVyc2lvbiI6IDEsCiAgICAgICJiYXNlZE9uIjogWyJtZW0tMSIsICJtZW0tMiIsICJtZW0tMyJdLAogICAgICAiY3JlYXRlZEF0IjogIjIwMjYtMDYtMDFULi4uIgogICAgfQogIF0KfQpgYGAKCiMjIGBhZ2VudG1lbW9yeTovL2F1ZGl0L3JlY2VudGAKCmBgYGpzb24KewogICJlbnRyaWVzIjogWwogICAgewogICAgICAiaWQiOiAiYXVkaXQtMSIsCiAgICAgICJvcGVyYXRpb24iOiAicmVtZW1iZXIiLAogICAgICAiYWN0b3IiOiAibWNwOmNsYXVkZS1jb2RlIiwKICAgICAgInRhcmdldCI6ICJtZW0tYWJjIiwKICAgICAgInJlc3VsdCI6ICJzdWNjZXNzIiwKICAgICAgInRpbWVzdGFtcCI6ICIyMDI2LTA2LTA3VC4uLiIKICAgIH0KICBdLAogICJsaW1pdCI6IDUwCn0KYGBgCgojIyBgYWdlbnRtZW1vcnk6Ly9jb25maWdgCgpgYGBqc29uCnsKICAidmVyc2lvbiI6ICIwLjkuMjgiLAogICJtY3AiOiB7CiAgICAiZGVmYXVsdFZpc2libGVUb29scyI6IDgsCiAgICAiYWxsVG9vbHMiOiA1MywKICAgICJ0cmFuc3BvcnQiOiAic3RkaW8iCiAgfSwKICAicmVzdCI6IHsKICAgICJlbmRwb2ludHMiOiAxMjgsCiAgICAiYXV0aEVuYWJsZWQiOiB0cnVlCiAgfSwKICAic3RvcmFnZSI6IHsKICAgICJlbmdpbmUiOiAiaWlpLWVuZ2luZSBTdGF0ZU1vZHVsZSIsCiAgICAiZGJQYXRoIjogIi4vZGF0YS9zdGF0ZV9zdG9yZS5kYiIKICB9LAogICJzZWFyY2giOiB7CiAgICAibW9kZXMiOiBbImh5YnJpZCIsICJibTI1IiwgInZlY3RvciIsICJncmFwaCJdLAogICAgImRlZmF1bHRNb2RlIjogImh5YnJpZCIKICB9LAogICJjcnlzdGFsbGl6ZSI6IHsKICAgICJzY2hlZHVsZSI6ICIwIDIgKiAqICoiLAogICAgIm1pbkNsdXN0ZXJTaXplIjogMywKICAgICJzaW1pbGFyaXR5VGhyZXNob2xkIjogMC44CiAgfQogIC8vIHNlY3JldHMgUkVEQUNURUQKfQpgYGAKCiMjIOWuouaIt+err+S9v+eUqAoKYGBgdHlwZXNjcmlwdAovLyBNQ1Ag5a6i5oi356uv6K+75Y+WCmNvbnN0IHN0YXRzID0gYXdhaXQgY2xpZW50LnJlYWRSZXNvdXJjZSh7IHVyaTogImFnZW50bWVtb3J5Oi8vc3RhdHMiIH0pOwpjb25zb2xlLmxvZyhzdGF0cy5jb250ZW50c1swXS50ZXh0KTsgIC8vIEpTT04gc3RyaW5nCgovLyBDbGF1ZGUgQ29kZSAvIEN1cnNvcjoKLy8gMS4gL3Jlc291cmNlcyDihpIg5YiX5Ye65omA5pyJIHJlc291cmNlCi8vIDIuIOeCuSBgYWdlbnRtZW1vcnk6Ly9zdGF0c2Ag4oaSIOafpeeci+WunuaXtue7n+iuoQovLyAzLiDlhrPlrprkuIvkuIDmraXmk43kvZwKYGBgCgojIyDoh6rlrprkuYkgUmVzb3VyY2UKCmFnZW50bWVtb3J5IOWFgeiuuOmAmui/hyBgcmVnaXN0ZXJSZXNvdXJjZWAg5omp5bGV77yaCgpgYGB0eXBlc2NyaXB0Ci8vIOWcqCBzcmMvaW5kZXgudHMKc2RrLnJlZ2lzdGVyUmVzb3VyY2UoewogIHVyaTogImFnZW50bWVtb3J5Oi8vY3VzdG9tIiwKICBuYW1lOiAiQ3VzdG9tIFZpZXciLAogIGRlc2NyaXB0aW9uOiAiTXkgY3VzdG9tIHZpZXciLAogIG1pbWVUeXBlOiAiYXBwbGljYXRpb24vanNvbiIsCiAgaGFuZGxlcjogYXN5bmMgKCkgPT4gewogICAgcmV0dXJuIHsgY29udGVudHM6IFt7IHVyaTogImFnZW50bWVtb3J5Oi8vY3VzdG9tIiwgdGV4dDogIi4uLiIgfV0gfTsKICB9LAp9KTsKYGBgCgojIyDnvJPlrZjnrZbnlaUKCnwgUmVzb3VyY2UgfCBDYWNoZSBUVEwgfCDmm7TmlrDop6blj5EgfAp8LS0tLS0tLS0tLXwtLS0tLS0tLS0tLXwtLS0tLS0tLS0tfAp8IGBzdGF0c2AgfCA1cyB8IOS7u+S9lSB3cml0ZSB8CnwgYHJlY2VudGAgfCAxcyB8IOS7u+S9lSByZW1lbWJlciB8CnwgYGdyYXBoYCB8IDMwcyB8IGdyYXBoIG11dGF0aW9uIHwKfCBgbGVzc29uc2AgfCA2MHMgfCBjcnlzdGFsbGl6ZSB8CnwgYGF1ZGl0L3JlY2VudGAgfCAxcyB8IGF1ZGl0IGFwcGVuZCB8CnwgYGNvbmZpZ2AgfCDiiJ4gfCBjb25maWcgY2hhbmdlIHwK
+# MCP Resources
+
+> 6 个 MCP resources（src/mcp/tools-registry.ts 注册）
+
+## 列表
+
+| URI | MIME | 描述 |
+|-----|------|------|
+| `agentmemory://stats` | `application/json` | 实时统计 |
+| `agentmemory://recent` | `application/json` | 最近 remember |
+| `agentmemory://graph` | `application/json` | 知识图谱摘要 |
+| `agentmemory://lessons` | `application/json` | 最近 lessons |
+| `agentmemory://audit/recent` | `application/json` | 最近审计 |
+| `agentmemory://config` | `application/json` | 配置（脱敏） |
+
+## `agentmemory://stats`
+
+```json
+{
+  "totalMemories": 1234,
+  "activeMemories": 1100,
+  "consolidatedMemories": 100,
+  "evictedMemories": 34,
+  "byScope": {
+    "default": 800,
+    "project-A": 300,
+    "user-1": 134
+  },
+  "byLifecycle": {
+    "active": 1100,
+    "consolidated": 100,
+    "stale": 0,
+    "evicted": 34,
+    "archived": 0
+  },
+  "lessons": 45,
+  "patterns": 12,
+  "skills": 8,
+  "graphNodes": 567,
+  "graphEdges": 1234,
+  "diskUsage": {
+    "totalBytes": 52428800,
+    "dbBytes": 48234496,
+    "vectorIndexBytes": 4194304
+  }
+}
+```
+
+## `agentmemory://recent`
+
+```json
+{
+  "memories": [
+    {
+      "id": "mem-abc123",
+      "fingerprint": "fp-xyz789",
+      "content": "...",
+      "summary": "...",
+      "confidence": 0.9,
+      "tags": ["typescript", "async"],
+      "scope": "default",
+      "createdAt": "2026-06-07T..."
+    }
+  ],
+  "limit": 20
+}
+```
+
+## `agentmemory://graph`
+
+```json
+{
+  "nodeCount": 567,
+  "edgeCount": 1234,
+  "topNodes": [
+    { "id": "...", "label": "...", "type": "concept", "degree": 42 }
+  ],
+  "topEdges": [
+    { "type": "references", "count": 345 }
+  ],
+  "components": 3
+}
+```
+
+## `agentmemory://lessons`
+
+```json
+{
+  "lessons": [
+    {
+      "id": "lesson-abc",
+      "type": "lesson",
+      "title": "Async/Await error handling pattern",
+      "summary": "Always wrap await in try/catch with specific error types",
+      "version": 1,
+      "basedOn": ["mem-1", "mem-2", "mem-3"],
+      "createdAt": "2026-06-01T..."
+    }
+  ]
+}
+```
+
+## `agentmemory://audit/recent`
+
+```json
+{
+  "entries": [
+    {
+      "id": "audit-1",
+      "operation": "remember",
+      "actor": "mcp:claude-code",
+      "target": "mem-abc",
+      "result": "success",
+      "timestamp": "2026-06-07T..."
+    }
+  ],
+  "limit": 50
+}
+```
+
+## `agentmemory://config`
+
+```json
+{
+  "version": "0.9.28",
+  "mcp": {
+    "defaultVisibleTools": 8,
+    "allTools": 53,
+    "transport": "stdio"
+  },
+  "rest": {
+    "endpoints": 128,
+    "authEnabled": true
+  },
+  "storage": {
+    "engine": "iii-engine StateModule",
+    "dbPath": "./data/state_store.db"
+  },
+  "search": {
+    "modes": ["hybrid", "bm25", "vector", "graph"],
+    "defaultMode": "hybrid"
+  },
+  "crystallize": {
+    "schedule": "0 2 * * *",
+    "minClusterSize": 3,
+    "similarityThreshold": 0.8
+  }
+  // secrets REDACTED
+}
+```
+
+## 客户端使用
+
+```typescript
+// MCP 客户端读取
+const stats = await client.readResource({ uri: "agentmemory://stats" });
+console.log(stats.contents[0].text);  // JSON string
+
+// Claude Code / Cursor:
+// 1. /resources → 列出所有 resource
+// 2. 点 `agentmemory://stats` → 查看实时统计
+// 3. 决定下一步操作
+```
+
+## 自定义 Resource
+
+agentmemory 允许通过 `registerResource` 扩展：
+
+```typescript
+// 在 src/index.ts
+sdk.registerResource({
+  uri: "agentmemory://custom",
+  name: "Custom View",
+  description: "My custom view",
+  mimeType: "application/json",
+  handler: async () => {
+    return { contents: [{ uri: "agentmemory://custom", text: "..." }] };
+  },
+});
+```
+
+## 缓存策略
+
+| Resource | Cache TTL | 更新触发 |
+|----------|-----------|----------|
+| `stats` | 5s | 任何 write |
+| `recent` | 1s | 任何 remember |
+| `graph` | 30s | graph mutation |
+| `lessons` | 60s | crystallize |
+| `audit/recent` | 1s | audit append |
+| `config` | ∞ | config change |

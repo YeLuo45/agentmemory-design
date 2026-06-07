@@ -1,1 +1,135 @@
-IyBEZXBsb3ltZW50Cgo+IOmDqOe9siBpaWktZW5naW5lICsgYWdlbnRtZW1vcnkKCiMjIOaooeW8jwoKfCDmqKHlvI8gfCDlkK/liqggfCDpgILnlKggfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS18CnwgKipNQ1Agc3RkaW8qKiB8IGBucHggYWdlbnRtZW1vcnkgbWNwYCB8IOW1jOWFpSBhZ2VudCB8CnwgKipNQ1Agc3RhbmRhbG9uZSoqIHwgYG5weCBhZ2VudG1lbW9yeSBtY3AgLS1zdGFuZGFsb25lYCB8IOa1i+ivlS/mvJTnpLovQ0kgfAp8ICoqSFRUUCBkYWVtb24qKiB8IGBucHggYWdlbnRtZW1vcnkgbWNwIC0tdHJhbnNwb3J0IGh0dHAgLS1wb3J0IDQ5MTM1YCB8IOi/nOeoiy/lpJrlrqLmiLfnq68gfAp8ICoqRG9ja2VyKiogfCBgZG9ja2VyLWNvbXBvc2UgdXBgIHwg5a6M5pW0IHN0YWNrIHwKfCAqKkhlbG0gLyBrOHMqKiB8ICjlvoXotKHnjK4pIHwg55Sf5LqnIHwKCiMjIERvY2tlciAo5o6o6I2QKQoKYGBgYmFzaAojIDEuIENsb25lCmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vcm9oaXRnMDAvYWdlbnRtZW1vcnkuZ2l0CmNkIGFnZW50bWVtb3J5CgojIDIuIOWQr+WKqApkb2NrZXItY29tcG9zZSB1cCAtZAoKIyDmnI3liqE6CiMgLSBpaWktZW5naW5lOiBXZWJTb2NrZXQgOjQ5MTM0CiMgLSBhZ2VudG1lbW9yeTogUkVTVCA6NDkxMzUKIyAtIGFnZW50bWVtb3J5IE1DUDogc3RkaW8gKGZvciBjbGllbnRzKQpgYGAKCmBkb2NrZXItY29tcG9zZS55bWxg77yaCmBgYHlhbWwKc2VydmljZXM6CiAgaWlpOgogICAgaW1hZ2U6IGdoY3IuaW8vaWlpLWhxL2lpaTpsYXRlc3QKICAgIHBvcnRzOiBbIjQ5MTM0OjQ5MTM0Il0KICAgIHZvbHVtZXM6CiAgICAgIC0gaWlpLWRhdGE6L2RhdGEKICAKICBhZ2VudG1lbW9yeToKICAgIGJ1aWxkOiAuCiAgICBkZXBlbmRzX29uOiBbaWlpXQogICAgZW52aXJvbm1lbnQ6CiAgICAgIElJSV9VUkw6IHdzOi8vaWlpOjQ5MTM0CiAgICAgIEFHRU5UTUVNT1JZX0FQSV9LRVk6ICR7QUdFTlRNRU1PUllfQVBJX0tFWX0KICAgIHBvcnRzOiBbIjQ5MTM1OjQ5MTM1Il0KICAgIHZvbHVtZXM6CiAgICAgIC0gLi9kYXRhOi9hcHAvZGF0YQpgYGAKCiMjIOacrOWcsOW8gOWPkQoKYGBgYmFzaAojIDEuIOWQr+WKqCBpaWkKaWlpIGRldiAgIyBsaXN0ZW5zIG9uIDQ5MTM0CgojIDIuIOWQr+WKqCBhZ2VudG1lbW9yeSAoTUNQIHN0ZGlvKQpucHggYWdlbnRtZW1vcnkgbWNwCgojIOaIliBzdGFuZGFsb25lIOaooeW8j++8iOS4jemcgCBpaWnvvIkKbnB4IGFnZW50bWVtb3J5IG1jcCAtLXN0YW5kYWxvbmUKYGBgCgojIyDmtYvor5UKCmBgYGJhc2gKbnBtIHRlc3QgICMgOTUwKyB0ZXN0cwpgYGAKCiMjIOWBpeW6t+ajgOafpQoKYGBgYmFzaApjdXJsIGh0dHA6Ly9sb2NhbGhvc3Q6NDkxMzUvYWdlbnRtZW1vcnkvaGVhbHRoCiMgeyJzdGF0dXMiOiAiaGVhbHRoeSIsICJ1cHRpbWUiOiAxMjM0LCAibWVtb3J5Q291bnQiOiA1Njc4LCAuLi59CmBgYAoKIyMg55uR5o6nCgpgc3JjL3RlbGVtZXRyeS9gIOaooeWdl+aatOmcsu+8mgotIE9wZW5UZWxlbWV0cnkgbWV0cmljcwotIFByb21ldGhldXMgZW5kcG9pbnQgKOWPr+mAiSkKLSBBdWRpdCBsb2cg5YaZ5YiwIFNRTGl0ZQoKIyMg5aSH5Lu9CgpgYGBiYXNoCiMg5pWw5o2u55uu5b2VCmRhdGEvc3RhdGVfc3RvcmUuZGIKZGF0YS9hdWRpdC5kYgpkYXRhL3ZlY3Rvci1pbmRleC8KCiMg566A5Y2V5aSH5Lu9CnRhciAtY3pmIGJhY2t1cC50Z3ogZGF0YS8KCiMg55SoIGV4cG9ydC9pbXBvcnQgQVBJCmN1cmwgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjQ5MTM1L2FnZW50bWVtb3J5L2V4cG9ydCAtZCBALSA8PEVPRgp7CiAgImZvcm1hdCI6ICJqc29uIiwKICAiaW5jbHVkZUF1ZGl0IjogZmFsc2UKfQpFT0YKYGBgCgojIyDljYfnuqcKCmBgYGJhc2gKZ2l0IHB1bGwKbnBtIGluc3RhbGwKbnBtIHJ1biBidWlsZAojIOi3kSBtaWdyYXRpb25zCmN1cmwgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjQ5MTM1L2FnZW50bWVtb3J5L21pZ3JhdGUKCiMg6YeN5ZCvCmRvY2tlci1jb21wb3NlIHJlc3RhcnQgYWdlbnRtZW1vcnkKYGBgCgojIyDmgKfog73osIPkvJgKCnwg5LyY5YyWIHwg6YCC55SoIHwKfC0tLS0tLXwtLS0tLS18Cnwg5ZCv55SoIHZlY3RvciBpbmRleCDnvJPlrZggfCDlpKfmlbDmja7ph48gfAp8IOiwgyBjcnlzdGFsbGl6ZSBzY2hlZHVsZSDpopHnjocgfCDmiJDmnKzmlY/mhJ8gfAp8IOmZkOWItiBNQ1AgdG9vbHMg5Y+v6KeB5pWwIHwgVG9rZW4g6aKE566X57SnIHwKfCDlkK/nlKggZGlzay1zaXplLW1hbmFnZXIgfCDlrZjlgqjmnInpmZAgfAp8IOeUqCBzcWxpdGUgV0FMIHwg5bm25Y+R6auYIHwKCiMjIOaVhemanOaOkuafpQoKfCDpl67popggfCDop6PlhrMgfAp8LS0tLS0tfC0tLS0tLXwKfCBNQ1Ag6L+e5LiN5LiKIHwg5qOA5p+lIEFHRU5UTUVNT1JZX1VSTO+8m2ZpcmV3YWxsIHwKfCBTZWFyY2gg5oWiIHwg5qOA5p+lIHZlY3RvciBpbmRleO+8m+WHj+WwkSBzY29wZSB8CnwgQ3J5c3RhbGxpemUg5aSx6LSlIHwg5qOA5p+lIExMTSBwcm92aWRlciDphY3nva4gfAp8IEhvb2sg5LiN6Kem5Y+RIHwg5qOA5p+lIEFHRU5UTUVNT1JZX1VSTO+8m+eUqCBgbm9kZSBzY3JpcHQubWpzIDwgdGVzdC5qc29uYCDmqKHmi58gfAp8IOaVsOaNruS4ouWksSB8IOeUqCBleHBvcnQg5aSH5Lu9ICsgcmVzdG9yZSBmcm9tIGJhY2t1cCB8Cg==
+# Deployment
+
+> 部署 iii-engine + agentmemory
+
+## 模式
+
+| 模式 | 启动 | 适用 |
+|------|------|------|
+| **MCP stdio** | `npx agentmemory mcp` | 嵌入 agent |
+| **MCP standalone** | `npx agentmemory mcp --standalone` | 测试/演示/CI |
+| **HTTP daemon** | `npx agentmemory mcp --transport http --port 49135` | 远程/多客户端 |
+| **Docker** | `docker-compose up` | 完整 stack |
+| **Helm / k8s** | (待贡献) | 生产 |
+
+## Docker (推荐)
+
+```bash
+# 1. Clone
+git clone https://github.com/rohitg00/agentmemory.git
+cd agentmemory
+
+# 2. 启动
+docker-compose up -d
+
+# 服务:
+# - iii-engine: WebSocket :49134
+# - agentmemory: REST :49135
+# - agentmemory MCP: stdio (for clients)
+```
+
+`docker-compose.yml`：
+```yaml
+services:
+  iii:
+    image: ghcr.io/iii-hq/iii:latest
+    ports: ["49134:49134"]
+    volumes:
+      - iii-data:/data
+  
+  agentmemory:
+    build: .
+    depends_on: [iii]
+    environment:
+      III_URL: ws://iii:49134
+      AGENTMEMORY_API_KEY: ${AGENTMEMORY_API_KEY}
+    ports: ["49135:49135"]
+    volumes:
+      - ./data:/app/data
+```
+
+## 本地开发
+
+```bash
+# 1. 启动 iii
+iii dev  # listens on 49134
+
+# 2. 启动 agentmemory (MCP stdio)
+npx agentmemory mcp
+
+# 或 standalone 模式（不需 iii）
+npx agentmemory mcp --standalone
+```
+
+## 测试
+
+```bash
+npm test  # 950+ tests
+```
+
+## 健康检查
+
+```bash
+curl http://localhost:49135/agentmemory/health
+# {"status": "healthy", "uptime": 1234, "memoryCount": 5678, ...}
+```
+
+## 监控
+
+`src/telemetry/` 模块暴露：
+- OpenTelemetry metrics
+- Prometheus endpoint (可选)
+- Audit log 写到 SQLite
+
+## 备份
+
+```bash
+# 数据目录
+data/state_store.db
+data/audit.db
+data/vector-index/
+
+# 简单备份
+tar -czf backup.tgz data/
+
+# 用 export/import API
+curl -X POST http://localhost:49135/agentmemory/export -d @- <<EOF
+{
+  "format": "json",
+  "includeAudit": false
+}
+EOF
+```
+
+## 升级
+
+```bash
+git pull
+npm install
+npm run build
+# 跑 migrations
+curl -X POST http://localhost:49135/agentmemory/migrate
+
+# 重启
+docker-compose restart agentmemory
+```
+
+## 性能调优
+
+| 优化 | 适用 |
+|------|------|
+| 启用 vector index 缓存 | 大数据量 |
+| 调 crystallize schedule 频率 | 成本敏感 |
+| 限制 MCP tools 可见数 | Token 预算紧 |
+| 启用 disk-size-manager | 存储有限 |
+| 用 sqlite WAL | 并发高 |
+
+## 故障排查
+
+| 问题 | 解决 |
+|------|------|
+| MCP 连不上 | 检查 AGENTMEMORY_URL；firewall |
+| Search 慢 | 检查 vector index；减少 scope |
+| Crystallize 失败 | 检查 LLM provider 配置 |
+| Hook 不触发 | 检查 AGENTMEMORY_URL；用 `node script.mjs < test.json` 模拟 |
+| 数据丢失 | 用 export 备份 + restore from backup |

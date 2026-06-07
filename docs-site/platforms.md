@@ -1,1 +1,189 @@
-IyBQbGF0Zm9ybXMKCj4gMTArIEFJIGFnZW50IOW5s+WPsOmbhuaIkAoKIyMg5bmz5Y+w5riF5Y2VCgp8IOW5s+WPsCB8IOmbhuaIkOaWueW8jyB8IOWFpeWPo+aWh+S7tiB8CnwtLS0tLS18LS0tLS0tLS0tLXwtLS0tLS0tLS0tfAp8ICoqQ2xhdWRlIENvZGUqKiB8IE1DUCArIFBsdWdpbiB8IGBwbHVnaW4vLmNsYXVkZS1wbHVnaW4vcGx1Z2luLmpzb25gIHwKfCAqKkN1cnNvcioqIHwgTUNQIHwgYHBsdWdpbi8uY3Vyc29yLXBsdWdpbi9gICjmiJYgY3Vyc29yIHNldHRpbmdzKSB8CnwgKipDb2RleCBDTEkqKiB8IE1DUCB8IGBwbHVnaW4vLmNvZGV4LXBsdWdpbi9gIHwKfCAqKkdpdEh1YiBDb3BpbG90IENMSSoqIHwgTUNQIHwgYHBsdWdpbi8ubWNwLmNvcGlsb3QuanNvbmAgfAp8ICoqR2VtaW5pIENMSSoqIHwgTUNQIHwgYHBsdWdpbi8uZ2VtaW5pLXBsdWdpbi9gIHwKfCAqKkhlcm1lcyBBZ2VudCoqIHwgTUNQIHwgKOeUqOaIt+mFjee9riB+Ly5oZXJtZXMvY29uZmlnLnlhbWwpIHwKfCAqKk9wZW5DbGF3KiogfCBNQ1AgfCBgcGx1Z2luLy5vcGVuY2xhdy1wbHVnaW4vYCB8CnwgKipwaSoqIHwgTUNQIHwgYHBsdWdpbi8ucGktcGx1Z2luL2AgfAp8ICoqT3BlbkNvZGUqKiB8IFBsdWdpbiB8IGBwbHVnaW4vb3BlbmNvZGUvYWdlbnRtZW1vcnktY2FwdHVyZS50c2AgKDI5IHN5bWJvbHMpIHwKfCAqKuS7u+S9lSBNQ1Ag5a6i5oi356uvKiogfCBNQ1Agc3RkaW8vSFRUUCB8IOebtOaOpeiwgyB8CgojIyBDbGF1ZGUgQ29kZQoKKirlronoo4UqKjoKYGBgYmFzaApjbGF1ZGUgcGx1Z2lucyBpbnN0YWxsIGh0dHBzOi8vZ2l0aHViLmNvbS9yb2hpdGcwMC9hZ2VudG1lbW9yeQpgYGAKCioq5o+S5Lu26Ieq5Yqo5o+Q5L6bKio6Ci0gNTMgTUNQIHRvb2xz77yI5oyJIGBBR0VOVE1FTU9SWV9UT09MU2Ag5o6n5Yi277yJCi0gNiBNQ1AgcmVzb3VyY2VzCi0gMyBNQ1AgcHJvbXB0cwotIDEyIGhvb2tzCi0gNCBza2lsbHMKCioqVmVyc2lvbiDlkIzmraUqKjoKYGBgYmFzaAojIOaUuSBwbHVnaW4uanNvbiDlkI4gYnVtcCB2ZXJzaW9uCjEuIHBhY2thZ2UuanNvbgoyLiBzcmMvdmVyc2lvbi50cwozLiBzcmMvdHlwZXMudHMgKEV4cG9ydERhdGEgdmVyc2lvbiB1bmlvbikKNC4gc3JjL2Z1bmN0aW9ucy9leHBvcnQtaW1wb3J0LnRzIChzdXBwb3J0ZWRWZXJzaW9ucykKNS4gdGVzdC9leHBvcnQtaW1wb3J0LnRlc3QudHMgKHZlcnNpb24gYXNzZXJ0aW9uKQo2LiBwbHVnaW4vLmNsYXVkZS1wbHVnaW4vcGx1Z2luLmpzb24KNy4gcGx1Z2luL3BsdWdpbi5qc29uIChpZiBwcmVzZW50KQpgYGAKCiMjIEN1cnNvcgoKQ3Vyc29yIOiHquWKqOWPkeeOsCBNQ1Agc2VydmVycyB2aWE6Ci0gYC5jdXJzb3IvbWNwLmpzb25gICjpobnnm67nuqcpCi0gU2V0dGluZ3Mg4oaSIE1DUCAo55So5oi357qnKQoKYWdlbnRtZW1vcnkg5Y+v5L2cIHN0ZGlvIE1DUCBzZXJ2ZXLvvJoKCmBgYGpzb24KLy8gLmN1cnNvci9tY3AuanNvbgp7CiAgIm1jcFNlcnZlcnMiOiB7CiAgICAiYWdlbnRtZW1vcnkiOiB7CiAgICAgICJjb21tYW5kIjogIm5weCIsCiAgICAgICJhcmdzIjogWyJhZ2VudG1lbW9yeSIsICJtY3AiXSwKICAgICAgImVudiI6IHsKICAgICAgICAiQUdFTlRNRU1PUllfVVJMIjogImh0dHA6Ly9sb2NhbGhvc3Q6NDkxMzUiCiAgICAgIH0KICAgIH0KICB9Cn0KYGBgCgojIyBDb2RleAoK57G75Ly8IEN1cnNvcu+8mgoKYGBganNvbgovLyAuY29kZXgvY29uZmlnLnRvbWwKW21jcF9zZXJ2ZXJzLmFnZW50bWVtb3J5XQpjb21tYW5kID0gIm5weCIKYXJncyA9IFsiYWdlbnRtZW1vcnkiLCAibWNwIl0KYGBgCgojIyBHaXRIdWIgQ29waWxvdCBDTEkKCumAmui/hyBgLm1jcC5jb3BpbG90Lmpzb25g77yaCgpgYGBqc29uCnsKICAibWNwU2VydmVycyI6IHsKICAgICJhZ2VudG1lbW9yeSI6IHsKICAgICAgInR5cGUiOiAic3RkaW8iLAogICAgICAiY29tbWFuZCI6ICJucHgiLAogICAgICAiYXJncyI6IFsiYWdlbnRtZW1vcnkiLCAibWNwIl0KICAgIH0KICB9Cn0KYGBgCgojIyBHZW1pbmkgQ0xJCgrpgJrov4cgYHNldHRpbmdzLmpzb25gIOaIliBgZ2VtaW5pLWV4dGVuc2lvbi5qc29uYOOAggoKIyMgSGVybWVzIEFnZW50CgrpgJrov4cgYH4vLmhlcm1lcy9jb25maWcueWFtbGDvvJoKCmBgYHlhbWwKbWNwX3NlcnZlcnM6CiAgYWdlbnRtZW1vcnk6CiAgICBjb21tYW5kOiBucHgKICAgIGFyZ3M6IFthZ2VudG1lbW9yeSwgbWNwLCBzZXJ2ZSwgLS1tY3BdCiAgICBlbnY6CiAgICAgIEFHRU5UTUVNT1JZX1VSTDogaHR0cDovL2xvY2FsaG9zdDo0OTEzNQpgYGAKCiMjIE9wZW5DbGF3IC8gcGkKCuexu+S8vCBDbGF1ZGUgQ29kZSBwbHVnaW4gbWFuaWZlc3Qg5qih5byP44CCCgojIyBPcGVuQ29kZSAo5rex5bqm6ZuG5oiQKQoKYHBsdWdpbi9vcGVuY29kZS9hZ2VudG1lbW9yeS1jYXB0dXJlLnRzYCAoMjkgc3ltYm9scykg4oCUIE9wZW5Db2RlIOS4k+eUqCBjYXB0dXJlIOmAu+i+keOAggoKYGBgdHlwZXNjcmlwdAovLyBwbHVnaW4vb3BlbmNvZGUvYWdlbnRtZW1vcnktY2FwdHVyZS50cwpleHBvcnQgYXN5bmMgZnVuY3Rpb24gY2FwdHVyZU9wZW5Db2RlRXZlbnQoZXZlbnQ6IE9wZW5Db2RlRXZlbnQpIHsKICAvLyBPcGVuQ29kZSDnibnmnInlrZfmrrXlpITnkIYKICBjb25zdCBtZW1vcnkgPSB7CiAgICBjb250ZW50OiBmb3JtYXRPcGVuQ29kZUV2ZW50KGV2ZW50KSwKICAgIHNjb3BlOiBgb3BlbmNvZGU6JHtldmVudC5zZXNzaW9uSWR9YCwKICAgIHRhZ3M6IFsib3BlbmNvZGUiLCBldmVudC50eXBlXSwKICAgIG1ldGFkYXRhOiB7CiAgICAgIG9wZW5jb2RlVmVyc2lvbjogZXZlbnQudmVyc2lvbiwKICAgICAgc2Vzc2lvbklkOiBldmVudC5zZXNzaW9uSWQsCiAgICB9LAogIH07CiAgCiAgLy8gRm9yd2FyZCB0byBhZ2VudG1lbW9yeSBSRVNUCiAgYXdhaXQgZmV0Y2goYCR7cHJvY2Vzcy5lbnYuQUdFTlRNRU1PUllfVVJMfS9hZ2VudG1lbW9yeS9yZW1lbWJlcmAsIHsKICAgIG1ldGhvZDogIlBPU1QiLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkobWVtb3J5KSwKICB9KTsKfQpgYGAKCiMjIOmAmueUqCBNQ1Ag5a6i5oi356uvCgrku7vkvZXmlK/mjIEgTUNQIHN0ZGlvIOeahOWuouaIt+err+mDveiDveeUqO+8mgoKYGBgYmFzaAojIOWQr+WKqCBzdGRpbyBNQ1Agc2VydmVyCkFHRU5UTUVNT1JZX1RPT0xTPWFsbCBucHggYWdlbnRtZW1vcnkgbWNwCgojIOWuouaIt+err+mFjee9ru+8iOS7pSBDbGF1ZGUgRGVza3RvcCDkuLrkvovvvIkKewogICJtY3BTZXJ2ZXJzIjogewogICAgImFnZW50bWVtb3J5IjogewogICAgICAiY29tbWFuZCI6ICJucHgiLAogICAgICAiYXJncyI6IFsiYWdlbnRtZW1vcnkiLCAibWNwIl0KICAgIH0KICB9Cn0KYGBgCgojIyDlubPlj7Dlt67lvIIKCnwg5bmz5Y+wIHwgVG9vbHMg5pi+56S6IHwgSG9va3MgfCBTa2lsbHMgfCBSZXNvdXJjZXMgfAp8LS0tLS0tfC0tLS0tLS0tLS0tLXwtLS0tLS0tfC0tLS0tLS0tfC0tLS0tLS0tLS0tfAp8IENsYXVkZSBDb2RlIHwg4pyTIOWFqOmDqCB8IOKckyDlhajpg6ggfCDinJMgfCDinJMgfAp8IEN1cnNvciB8IOKckyDlhajpg6ggfCDinJcgfCDinJcgfCDinJMgfAp8IENvZGV4IHwg4pyTIOWFqOmDqCB8IOKclyB8IOKclyB8IOKckyB8CnwgQ29waWxvdCB8IOKckyDlhajpg6ggfCDinJcgfCDinJcgfCDinJMgfAp8IEdlbWluaSB8IOKckyDlhajpg6ggfCDinJcgfCDinJcgfCDinJMgfAp8IE9wZW5Db2RlIHwg4pyTIOWFqOmDqCB8IOKclyAo5pyJ5LiT55SoIGNhcHR1cmUpIHwg4pyXIHwg4pyTIHwKfCDlhbbku5YgfCDinJMg5YWo6YOoIHwg4pyXIHwg4pyXIHwg4pyTIHwKCioqTUNQIHRvb2xzICsgcmVzb3VyY2VzKiog5piv6YCa55So5o6l5Y+j77ybKipob29rcyArIHNraWxscyoqIOaYryBDbGF1ZGUgQ29kZSDkuJPlsZ7jgIIKCiMjIOmAieaLqeWPr+ingeW3peWFtwoKYEFHRU5UTUVNT1JZX1RPT0xTYCDnjq/looPlj5jph4/mjqfliLbvvJoKCmBgYGJhc2gKIyDpu5jorqTvvIg4IOWfuuehgO+8iQpucHggYWdlbnRtZW1vcnkgbWNwCgojIOWFqOmDqApBR0VOVE1FTU9SWV9UT09MUz1hbGwgbnB4IGFnZW50bWVtb3J5IG1jcAoKIyDpgInmi6kKQUdFTlRNRU1PUllfVE9PTFM9cmVtZW1iZXIsc2VhcmNoLGZvcmdldCxjcnlzdGFsbGl6ZSBucHggYWdlbnRtZW1vcnkgbWNwCmBgYAo=
+# Platforms
+
+> 10+ AI agent 平台集成
+
+## 平台清单
+
+| 平台 | 集成方式 | 入口文件 |
+|------|----------|----------|
+| **Claude Code** | MCP + Plugin | `plugin/.claude-plugin/plugin.json` |
+| **Cursor** | MCP | `plugin/.cursor-plugin/` (或 cursor settings) |
+| **Codex CLI** | MCP | `plugin/.codex-plugin/` |
+| **GitHub Copilot CLI** | MCP | `plugin/.mcp.copilot.json` |
+| **Gemini CLI** | MCP | `plugin/.gemini-plugin/` |
+| **Hermes Agent** | MCP | (用户配置 ~/.hermes/config.yaml) |
+| **OpenClaw** | MCP | `plugin/.openclaw-plugin/` |
+| **pi** | MCP | `plugin/.pi-plugin/` |
+| **OpenCode** | Plugin | `plugin/opencode/agentmemory-capture.ts` (29 symbols) |
+| **任何 MCP 客户端** | MCP stdio/HTTP | 直接调 |
+
+## Claude Code
+
+**安装**:
+```bash
+claude plugins install https://github.com/rohitg00/agentmemory
+```
+
+**插件自动提供**:
+- 53 MCP tools（按 `AGENTMEMORY_TOOLS` 控制）
+- 6 MCP resources
+- 3 MCP prompts
+- 12 hooks
+- 4 skills
+
+**Version 同步**:
+```bash
+# 改 plugin.json 后 bump version
+1. package.json
+2. src/version.ts
+3. src/types.ts (ExportData version union)
+4. src/functions/export-import.ts (supportedVersions)
+5. test/export-import.test.ts (version assertion)
+6. plugin/.claude-plugin/plugin.json
+7. plugin/plugin.json (if present)
+```
+
+## Cursor
+
+Cursor 自动发现 MCP servers via:
+- `.cursor/mcp.json` (项目级)
+- Settings → MCP (用户级)
+
+agentmemory 可作 stdio MCP server：
+
+```json
+// .cursor/mcp.json
+{
+  "mcpServers": {
+    "agentmemory": {
+      "command": "npx",
+      "args": ["agentmemory", "mcp"],
+      "env": {
+        "AGENTMEMORY_URL": "http://localhost:49135"
+      }
+    }
+  }
+}
+```
+
+## Codex
+
+类似 Cursor：
+
+```json
+// .codex/config.toml
+[mcp_servers.agentmemory]
+command = "npx"
+args = ["agentmemory", "mcp"]
+```
+
+## GitHub Copilot CLI
+
+通过 `.mcp.copilot.json`：
+
+```json
+{
+  "mcpServers": {
+    "agentmemory": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["agentmemory", "mcp"]
+    }
+  }
+}
+```
+
+## Gemini CLI
+
+通过 `settings.json` 或 `gemini-extension.json`。
+
+## Hermes Agent
+
+通过 `~/.hermes/config.yaml`：
+
+```yaml
+mcp_servers:
+  agentmemory:
+    command: npx
+    args: [agentmemory, mcp, serve, --mcp]
+    env:
+      AGENTMEMORY_URL: http://localhost:49135
+```
+
+## OpenClaw / pi
+
+类似 Claude Code plugin manifest 模式。
+
+## OpenCode (深度集成)
+
+`plugin/opencode/agentmemory-capture.ts` (29 symbols) — OpenCode 专用 capture 逻辑。
+
+```typescript
+// plugin/opencode/agentmemory-capture.ts
+export async function captureOpenCodeEvent(event: OpenCodeEvent) {
+  // OpenCode 特有字段处理
+  const memory = {
+    content: formatOpenCodeEvent(event),
+    scope: `opencode:${event.sessionId}`,
+    tags: ["opencode", event.type],
+    metadata: {
+      opencodeVersion: event.version,
+      sessionId: event.sessionId,
+    },
+  };
+  
+  // Forward to agentmemory REST
+  await fetch(`${process.env.AGENTMEMORY_URL}/agentmemory/remember`, {
+    method: "POST",
+    body: JSON.stringify(memory),
+  });
+}
+```
+
+## 通用 MCP 客户端
+
+任何支持 MCP stdio 的客户端都能用：
+
+```bash
+# 启动 stdio MCP server
+AGENTMEMORY_TOOLS=all npx agentmemory mcp
+
+# 客户端配置（以 Claude Desktop 为例）
+{
+  "mcpServers": {
+    "agentmemory": {
+      "command": "npx",
+      "args": ["agentmemory", "mcp"]
+    }
+  }
+}
+```
+
+## 平台差异
+
+| 平台 | Tools 显示 | Hooks | Skills | Resources |
+|------|------------|-------|--------|-----------|
+| Claude Code | ✓ 全部 | ✓ 全部 | ✓ | ✓ |
+| Cursor | ✓ 全部 | ✗ | ✗ | ✓ |
+| Codex | ✓ 全部 | ✗ | ✗ | ✓ |
+| Copilot | ✓ 全部 | ✗ | ✗ | ✓ |
+| Gemini | ✓ 全部 | ✗ | ✗ | ✓ |
+| OpenCode | ✓ 全部 | ✗ (有专用 capture) | ✗ | ✓ |
+| 其他 | ✓ 全部 | ✗ | ✗ | ✓ |
+
+**MCP tools + resources** 是通用接口；**hooks + skills** 是 Claude Code 专属。
+
+## 选择可见工具
+
+`AGENTMEMORY_TOOLS` 环境变量控制：
+
+```bash
+# 默认（8 基础）
+npx agentmemory mcp
+
+# 全部
+AGENTMEMORY_TOOLS=all npx agentmemory mcp
+
+# 选择
+AGENTMEMORY_TOOLS=remember,search,forget,crystallize npx agentmemory mcp
+```

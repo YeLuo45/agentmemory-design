@@ -1,1 +1,165 @@
-IyBEYXRhIE1vZGVscwoKPiBhZ2VudG1lbW9yeSDmoLjlv4PmlbDmja7mqKHlnovvvIjmnaXoh6ogc3JjL3R5cGVzLnRzIC8gc3JjL3N0YXRlL3NjaGVtYS50c++8iQoKIyMg6aG25bGCCgpgYGB0cwppbnRlcmZhY2UgTWVtb3J5RW50cnkgewogIGlkOiBzdHJpbmcgICAgICAgICAgICAgICAgICAvLyBnZW5lcmF0ZUlkKCkKICBmaW5nZXJwcmludDogc3RyaW5nICAgICAgICAgLy8gZmluZ2VycHJpbnRJZChjb250ZW50KSDigJQgZGVkdXAKICBjb250ZW50OiBzdHJpbmcgICAgICAgICAgICAgLy8g6K6w5b+G5YaF5a6577yI5Lu75oSP5qC85byP77yJCiAgc3VtbWFyeT86IHN0cmluZyAgICAgICAgICAgIC8vIExMTSDmkZjopoEKICBjb25maWRlbmNlOiBudW1iZXIgICAgICAgICAgLy8gMC4uMQogIGxpZmVjeWNsZTogTWVtb3J5TGlmZWN5Y2xlCiAgdGFnczogc3RyaW5nW10KICBzY29wZTogc3RyaW5nICAgICAgICAgICAgICAgLy8g6ZqU56a7IHNjb3BlIChkZWZhdWx0IC8gcHJvamVjdC1BIC8gdXNlci0xKQogIG1ldGFkYXRhOiBSZWNvcmQ8c3RyaW5nLCB1bmtub3duPgogIGNyZWF0ZWRBdDogc3RyaW5nICAgICAgICAgICAvLyBJU08gdGltZXN0YW1wCiAgbGFzdEFjY2Vzc2VkQXQ6IHN0cmluZwogIGFjY2Vzc0NvdW50OiBudW1iZXIKICBleHBpcmVzQXQ/OiBzdHJpbmcKICByZWxhdGVkSWRzOiBzdHJpbmdbXSAgICAgICAgLy8g5YWz6IGU6K6w5b+GCiAgc291cmNlPzogTWVtb3J5U291cmNlICAgICAgIC8vIOadpeiHquWTquS4qiBob29rIC8gZnVuY3Rpb24KfQoKdHlwZSBNZW1vcnlMaWZlY3ljbGUgPQogIHwgImFjdGl2ZSIgICAgICAvLyDpu5jorqQKICB8ICJjb25zb2xpZGF0ZWQiIC8vIOW3suiiq+iBmuWQiOaIkCBsZXNzb24KICB8ICJzdGFsZSIgICAgICAgLy8g6ZW/5pe26Ze05pyq6K6/6ZeuCiAgfCAiZXZpY3RlZCIgICAgIC8vIOW3sua3mOaxsAogIHwgImFyY2hpdmVkIiAgICAvLyDlvZLmoaPvvIjkuI3lho3mkJzntKLkvYbkv53nlZnvvIkKYGBgCgojIyBMZXNzb27vvIhjcnlzdGFsbGl6ZSDovpPlh7rvvIkKCmBgYHRzCmludGVyZmFjZSBMZXNzb24gewogIGlkOiBzdHJpbmcKICB0eXBlOiAibGVzc29uIiB8ICJza2lsbCIgfCAicGF0dGVybiIKICB0aXRsZTogc3RyaW5nCiAgc3VtbWFyeTogc3RyaW5nCiAgY29udGVudDogc3RyaW5nICAgICAgICAgICAgICAvLyDnu5PmnoTljJYgbWFya2Rvd24KICBiYXNlZE9uOiBzdHJpbmdbXSAgICAgICAgICAgIC8vIOa6kCBtZW1vcnkgSURzCiAgY29uZmlkZW5jZTogbnVtYmVyCiAgdGFnczogc3RyaW5nW10KICBleGFtcGxlczogRXhhbXBsZVtdICAgICAgICAgIC8vIGZyb20gY3J5c3RhbGxpemUKICBjcmVhdGVkQXQ6IHN0cmluZwogIHZlcnNpb246IG51bWJlciAgICAgICAgICAgICAgLy8g5q+P5qyhIGNvbnNvbGlkYXRlIOWKoCAxCn0KYGBgCgojIyBLbm93bGVkZ2UgR3JhcGgKCmBgYHRzCmludGVyZmFjZSBHcmFwaE5vZGUgewogIGlkOiBzdHJpbmcKICB0eXBlOiBOb2RlVHlwZSAgICAgICAgICAgICAgICAvLyAiZW50aXR5IiB8ICJjb25jZXB0IiB8ICJmYWN0IiB8ICJydWxlIgogIGxhYmVsOiBzdHJpbmcKICBwcm9wZXJ0aWVzOiBSZWNvcmQ8c3RyaW5nLCB1bmtub3duPgogIGVtYmVkZGluZ0lkPzogc3RyaW5nICAgICAgICAgIC8vIOaMh+WQkSB2ZWN0b3IgaW5kZXgKICBtZW1vcnlJZHM6IHN0cmluZ1tdICAgICAgICAgICAvLyDmnaXmupDorrDlv4YKICBjb25maWRlbmNlOiBudW1iZXIKICBjcmVhdGVkQXQ6IHN0cmluZwogIGxhc3RUcmF2ZXJzZWRBdDogc3RyaW5nCn0KCmludGVyZmFjZSBHcmFwaEVkZ2UgewogIGlkOiBzdHJpbmcKICB0eXBlOiBFZGdlVHlwZSAgICAgICAgICAgICAgICAvLyAicmVmZXJlbmNlcyIgfCAiY2F1c2VzIiB8ICJ0ZW1wb3JhbC1hZnRlciIgfCAuLi4KICBzb3VyY2U6IHN0cmluZyAgICAgICAgICAgICAgICAvLyBub2RlIGlkCiAgdGFyZ2V0OiBzdHJpbmcgICAgICAgICAgICAgICAgLy8gbm9kZSBpZAogIHdlaWdodDogbnVtYmVyICAgICAgICAgICAgICAgIC8vIDAuLjEKICBjb25maWRlbmNlOiBudW1iZXIKICBjcmVhdGVkQXQ6IHN0cmluZwp9Cgp0eXBlIE5vZGVUeXBlID0gImVudGl0eSIgfCAiY29uY2VwdCIgfCAiZmFjdCIgfCAicnVsZSIgfCAibGVzc29uIiB8ICJza2lsbCIKdHlwZSBFZGdlVHlwZSA9ICJyZWZlcmVuY2VzIiB8ICJjYXVzZXMiIHwgInRlbXBvcmFsLWFmdGVyIiB8ICJyZWxhdGVkIiB8CiAgICAgICAgICAgICAgICAic3VwcG9ydHMiIHwgImNvbnRyYWRpY3RzIiB8ICJkZXJpdmVkLWZyb20iIHwgImV4YW1wbGUtb2YiCmBgYAoKIyMgQXVkaXQKCmBgYHRzCmludGVyZmFjZSBBdWRpdEVudHJ5IHsKICBpZDogc3RyaW5nCiAgb3BlcmF0aW9uOiBBdWRpdE9wZXJhdGlvbgogIGFjdG9yOiBzdHJpbmcgICAgICAgICAgICAgICAgIC8vIHdobyB0cmlnZ2VyZWQgKGFnZW50IC8gZnVuY3Rpb24gLyB1c2VyKQogIHRhcmdldD86IHN0cmluZyAgICAgICAgICAgICAgIC8vIG1lbW9yeSAvIGxlc3NvbiAvIGdyYXBoIGlkCiAgcGF5bG9hZDogUmVjb3JkPHN0cmluZywgdW5rbm93bj4gIC8vIOiEseaVjwogIHJlc3VsdDogInN1Y2Nlc3MiIHwgImZhaWx1cmUiCiAgZXJyb3I/OiBzdHJpbmcKICB0aW1lc3RhbXA6IHN0cmluZwp9Cgp0eXBlIEF1ZGl0T3BlcmF0aW9uID0KICB8ICJyZW1lbWJlciIgfCAic2VhcmNoIiB8ICJmb3JnZXQiIHwgImV2aWN0IgogIHwgImNyeXN0YWxsaXplIiB8ICJjb25zb2xpZGF0ZSIgfCAic25hcHNob3QiCiAgfCAiZ3JhcGgtYWRkIiB8ICJncmFwaC1yZW1vdmUiCiAgfCAiZXhwb3J0IiB8ICJpbXBvcnQiIHwgIm1lcmdlIgogIHwgImNvbmZpZy1jaGFuZ2UiIHwgImF1dGgiCmBgYAoKIyMgU2xvdO+8iHdvcmtpbmcgbWVtb3J577yJCgpgYGB0cwppbnRlcmZhY2UgU2xvdCB7CiAga2V5OiBzdHJpbmcgICAgICAgICAgICAgICAgICAgLy8gInVzZXItcHJlZiIgLyAiY3VycmVudC10YXNrIiAvIC4uLgogIHZhbHVlOiB1bmtub3duCiAgc2NvcGU6IHN0cmluZwogIHR0bE1zPzogbnVtYmVyICAgICAgICAgICAgICAgIC8vIOa7keWKqOeql+WPo+i/h+acnwogIGxhc3RVcGRhdGVkQXQ6IHN0cmluZwp9CmBgYAoKIyMgRXhwb3J0L0ltcG9ydCDniYjmnKwKCmBgYHRzCnR5cGUgRXhwb3J0RGF0YVZlcnNpb24gPSAiMC45LjAiIHwgIjAuOS4xNiIgfCAiMC45LjI4IiB8IC4uLgovLyBzdXBwb3J0ZWRWZXJzaW9uczogc2V0IG9mIHZlcnNpb25zIHRoZSBjdXJyZW50IGJ1aWxkIGNhbiBpbXBvcnQKYGBgCgojIyBLViBTY2hlbWHvvIhzcmMvc3RhdGUvc2NoZW1hLnRz77yJCgp8IEtleSDliY3nvIAgfCBWYWx1ZSBUeXBlIHwg6K+05piOIHwKfC0tLS0tLS0tLS18LS0tLS0tLS0tLS0tfC0tLS0tLXwKfCBgbWVtb3J5OntpZH1gIHwgTWVtb3J5RW50cnkgfCDkuLvlrZjlgqggfAp8IGBtZW1vcnk6ZmluZ2VycHJpbnQ6e2ZwfWAgfCBgeyBpZDogc3RyaW5nIH1gIHwgZGVkdXAg57Si5byVIHwKfCBgbWVtb3J5OmJ5LXNjb3BlOntzY29wZX06e2lkfWAgfCBgeyBpZCB9YCB8IHNjb3BlIOe0ouW8lSB8CnwgYG1lbW9yeTpieS10YWc6e3RhZ306e2lkfWAgfCBgeyBpZCB9YCB8IHRhZyDntKLlvJUgfAp8IGBsZXNzb246e2lkfWAgfCBMZXNzb24gfCBjcnlzdGFsbGl6ZSDovpPlh7ogfAp8IGBza2lsbDp7aWR9YCB8IExlc3NvbiAodHlwZT1za2lsbCkgfCDmj5Dlj5bnmoQgc2tpbGwgfAp8IGBwYXR0ZXJuOntpZH1gIHwgTGVzc29uICh0eXBlPXBhdHRlcm4pIHwg5qih5byPIHwKfCBgZ3JhcGg6bm9kZTp7aWR9YCB8IEdyYXBoTm9kZSB8IOefpeivhuWbvuiwseiKgueCuSB8CnwgYGdyYXBoOmVkZ2U6e2lkfWAgfCBHcmFwaEVkZ2UgfCDnn6Xor4blm77osLHovrkgfAp8IGBncmFwaDpieS10eXBlOnt0eXBlfTp7aWR9YCB8IGB7IGlkIH1gIHwg57G75Z6L57Si5byVIHwKfCBgc2xvdDp7c2NvcGV9OntrZXl9YCB8IFNsb3QgfCB3b3JraW5nIG1lbW9yeSB8CnwgYGF1ZGl0Ont0c306e2lkfWAgfCBBdWRpdEVudHJ5IHwg5a6h6K6h5pel5b+X77yI5pe25bqP77yJIHwKfCBgdmVjdG9yOntpZH1gIHwgYG51bWJlcltdYCB8IGVtYmVkZGluZyB2ZWN0b3IgfAp8IGBtZXRhOnZlcnNpb25gIHwgYHsgdmVyc2lvbiwgYnVpbGRIYXNoLCBleHBvcnRlZEF0IH1gIHwg5YWD5pWw5o2uIHwKCiMjIEluZGV4ZXPvvIhTUUxpdGXvvIkKCmBgYHNxbApDUkVBVEUgSU5ERVggaWR4X21lbW9yeV9zY29wZSBPTiBtZW1vcnkoc2NvcGUpOwpDUkVBVEUgSU5ERVggaWR4X21lbW9yeV9saWZlY3ljbGUgT04gbWVtb3J5KGxpZmVjeWNsZSk7CkNSRUFURSBJTkRFWCBpZHhfbWVtb3J5X2NyZWF0ZWQgT04gbWVtb3J5KGNyZWF0ZWRBdCk7CkNSRUFURSBJTkRFWCBpZHhfYXVkaXRfdGltZXN0YW1wIE9OIGF1ZGl0KHRpbWVzdGFtcCk7CkNSRUFURSBJTkRFWCBpZHhfZ3JhcGhfbm9kZV90eXBlIE9OIGdyYXBoX25vZGUodHlwZSk7CmBgYAoKIyMgTWlncmF0aW9uCgpgc3JjL2Z1bmN0aW9ucy9taWdyYXRlLnRzYCAxMyBzeW1ib2xzIOKAlCBzY2hlbWEg5ryU6L+bCmBzcmMvZnVuY3Rpb25zL21pZ3JhdGUtdmVjdG9yLWluZGV4LnRzYCA5IHN5bWJvbHMg4oCUIHZlY3RvciBpbmRleCDov4Hnp7sKCuavj+asoeWkp+eJiOacrOWNh+e6p+mcgOimgei3kSBtaWdyYXRpb27jgIIKCiMjIOWFs+mUruiuvuiuoQoKLSAqKkZpbmdlcnByaW50LWJhc2VkIGRlZHVwKiog4oCUIOWQjCBjb250ZW50IOS4jeWQjCBpZCDkvJrljrvph43liLAgZmlyc3Qgb2NjdXJyZW5jZQotICoqQ29uZmlkZW5jZSArIExpZmVjeWNsZSoqIOKAlCDlj4zlrZfmrrXpgb/lhY0i5bm954G16K6w5b+GIu+8mmNvbmZpZGVuY2Ug6KGw5YePICsgbGlmZWN5Y2xlIOeKtuaAgeacugotICoqVGltZS1zdGFtcGVkIGF1ZGl0Kiog4oCUIOaMiSB0cyDntKLlvJXvvIzmlrnkvr8gcmVwbGF5Ci0gKipTY29wZSDpmpTnprsqKiDigJQgYHNjb3BlYCDlrZfmrrXmlK/mjIHlpJrpobnnm64v5aSa55So5oi35YWx5Lqr5ZCM5LiAIGFnZW50bWVtb3J5IOWunuS+iwotICoqVmVjdG9yICsgR3JhcGggKyBCTTI1Kiog4oCUIOS4iei3r+W5tuWtmO+8jOaQnOe0ouaXtiBtZXJnZSArIHJlcmFuawo=
+# Data Models
+
+> agentmemory 核心数据模型（来自 src/types.ts / src/state/schema.ts）
+
+## 顶层
+
+```ts
+interface MemoryEntry {
+  id: string                  // generateId()
+  fingerprint: string         // fingerprintId(content) — dedup
+  content: string             // 记忆内容（任意格式）
+  summary?: string            // LLM 摘要
+  confidence: number          // 0..1
+  lifecycle: MemoryLifecycle
+  tags: string[]
+  scope: string               // 隔离 scope (default / project-A / user-1)
+  metadata: Record<string, unknown>
+  createdAt: string           // ISO timestamp
+  lastAccessedAt: string
+  accessCount: number
+  expiresAt?: string
+  relatedIds: string[]        // 关联记忆
+  source?: MemorySource       // 来自哪个 hook / function
+}
+
+type MemoryLifecycle =
+  | "active"      // 默认
+  | "consolidated" // 已被聚合成 lesson
+  | "stale"       // 长时间未访问
+  | "evicted"     // 已淘汰
+  | "archived"    // 归档（不再搜索但保留）
+```
+
+## Lesson（crystallize 输出）
+
+```ts
+interface Lesson {
+  id: string
+  type: "lesson" | "skill" | "pattern"
+  title: string
+  summary: string
+  content: string              // 结构化 markdown
+  basedOn: string[]            // 源 memory IDs
+  confidence: number
+  tags: string[]
+  examples: Example[]          // from crystallize
+  createdAt: string
+  version: number              // 每次 consolidate 加 1
+}
+```
+
+## Knowledge Graph
+
+```ts
+interface GraphNode {
+  id: string
+  type: NodeType                // "entity" | "concept" | "fact" | "rule"
+  label: string
+  properties: Record<string, unknown>
+  embeddingId?: string          // 指向 vector index
+  memoryIds: string[]           // 来源记忆
+  confidence: number
+  createdAt: string
+  lastTraversedAt: string
+}
+
+interface GraphEdge {
+  id: string
+  type: EdgeType                // "references" | "causes" | "temporal-after" | ...
+  source: string                // node id
+  target: string                // node id
+  weight: number                // 0..1
+  confidence: number
+  createdAt: string
+}
+
+type NodeType = "entity" | "concept" | "fact" | "rule" | "lesson" | "skill"
+type EdgeType = "references" | "causes" | "temporal-after" | "related" |
+                "supports" | "contradicts" | "derived-from" | "example-of"
+```
+
+## Audit
+
+```ts
+interface AuditEntry {
+  id: string
+  operation: AuditOperation
+  actor: string                 // who triggered (agent / function / user)
+  target?: string               // memory / lesson / graph id
+  payload: Record<string, unknown>  // 脱敏
+  result: "success" | "failure"
+  error?: string
+  timestamp: string
+}
+
+type AuditOperation =
+  | "remember" | "search" | "forget" | "evict"
+  | "crystallize" | "consolidate" | "snapshot"
+  | "graph-add" | "graph-remove"
+  | "export" | "import" | "merge"
+  | "config-change" | "auth"
+```
+
+## Slot（working memory）
+
+```ts
+interface Slot {
+  key: string                   // "user-pref" / "current-task" / ...
+  value: unknown
+  scope: string
+  ttlMs?: number                // 滑动窗口过期
+  lastUpdatedAt: string
+}
+```
+
+## Export/Import 版本
+
+```ts
+type ExportDataVersion = "0.9.0" | "0.9.16" | "0.9.28" | ...
+// supportedVersions: set of versions the current build can import
+```
+
+## KV Schema（src/state/schema.ts）
+
+| Key 前缀 | Value Type | 说明 |
+|----------|------------|------|
+| `memory:{id}` | MemoryEntry | 主存储 |
+| `memory:fingerprint:{fp}` | `{ id: string }` | dedup 索引 |
+| `memory:by-scope:{scope}:{id}` | `{ id }` | scope 索引 |
+| `memory:by-tag:{tag}:{id}` | `{ id }` | tag 索引 |
+| `lesson:{id}` | Lesson | crystallize 输出 |
+| `skill:{id}` | Lesson (type=skill) | 提取的 skill |
+| `pattern:{id}` | Lesson (type=pattern) | 模式 |
+| `graph:node:{id}` | GraphNode | 知识图谱节点 |
+| `graph:edge:{id}` | GraphEdge | 知识图谱边 |
+| `graph:by-type:{type}:{id}` | `{ id }` | 类型索引 |
+| `slot:{scope}:{key}` | Slot | working memory |
+| `audit:{ts}:{id}` | AuditEntry | 审计日志（时序） |
+| `vector:{id}` | `number[]` | embedding vector |
+| `meta:version` | `{ version, buildHash, exportedAt }` | 元数据 |
+
+## Indexes（SQLite）
+
+```sql
+CREATE INDEX idx_memory_scope ON memory(scope);
+CREATE INDEX idx_memory_lifecycle ON memory(lifecycle);
+CREATE INDEX idx_memory_created ON memory(createdAt);
+CREATE INDEX idx_audit_timestamp ON audit(timestamp);
+CREATE INDEX idx_graph_node_type ON graph_node(type);
+```
+
+## Migration
+
+`src/functions/migrate.ts` 13 symbols — schema 演进
+`src/functions/migrate-vector-index.ts` 9 symbols — vector index 迁移
+
+每次大版本升级需要跑 migration。
+
+## 关键设计
+
+- **Fingerprint-based dedup** — 同 content 不同 id 会去重到 first occurrence
+- **Confidence + Lifecycle** — 双字段避免"幽灵记忆"：confidence 衰减 + lifecycle 状态机
+- **Time-stamped audit** — 按 ts 索引，方便 replay
+- **Scope 隔离** — `scope` 字段支持多项目/多用户共享同一 agentmemory 实例
+- **Vector + Graph + BM25** — 三路并存，搜索时 merge + rerank

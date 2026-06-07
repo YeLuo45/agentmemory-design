@@ -1,1 +1,111 @@
-IyBUZWNoIFN0YWNrCgo+IGFnZW50bWVtb3J5IOaKgOacr+agiOivpuino++8iHYwLjkuMjjvvIkKCiMjIOaguOW/gwoKfCDnsbvliKsgfCDmioDmnK8gfCDniYjmnKwgfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS18Cnwg6K+t6KiAIHwgVHlwZVNjcmlwdCB8IDUueCBzdHJpY3QgbW9kZSB8Cnwg5qih5Z2X57O757ufIHwgRVNNIHwgYCJ0eXBlIjogIm1vZHVsZSJgIHwKfCDov5DooYzml7YgfCBOb2RlLmpzIHwgPj0gMjIgfAp8IOaehOW7uiB8IHRzZG93biB8IChUeXBlU2NyaXB0IOKGkiBFU00pIHwKfCDmtYvor5UgfCB2aXRlc3QgfCA5NTArIHRlc3RzIHwKfCDljIXnrqHnkIYgfCBucG0gfCAo5ZCrIHBucG0gZmFsbGJhY2spIHwKfCDlkI7nq68gfCBpaWktZW5naW5lIHwgV2ViU29ja2V0IChwb3J0IDQ5MTM0KSB8Cnwg5pWw5o2u5bqTIHwgU1FMaXRlIHwgdmlhIGlpaS1lbmdpbmUgU3RhdGVNb2R1bGUgfAoKIyMgaWlpLWVuZ2luZe+8iOS+nei1lu+8iQoKfCDnu4Tku7YgfCDop5LoibIgfAp8LS0tLS0tfC0tLS0tLXwKfCAqKldvcmtlcioqIHwg5ZCO5Y+w5omn6KGM5Y2V5YWDIHwKfCAqKkZ1bmN0aW9uKiogfCDms6jlhozlvI8gUlBD77yIYWdlbnRtZW1vcnkg5rOo5YaMIDUwK++8iSB8CnwgKipUcmlnZ2VyKiogfCDkuovku7bop6blj5HlmajvvIhodHRwIC8gY3JvbiAvIG1jcO+8iSB8CnwgKipTdGF0ZU1vZHVsZSoqIHwgS1YgKyBTUUxpdGUg5oyB5LmF5YyWIHwKfCAqKldlYlNvY2tldCoqIHwgYWdlbnRtZW1vcnkg4oaUIGlpaS1lbmdpbmUg6YCa5L+hIHwKCiMjIE1DUCBMYXllcgoKfCDnu4Tku7YgfCDmioDmnK8gfAp8LS0tLS0tfC0tLS0tLXwKfCDljY/orq4gfCBNb2RlbCBDb250ZXh0IFByb3RvY29sIChBbnRocm9waWMgc3RhbmRhcmQpIHwKfCBUcmFuc3BvcnQgfCBzdGRpbyAo6buY6K6kKSAvIEhUVFAgKOWPr+mAiSkgfAp8IFRvb2xzIHwgNTMgKDggdmlzaWJsZSwgNDUgYmVoaW5kIGBBR0VOVE1FTU9SWV9UT09MUz1hbGxgKSB8CnwgUmVzb3VyY2VzIHwgNiAoZGF0YSByZWZzKSB8CnwgUHJvbXB0cyB8IDMgKHRlbXBsYXRlIHByb21wdCkgfAp8IOi/kOihjOaXtuaooeW8jyB8IGBzdGFuZGFsb25lYCAo5LiN5L6d6LWWIGlpaS1lbmdpbmUpIC8gYGNvbm5lY3RlZGAgKOi/niBpaWkpIHwKCiMjIFJFU1QgTGF5ZXIKCnwg57uE5Lu2IHwg5oqA5pyvIHwKfC0tLS0tLXwtLS0tLS18CnwgRW5kcG9pbnRzIHwgMTI4IHwKfCBQYXRoIOWJjee8gCB8IGAvYWdlbnRtZW1vcnkvLi4uYCB8CnwgQXV0aCB8IGBjaGVja0F1dGgocmVxLCBzZWNyZXQpYCBwZXIgZW5kcG9pbnQgfAp8IOWtl+autei/h+a7pCB8IHdoaXRlbGlzdCBmaWVsZHMsIOawuOS4jeS8oCByYXcgYm9keSB0byBgc2RrLnRyaWdnZXIoKWAgfAp8IOeKtuaAgeeggSB8IOagh+WHhiBIVFRQ77yIMjAwLzIwMS80MDAvNDAxLzQwNC81MDDvvIkgfAoKIyMg5a2Y5YKoCgp8IOaVsOaNriB8IOS9jee9riB8IFNjaGVtYSB8CnwtLS0tLS18LS0tLS0tfC0tLS0tLS0tfAp8IE1lbW9yeSBlbnRyaWVzIHwgYGRhdGEvc3RhdGVfc3RvcmUuZGJgIChTUUxpdGUpIHwgYHN0YXRlL3NjaGVtYS50c2Ag5a6a5LmJIHwKfCBBdWRpdCBsb2cgfCBgZGF0YS9hdWRpdC5kYmAgfCBgQXVkaXRFbnRyeWAgaW50ZXJmYWNlIHwKfCBFbWJlZGRpbmdzIHwgU1FMaXRlICsgdmVjdG9yIGluZGV4IHwgYG1pZ3JhdGUtdmVjdG9yLWluZGV4LnRzYCB8CnwgS1Ygc2NvcGVzIHwg5aSa5Liq77yIbWVtIC8gZ3JhcGggLyBsZXNzb24gLyBza2lsbO+8iSB8IGBzdGF0ZS9zY2hlbWEudHNgIHwKCiMjIEhvb2tzIChDbGF1ZGUgQ29kZSkKCmFnZW50bWVtb3J5IOaatOmcsiAxNCBob29rIOiEmuacrOWIsCBgcGx1Z2luL3NjcmlwdHMvYO+8mgoKfCBIb29rIHwg5qih5byPIHwg55So6YCUIHwKfC0tLS0tLXwtLS0tLS18LS0tLS0tfAp8IGBwcmUtdG9vbC11c2VgIHwgY29udGV4dC1pbmplY3RpbmcgfCDms6jlhaXnm7jlhbPorrDlv4bliLAgcHJvbXB0IHwKfCBgcHJlLWNvbXBhY3RgIHwgY29udGV4dC1pbmplY3RpbmcgfCBjb21wYWN0IOS5i+WJjSByZWNhbGwgfAp8IGBzZXNzaW9uLXN0YXJ0YCB8IGNvbnRleHQtaW5qZWN0aW5nIHwgc2Vzc2lvbiDlkK/liqjml7bovb3lhaXkuIrkuIvmlocgfAp8IGBwb3N0LXRvb2wtdXNlYCB8IGZpcmUtYW5kLWZvcmdldCB8IOiusOW9lSB0b29sIOiwg+eUqCB8CnwgYHBvc3QtdG9vbC1mYWlsdXJlYCB8IGZpcmUtYW5kLWZvcmdldCB8IOiusOW9leWksei0pSB8CnwgYHByb21wdC1zdWJtaXRgIHwgZmlyZS1hbmQtZm9yZ2V0IHwg6K6w5b2VIHByb21wdCB8CnwgYG5vdGlmaWNhdGlvbmAgfCBmaXJlLWFuZC1mb3JnZXQgfCDpgJrnn6UgfAp8IGBzdG9wYCB8IGZpcmUtYW5kLWZvcmdldCAoMTUwMG1zKSB8IHNlc3Npb24g5YGc5q2iIHwKfCBgc2Vzc2lvbi1lbmRgIHwgZmlyZS1hbmQtZm9yZ2V0ICgxNTAwbXMpIHwgc2Vzc2lvbiDnu5PmnZ8gfAp8IGBzdWJhZ2VudC1zdGFydGAgfCBmaXJlLWFuZC1mb3JnZXQgfCBzdWJhZ2VudCDlkK/liqggfAp8IGBzdWJhZ2VudC1zdG9wYCB8IGZpcmUtYW5kLWZvcmdldCB8IHN1YmFnZW50IOWBnOatoiB8CnwgYHRhc2stY29tcGxldGVkYCB8IGZpcmUtYW5kLWZvcmdldCB8IHRhc2sg5a6M5oiQIHwKfCBgcG9zdC1jb21taXRgIHwgZmlyZS1hbmQtZm9yZ2V0IHwgY29tbWl0IOWQjuiusOW9lSB8CnwgYGRpYWdub3N0aWNzYCB8ICh1dGlsaXR5KSB8IOiviuaWrSB8CgoqKuS4pOenjeaooeW8jyoq77yaCi0gKipDb250ZXh0LWluamVjdGluZyoqIChgcHJlLSpgLCBgc2Vzc2lvbi1zdGFydGApIOKAlCBgYXdhaXQgZmV0Y2goLi4uKWAgKyB0cnkvY2F0Y2jvvJvohJrmnKzlv4XpobvnrYnlk43lupQKLSAqKlRlbGVtZXRyeS1vbmx5KiogKOWFtuS9mSkg4oCUIGBmZXRjaCguLi4pLmNhdGNoKCgpPT57fSlgICsgYHNldFRpbWVvdXQoMCkudW5yZWYoKWAg5by65Yi26YCA5Ye6CgojIyBTa2lsbHMgKENsYXVkZSBDb2RlIFBsdWdpbikKCjQg5LiqIHNraWxsIOaatOmcsuWIsCBgcGx1Z2luL3NraWxscy9g77yaCi0gKOWunumZheWIl+ihqOmcgCBleHBsb3JlIGBwbHVnaW4vc2tpbGxzL2DvvIxBR0VOVFMubWQg5o+Q5YiwIDQg5LiqKQoKIyMg56ys5LiJ5pa5IExMTSBQcm92aWRlcgoKYHNyYy9wcm92aWRlcnMvYCDmir3osaHlsYLvvJoKLSDku7vkvZUgTExNIOmDveiDveaPkuWFpe+8iGdlbmVyYXRlSWQgLyBmaW5nZXJwcmludCAvIGVtYmVkIC8gc3VtbWFyaXpl77yJCi0g6buY6K6k55SoIGlpaS1lbmdpbmUg6Ieq5bimIHByb3ZpZGVyCgojIyDpg6jnvbIKCnwg57uE5Lu2IHwg5oqA5pyvIHwKfC0tLS0tLXwtLS0tLS18CnwgRG9ja2VyIHwgYGRvY2tlci1jb21wb3NlLnltbGAgKyBgaWlpLWNvbmZpZy5kb2NrZXIueWFtbGAgfAp8IFN0YW5kYWxvbmUgfCBgbnB4IGFnZW50bWVtb3J5YCAo55SoIGBtY3Avc3RhbmRhbG9uZS50c2ApIHwKfCBSZW1vdGUgZGFlbW9uIHwgZGFlbW9uIGxpc3RlbnMgb24gcG9ydCArIHNlcnZlcyBNQ1AvUkVTVCB8CnwgSGVsbSAvIGs4cyB8IOaaguacquaPkOS+m++8iGNvbnRyaWJ1dGlvbiDmrKLov47vvIkgfAoKIyMgTUNQIOW3peWFt+WIhuexuwoKfCDnsbvliKsgfCDlt6XlhbfmlbDvvIjkvLDvvIkgfCDkvovlrZAgfAp8LS0tLS0tfC0tLS0tLS0tLS0tLS0tfC0tLS0tLXwKfCDln7rnoYAgQ1JVRCB8IDggKGRlZmF1bHQgdmlzaWJsZSkgfCBtZW1vcnlfcmVtZW1iZXIgLyBtZW1vcnlfc2VhcmNoIC8gbWVtb3J5X2ZvcmdldCB8Cnwg6auY57qnIHwgfjIwIHwgbWVtb3J5X2NyeXN0YWxsaXplIC8gbWVtb3J5X2NvbnNvbGlkYXRlIC8gbWVtb3J5X2V2aWN0IHwKfCBHcmFwaCB8IH4xMCB8IG1lbW9yeV9ncmFwaF9xdWVyeSAvIG1lbW9yeV9ncmFwaF9hZGRfbm9kZSB8Cnwg5pCc57SiIHwgfjggfCBtZW1vcnlfc21hcnRfc2VhcmNoIC8gbWVtb3J5X3Zpc2lvbl9zZWFyY2ggfAp8IOi/kOe7tCB8IH43IHwgbWVtb3J5X2V4cG9ydCAvIG1lbW9yeV9pbXBvcnQgLyBtZW1vcnlfZGlhZ25vc3RpY3MgfAo=
+# Tech Stack
+
+> agentmemory 技术栈详解（v0.9.28）
+
+## 核心
+
+| 类别 | 技术 | 版本 |
+|------|------|------|
+| 语言 | TypeScript | 5.x strict mode |
+| 模块系统 | ESM | `"type": "module"` |
+| 运行时 | Node.js | >= 22 |
+| 构建 | tsdown | (TypeScript → ESM) |
+| 测试 | vitest | 950+ tests |
+| 包管理 | npm | (含 pnpm fallback) |
+| 后端 | iii-engine | WebSocket (port 49134) |
+| 数据库 | SQLite | via iii-engine StateModule |
+
+## iii-engine（依赖）
+
+| 组件 | 角色 |
+|------|------|
+| **Worker** | 后台执行单元 |
+| **Function** | 注册式 RPC（agentmemory 注册 50+） |
+| **Trigger** | 事件触发器（http / cron / mcp） |
+| **StateModule** | KV + SQLite 持久化 |
+| **WebSocket** | agentmemory ↔ iii-engine 通信 |
+
+## MCP Layer
+
+| 组件 | 技术 |
+|------|------|
+| 协议 | Model Context Protocol (Anthropic standard) |
+| Transport | stdio (默认) / HTTP (可选) |
+| Tools | 53 (8 visible, 45 behind `AGENTMEMORY_TOOLS=all`) |
+| Resources | 6 (data refs) |
+| Prompts | 3 (template prompt) |
+| 运行时模式 | `standalone` (不依赖 iii-engine) / `connected` (连 iii) |
+
+## REST Layer
+
+| 组件 | 技术 |
+|------|------|
+| Endpoints | 128 |
+| Path 前缀 | `/agentmemory/...` |
+| Auth | `checkAuth(req, secret)` per endpoint |
+| 字段过滤 | whitelist fields, 永不传 raw body to `sdk.trigger()` |
+| 状态码 | 标准 HTTP（200/201/400/401/404/500） |
+
+## 存储
+
+| 数据 | 位置 | Schema |
+|------|------|--------|
+| Memory entries | `data/state_store.db` (SQLite) | `state/schema.ts` 定义 |
+| Audit log | `data/audit.db` | `AuditEntry` interface |
+| Embeddings | SQLite + vector index | `migrate-vector-index.ts` |
+| KV scopes | 多个（mem / graph / lesson / skill） | `state/schema.ts` |
+
+## Hooks (Claude Code)
+
+agentmemory 暴露 14 hook 脚本到 `plugin/scripts/`：
+
+| Hook | 模式 | 用途 |
+|------|------|------|
+| `pre-tool-use` | context-injecting | 注入相关记忆到 prompt |
+| `pre-compact` | context-injecting | compact 之前 recall |
+| `session-start` | context-injecting | session 启动时载入上下文 |
+| `post-tool-use` | fire-and-forget | 记录 tool 调用 |
+| `post-tool-failure` | fire-and-forget | 记录失败 |
+| `prompt-submit` | fire-and-forget | 记录 prompt |
+| `notification` | fire-and-forget | 通知 |
+| `stop` | fire-and-forget (1500ms) | session 停止 |
+| `session-end` | fire-and-forget (1500ms) | session 结束 |
+| `subagent-start` | fire-and-forget | subagent 启动 |
+| `subagent-stop` | fire-and-forget | subagent 停止 |
+| `task-completed` | fire-and-forget | task 完成 |
+| `post-commit` | fire-and-forget | commit 后记录 |
+| `diagnostics` | (utility) | 诊断 |
+
+**两种模式**：
+- **Context-injecting** (`pre-*`, `session-start`) — `await fetch(...)` + try/catch；脚本必须等响应
+- **Telemetry-only** (其余) — `fetch(...).catch(()=>{})` + `setTimeout(0).unref()` 强制退出
+
+## Skills (Claude Code Plugin)
+
+4 个 skill 暴露到 `plugin/skills/`：
+- (实际列表需 explore `plugin/skills/`，AGENTS.md 提到 4 个)
+
+## 第三方 LLM Provider
+
+`src/providers/` 抽象层：
+- 任何 LLM 都能插入（generateId / fingerprint / embed / summarize）
+- 默认用 iii-engine 自带 provider
+
+## 部署
+
+| 组件 | 技术 |
+|------|------|
+| Docker | `docker-compose.yml` + `iii-config.docker.yaml` |
+| Standalone | `npx agentmemory` (用 `mcp/standalone.ts`) |
+| Remote daemon | daemon listens on port + serves MCP/REST |
+| Helm / k8s | 暂未提供（contribution 欢迎） |
+
+## MCP 工具分类
+
+| 类别 | 工具数（估） | 例子 |
+|------|--------------|------|
+| 基础 CRUD | 8 (default visible) | memory_remember / memory_search / memory_forget |
+| 高级 | ~20 | memory_crystallize / memory_consolidate / memory_evict |
+| Graph | ~10 | memory_graph_query / memory_graph_add_node |
+| 搜索 | ~8 | memory_smart_search / memory_vision_search |
+| 运维 | ~7 | memory_export / memory_import / memory_diagnostics |

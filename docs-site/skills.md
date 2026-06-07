@@ -1,1 +1,114 @@
-IyBTa2lsbHMKCj4gNCDkuKogcGx1Z2luIHNraWxsc++8iENsYXVkZSBDb2RlIHBsdWdpbiDmmrTpnLLvvIkKCiMjIOWIl+ihqAoKfCBTa2lsbCB8IOinpuWPkSB8IOS9nOeUqCB8CnwtLS0tLS0tfC0tLS0tLXwtLS0tLS18CnwgYC9hZ2VudG1lbW9yeS1yZW1lbWJlcmAgfCDmmL7lvI/osIPnlKggfCByZW1lbWJlciDlvZPliY3kuIrkuIvmlocgfAp8IGAvYWdlbnRtZW1vcnktcmVjYWxsYCB8IOaYvuW8j+iwg+eUqCB8IOaQnOe0ouebuOWFs+iusOW/hiB8CnwgYC9hZ2VudG1lbW9yeS1jcnlzdGFsbGl6ZWAgfCDmmL7lvI/osIPnlKggfCDop6blj5EgY3J5c3RhbGxpemUgcGlwZWxpbmUgfAp8IGAvYWdlbnRtZW1vcnktaW5zaWdodHNgIHwg5pi+5byP6LCD55SoIHwg5pi+56S657uf6K6hICsgaW5zaWdodHMgfAoKIyMgU0tJTEwubWQg5qih5byPCgrmr4/kuKogc2tpbGwg55uu5b2V5pyJIGBTS0lMTC5tZGDvvJoKCmBgYG1hcmtkb3duCi0tLQpuYW1lOiBhZ2VudG1lbW9yeS1yZWNhbGwKZGVzY3JpcHRpb246IFNlYXJjaCBhZ2VudG1lbW9yeSBmb3IgbWVtb3JpZXMgcmVsYXRlZCB0byBjdXJyZW50IGNvbnRleHQKLS0tCgojIFJlY2FsbAoKWW91IGFyZSBhIHJlY2FsbCBhc3Npc3RhbnQuIFdoZW4gdGhlIHVzZXIgYXNrcyAid2hhdCBkbyB5b3UgcmVtZW1iZXIgYWJvdXQgWCIgb3IKInJlY2FsbCBtZW1vcmllcyByZWxhdGVkIHRvIFkiLCB5b3Ugc2hvdWxkOgoKMS4gQ2FsbCB0aGUgTUNQIHRvb2wgYG1lbW9yeV9zZWFyY2hgIHdpdGggdGhlIHF1ZXJ5CjIuIEZvcm1hdCB0aGUgcmVzdWx0cyBhcyBhIGNvbmNpc2UgbGlzdAozLiBPcHRpb25hbGx5IGxpbmsgdG8gc291cmNlIG1lbW9yeSBJRHMKCiMjIFBhcmFtZXRlcnMKCi0gYHF1ZXJ5YCAocmVxdWlyZWQpOiBuYXR1cmFsIGxhbmd1YWdlIHF1ZXJ5Ci0gYHNjb3BlYCAob3B0aW9uYWwpOiByZXN0cmljdCB0byBzY29wZQotIGBsaW1pdGAgKGRlZmF1bHQgMTApOiBtYXggcmVzdWx0cwoKIyMgUmVzcG9uc2UgZm9ybWF0CgpgYGAKRm91bmQge2NvdW50fSByZWxldmFudCBtZW1vcmllczoKCjEuIFt7aWR9XSB7c3VtbWFyeX0KICAgVGFnczoge3RhZ3N9CiAgIENvbmZpZGVuY2U6IHtjb25maWRlbmNlfQogICBDcmVhdGVkOiB7Y3JlYXRlZEF0fQoKMi4gLi4uCmBgYApgYGAKCiMjIOS4jiBNQ1Ag5bel5YW355qE5YWz57O7CgpTa2lsbHMg5a6e6ZmF5pivICoqcHJvbXB0ICsgd29ya2Zsb3cg5YyF6KOFKirvvIzog4zlkI7osIMgTUNQIOW3peWFt++8mgoKYGBgCi9hZ2VudG1lbW9yeS1yZWNhbGwKICAg4oaTClNraWxsIHByb21wdCAoU0tJTEwubWQpCiAgIOKGkwptY3AgdG9vbDogbWVtb3J5X3NlYXJjaAogICDihpMKUkVTVDogUE9TVCAvYWdlbnRtZW1vcnkvc2VhcmNoCiAgIOKGkwppaWkgZnVuY3Rpb246IG1lbTo6c2VhcmNoCiAgIOKGkwpSZXN1bHQg4oaSIFNraWxsIGZvcm1hdHMg4oaSIHVzZXIKYGBgCgojIyDlronoo4UKCmBgYGJhc2gKIyBDbGF1ZGUgQ29kZQpjbGF1ZGUgcGx1Z2lucyBpbnN0YWxsIGh0dHBzOi8vZ2l0aHViLmNvbS9yb2hpdGcwMC9hZ2VudG1lbW9yeQoKIyDnhLblkI7lnKggQ2xhdWRlIENvZGUg5ZCv55SoCi9wbHVnaW5zIGVuYWJsZSBhZ2VudG1lbW9yeQoKIyDkuYvlkI4gL2FnZW50bWVtb3J5LXJlY2FsbCDlj6/nlKgKYGBgCgojIyDoh6rlrprkuYkgU2tpbGwKCuWKoOaWsCBza2lsbO+8mgoKYGBgYmFzaApta2RpciAtcCBwbHVnaW4vc2tpbGxzL2FnZW50bWVtb3J5LW15LXRoaW5nCmNhdCA+IHBsdWdpbi9za2lsbHMvYWdlbnRtZW1vcnktbXktdGhpbmcvU0tJTEwubWQgPDwgJ0VPRicKLS0tCm5hbWU6IGFnZW50bWVtb3J5LW15LXRoaW5nCmRlc2NyaXB0aW9uOiBNeSBjdXN0b20gd29ya2Zsb3cKLS0tCgojIE15IFRoaW5nCgouLi4KRU9GCmBgYAoKIyMg6Leo5bmz5Y+wCgpTa2lsbHMg5pivIENsYXVkZSBDb2RlIOamguW/teOAguWFtuS7luW5s+WPsO+8mgotICoqQ3Vyc29yKio6IOeUqCBgLm1kY2Ag6KeE5YiZ5paH5Lu2Ci0gKipDb2RleCoqOiDkuI3mlK/mjIEKLSAqKk9wZW5Db2RlKio6IOeUqCBgYWdlbnRtZW1vcnktY2FwdHVyZS50c2AgKHBsdWdpbi9vcGVuY29kZS8pCgojIyDniYjmnKzlkIzmraUKCuWKoCBza2lsbCDlv4Xmm7TmlrDvvJoKLSBgcGx1Z2luLy5jbGF1ZGUtcGx1Z2luL3BsdWdpbi5qc29uYCAoc2tpbGxzIOaVsOe7hCkKLSBgcGx1Z2luL3BsdWdpbi5qc29uYCAobGVnYWN5LCBpZiBwcmVzZW50KQotIGBzcmMvaW5kZXgudHNgIChza2lsbHMgY291bnQgaW4gbG9nIGxpbmUpCi0gYFJFQURNRS5tZGAgKHNraWxscyBjb3VudCkK
+# Skills
+
+> 4 个 plugin skills（Claude Code plugin 暴露）
+
+## 列表
+
+| Skill | 触发 | 作用 |
+|-------|------|------|
+| `/agentmemory-remember` | 显式调用 | remember 当前上下文 |
+| `/agentmemory-recall` | 显式调用 | 搜索相关记忆 |
+| `/agentmemory-crystallize` | 显式调用 | 触发 crystallize pipeline |
+| `/agentmemory-insights` | 显式调用 | 显示统计 + insights |
+
+## SKILL.md 模式
+
+每个 skill 目录有 `SKILL.md`：
+
+```markdown
+---
+name: agentmemory-recall
+description: Search agentmemory for memories related to current context
+---
+
+# Recall
+
+You are a recall assistant. When the user asks "what do you remember about X" or
+"recall memories related to Y", you should:
+
+1. Call the MCP tool `memory_search` with the query
+2. Format the results as a concise list
+3. Optionally link to source memory IDs
+
+## Parameters
+
+- `query` (required): natural language query
+- `scope` (optional): restrict to scope
+- `limit` (default 10): max results
+
+## Response format
+
+```
+Found {count} relevant memories:
+
+1. [{id}] {summary}
+   Tags: {tags}
+   Confidence: {confidence}
+   Created: {createdAt}
+
+2. ...
+```
+```
+
+## 与 MCP 工具的关系
+
+Skills 实际是 **prompt + workflow 包装**，背后调 MCP 工具：
+
+```
+/agentmemory-recall
+   ↓
+Skill prompt (SKILL.md)
+   ↓
+mcp tool: memory_search
+   ↓
+REST: POST /agentmemory/search
+   ↓
+iii function: mem::search
+   ↓
+Result → Skill formats → user
+```
+
+## 安装
+
+```bash
+# Claude Code
+claude plugins install https://github.com/rohitg00/agentmemory
+
+# 然后在 Claude Code 启用
+/plugins enable agentmemory
+
+# 之后 /agentmemory-recall 可用
+```
+
+## 自定义 Skill
+
+加新 skill：
+
+```bash
+mkdir -p plugin/skills/agentmemory-my-thing
+cat > plugin/skills/agentmemory-my-thing/SKILL.md << 'EOF'
+---
+name: agentmemory-my-thing
+description: My custom workflow
+---
+
+# My Thing
+
+...
+EOF
+```
+
+## 跨平台
+
+Skills 是 Claude Code 概念。其他平台：
+- **Cursor**: 用 `.mdc` 规则文件
+- **Codex**: 不支持
+- **OpenCode**: 用 `agentmemory-capture.ts` (plugin/opencode/)
+
+## 版本同步
+
+加 skill 必更新：
+- `plugin/.claude-plugin/plugin.json` (skills 数组)
+- `plugin/plugin.json` (legacy, if present)
+- `src/index.ts` (skills count in log line)
+- `README.md` (skills count)

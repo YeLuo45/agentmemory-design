@@ -1,1 +1,240 @@
-IyBLbm93bGVkZ2UgR3JhcGgKCj4gYWdlbnRtZW1vcnkg5YaF6YOo55+l6K+G5Zu+6LCx77yIc3JjL2Z1bmN0aW9ucy9ncmFwaC50cyAzMCBzeW1ib2xz77yJCgojIyDoioLngrkgLyDovrkKCmBgYHRzCnR5cGUgTm9kZVR5cGUgPSAiZW50aXR5IiB8ICJjb25jZXB0IiB8ICJmYWN0IiB8ICJydWxlIiB8ICJsZXNzb24iIHwgInNraWxsIgp0eXBlIEVkZ2VUeXBlID0gInJlZmVyZW5jZXMiIHwgImNhdXNlcyIgfCAidGVtcG9yYWwtYWZ0ZXIiIHwgInJlbGF0ZWQiIHwKICAgICAgICAgICAgICAgICJzdXBwb3J0cyIgfCAiY29udHJhZGljdHMiIHwgImRlcml2ZWQtZnJvbSIgfCAiZXhhbXBsZS1vZiIKYGBgCgojIyDkvZXml7blu7rlm74KCuS7jiBgcmVtZW1iZXJgIOiHquWKqOaKveWPliBlbnRpdHkgKyByZWxhdGlvbu+8mgoKYGBgdHlwZXNjcmlwdAovLyDlnKggbWVtOjpyZW1lbWJlciDkuK0KYXN5bmMgZnVuY3Rpb24gcmVtZW1iZXIoaW5wdXQpIHsKICBjb25zdCBlbnRyeSA9IGF3YWl0IHBlcnNpc3RNZW1vcnkoaW5wdXQpOwogIAogIC8vIOiHquWKqOW7uuWbviAo5bm26KGMLCDkuI3pmLvloZ4pCiAgUHJvbWlzZS5hbGwoWwogICAgZXh0cmFjdEVudGl0aWVzKGVudHJ5KS50aGVuKGVudGl0aWVzID0+IAogICAgICBlbnRpdGllcy5mb3JFYWNoKGUgPT4gYWRkR3JhcGhOb2RlKGUpKQogICAgKSwKICAgIGV4dHJhY3RSZWxhdGlvbnMoZW50cnkpLnRoZW4ocmVscyA9PiAKICAgICAgcmVscy5mb3JFYWNoKHIgPT4gYWRkR3JhcGhFZGdlKHIpKQogICAgKSwKICBdKS5jYXRjaCgoKSA9PiB7fSk7ICAvLyDpnZnpu5jlpLHotKUKICAKICByZXR1cm4geyBpZDogZW50cnkuaWQgfTsKfQpgYGAKCiMjIE1DUCDlt6XlhbcKCmBgYAptZW1vcnlfZ3JhcGhfYWRkX25vZGUodHlwZSwgbGFiZWwsIHByb3BlcnRpZXM/LCBtZW1vcnlJZHM/KQptZW1vcnlfZ3JhcGhfYWRkX2VkZ2Uoc291cmNlLCB0YXJnZXQsIHR5cGUsIHdlaWdodD8sIGNvbmZpZGVuY2U/KQptZW1vcnlfZ3JhcGhfcXVlcnkobm9kZUlkLCBkZXB0aD8sIGRpcmVjdGlvbj8pCm1lbW9yeV9ncmFwaF9zZWFyY2gocXVlcnksIHR5cGU/LCBsaW1pdD8pCm1lbW9yeV9ncmFwaF9yZW1vdmVfbm9kZShub2RlSWQpCm1lbW9yeV9ncmFwaF9yZW1vdmVfZWRnZShlZGdlSWQpCmBgYAoKIyMg5p+l6K+i5qih5byPCgojIyMgMS4gRm9yd2FyZCBCRlMKCmBgYHR5cGVzY3JpcHQKLy8gc3JjL2Z1bmN0aW9ucy9ncmFwaC1yZXRyaWV2YWwudHMKYXN5bmMgZnVuY3Rpb24gZm9yd2FyZEJGUyhzdGFydElkOiBzdHJpbmcsIG1heERlcHRoID0gMykgewogIGNvbnN0IHZpc2l0ZWQgPSBuZXcgU2V0PHN0cmluZz4oKTsKICBjb25zdCBxdWV1ZTogeyBpZDogc3RyaW5nOyBkZXB0aDogbnVtYmVyOyBwYXRoOiBzdHJpbmdbXSB9W10gPSBbCiAgICB7IGlkOiBzdGFydElkLCBkZXB0aDogMCwgcGF0aDogW3N0YXJ0SWRdIH0KICBdOwogIGNvbnN0IHJlc3VsdHM6IHsgbm9kZTogR3JhcGhOb2RlOyBwYXRoOiBzdHJpbmdbXTsgZGVwdGg6IG51bWJlciB9W10gPSBbXTsKICAKICB3aGlsZSAocXVldWUubGVuZ3RoID4gMCkgewogICAgY29uc3QgeyBpZCwgZGVwdGgsIHBhdGggfSA9IHF1ZXVlLnNoaWZ0KCkhOwogICAgaWYgKHZpc2l0ZWQuaGFzKGlkKSB8fCBkZXB0aCA+IG1heERlcHRoKSBjb250aW51ZTsKICAgIHZpc2l0ZWQuYWRkKGlkKTsKICAgIAogICAgY29uc3Qgbm9kZSA9IGF3YWl0IGt2LmdldChgZ3JhcGg6bm9kZToke2lkfWApOwogICAgaWYgKCFub2RlKSBjb250aW51ZTsKICAgIAogICAgcmVzdWx0cy5wdXNoKHsgbm9kZSwgcGF0aCwgZGVwdGggfSk7CiAgICAKICAgIC8vIE91dGdvaW5nIGVkZ2VzCiAgICBjb25zdCBvdXRFZGdlcyA9IGF3YWl0IGt2Lmxpc3QoewogICAgICBwcmVmaXg6IGBncmFwaDplZGdlOmAsCiAgICAgIGZpbHRlcjogZSA9PiBlLnNvdXJjZSA9PT0gaWQsCiAgICB9KTsKICAgIAogICAgZm9yIChjb25zdCBlZGdlIG9mIG91dEVkZ2VzKSB7CiAgICAgIGlmICghdmlzaXRlZC5oYXMoZWRnZS50YXJnZXQpKSB7CiAgICAgICAgcXVldWUucHVzaCh7IGlkOiBlZGdlLnRhcmdldCwgZGVwdGg6IGRlcHRoICsgMSwgcGF0aDogWy4uLnBhdGgsIGVkZ2UudGFyZ2V0XSB9KTsKICAgICAgfQogICAgfQogIH0KICAKICByZXR1cm4gcmVzdWx0czsKfQpgYGAKCiMjIyAyLiBCaWRpcmVjdGlvbmFsCgpgYGB0eXBlc2NyaXB0CmFzeW5jIGZ1bmN0aW9uIGJpZGlyZWN0aW9uYWwoc3RhcnRJZDogc3RyaW5nLCBlbmRJZDogc3RyaW5nLCBtYXhEZXB0aCA9IDQpIHsKICAvLyBCRlMgZnJvbSBib3RoIGVuZHMKICBjb25zdCBmb3J3YXJkID0gYXdhaXQgYmZzKHN0YXJ0SWQsIG1heERlcHRoKTsKICBjb25zdCBiYWNrd2FyZCA9IGF3YWl0IGJmcyhlbmRJZCwgbWF4RGVwdGgpOwogIAogIC8vIEZpbmQgaW50ZXJzZWN0aW9uCiAgY29uc3QgaW50ZXJzZWN0ID0gZm9yd2FyZC5maWx0ZXIobiA9PiAKICAgIGJhY2t3YXJkLnNvbWUobSA9PiBtLm5vZGUuaWQgPT09IG4ubm9kZS5pZCkKICApOwogIAogIHJldHVybiBpbnRlcnNlY3Q7Cn0KYGBgCgojIyMgMy4gU3ViZ3JhcGggRXh0cmFjdGlvbgoKYGBgdHlwZXNjcmlwdAphc3luYyBmdW5jdGlvbiBleHRyYWN0U3ViZ3JhcGgoc2VlZElkczogc3RyaW5nW10sIGhvcHM6IG51bWJlciA9IDIpIHsKICBjb25zdCBub2RlcyA9IG5ldyBNYXA8c3RyaW5nLCBHcmFwaE5vZGU+KCk7CiAgY29uc3QgZWRnZXMgPSBuZXcgTWFwPHN0cmluZywgR3JhcGhFZGdlPigpOwogIAogIC8vIEJGUyBleHBhbnNpb24KICBjb25zdCBxdWV1ZSA9IFsuLi5zZWVkSWRzXTsKICBsZXQgZGVwdGggPSAwOwogIAogIHdoaWxlIChxdWV1ZS5sZW5ndGggPiAwICYmIGRlcHRoIDw9IGhvcHMpIHsKICAgIGNvbnN0IG5leHQ6IHN0cmluZ1tdID0gW107CiAgICBmb3IgKGNvbnN0IGlkIG9mIHF1ZXVlKSB7CiAgICAgIGlmIChub2Rlcy5oYXMoaWQpKSBjb250aW51ZTsKICAgICAgY29uc3Qgbm9kZSA9IGF3YWl0IGt2LmdldChgZ3JhcGg6bm9kZToke2lkfWApOwogICAgICBpZiAoIW5vZGUpIGNvbnRpbnVlOwogICAgICBub2Rlcy5zZXQoaWQsIG5vZGUpOwogICAgICAKICAgICAgY29uc3Qgbm9kZUVkZ2VzID0gYXdhaXQga3YubGlzdCh7CiAgICAgICAgcHJlZml4OiBgZ3JhcGg6ZWRnZTpgLAogICAgICAgIGZpbHRlcjogZSA9PiBlLnNvdXJjZSA9PT0gaWQgfHwgZS50YXJnZXQgPT09IGlkLAogICAgICB9KTsKICAgICAgZm9yIChjb25zdCBlZGdlIG9mIG5vZGVFZGdlcykgewogICAgICAgIGVkZ2VzLnNldChlZGdlLmlkLCBlZGdlKTsKICAgICAgICBuZXh0LnB1c2goZWRnZS5zb3VyY2UgPT09IGlkID8gZWRnZS50YXJnZXQgOiBlZGdlLnNvdXJjZSk7CiAgICAgIH0KICAgIH0KICAgIHF1ZXVlLmxlbmd0aCA9IDA7CiAgICBxdWV1ZS5wdXNoKC4uLm5leHQpOwogICAgZGVwdGgrKzsKICB9CiAgCiAgcmV0dXJuIHsKICAgIG5vZGVzOiBBcnJheS5mcm9tKG5vZGVzLnZhbHVlcygpKSwKICAgIGVkZ2VzOiBBcnJheS5mcm9tKGVkZ2VzLnZhbHVlcygpKSwKICB9Owp9CmBgYAoKIyMgVGVtcG9yYWwgR3JhcGgKCuaXtumXtOe7tOW6puS4iueahOWbvu+8iCJYIOS5i+WQjuWPkeeUn+S6huS7gOS5iCLvvInvvJoKCmBgYHR5cGVzY3JpcHQKLy8gc3JjL2Z1bmN0aW9ucy90ZW1wb3JhbC1ncmFwaC50cwphc3luYyBmdW5jdGlvbiB0ZW1wb3JhbFF1ZXJ5KGlucHV0OiB7CiAgc3RhcnRUaW1lOiBzdHJpbmc7CiAgZW5kVGltZTogc3RyaW5nOwogIG5vZGVUeXBlcz86IE5vZGVUeXBlW107Cn0pIHsKICAvLyAxLiDlnKjml7bpl7Tnqpflj6PlhoUgc2VhcmNoIG1lbW9yaWVzCiAgY29uc3QgbWVtb3JpZXMgPSBhd2FpdCBzZWFyY2goewogICAgdGltZVJhbmdlOiB7IHN0YXJ0OiBpbnB1dC5zdGFydFRpbWUsIGVuZDogaW5wdXQuZW5kVGltZSB9LAogIH0pOwogIAogIC8vIDIuIOeUqCBtZW1vcmllcyDkvZzkuLogZ3JhcGggc2VlZHMKICBjb25zdCBzZWVkSWRzID0gbWVtb3JpZXMuZmxhdE1hcChtID0+IG0ubm9kZUlkcyk7CiAgCiAgLy8gMy4g5o+Q5Y+WIHN1YmdyYXBoCiAgY29uc3Qgc3ViZ3JhcGggPSBhd2FpdCBleHRyYWN0U3ViZ3JhcGgoc2VlZElkcywgMik7CiAgCiAgLy8gNC4g5qCH6K6wIHRlbXBvcmFsIGVkZ2VzCiAgY29uc3QgdGVtcG9yYWxFZGdlcyA9IHN1YmdyYXBoLmVkZ2VzLmZpbHRlcihlID0+IAogICAgZS50eXBlID09PSAidGVtcG9yYWwtYWZ0ZXIiCiAgKTsKICAKICByZXR1cm4gewogICAgbm9kZXM6IHN1YmdyYXBoLm5vZGVzLAogICAgZWRnZXM6IHN1YmdyYXBoLmVkZ2VzLAogICAgdGVtcG9yYWxFZGdlcywKICAgIHRpbWVSYW5nZTogeyBzdGFydDogaW5wdXQuc3RhcnRUaW1lLCBlbmQ6IGlucHV0LmVuZFRpbWUgfSwKICB9Owp9CmBgYAoKIyMgRnJvbnRpZXIg5o6i57SiCgoi5Zu+6L6555WMIiDigJQg5bey55+l6IqC54K5ICsgMSDot7PmnKrmjqLntKLnmoToioLngrnvvJoKCmBgYHR5cGVzY3JpcHQKLy8gc3JjL2Z1bmN0aW9ucy9mcm9udGllci50cwphc3luYyBmdW5jdGlvbiBmcm9udGllcihpbnB1dDogeyBzY29wZTogc3RyaW5nOyBtYXhEZXB0aD86IG51bWJlciB9KSB7CiAgY29uc3QgdmlzaXRlZCA9IGF3YWl0IGt2Lmxpc3QoeyBwcmVmaXg6ICJncmFwaDpieS1zY29wZToiIH0pOwogIGNvbnN0IGFsbEVkZ2VzID0gYXdhaXQga3YubGlzdCh7IHByZWZpeDogImdyYXBoOmVkZ2U6IiB9KTsKICAKICBjb25zdCBmcm9udGllciA9IG5ldyBNYXA8c3RyaW5nLCB7IG5vZGU6IEdyYXBoTm9kZTsgcmVhc29uOiBzdHJpbmcgfT4oKTsKICAKICBmb3IgKGNvbnN0IGVkZ2Ugb2YgYWxsRWRnZXMpIHsKICAgIGlmICh2aXNpdGVkLmhhcyhlZGdlLnNvdXJjZSkgJiYgIXZpc2l0ZWQuaGFzKGVkZ2UudGFyZ2V0KSkgewogICAgICBmcm9udGllci5zZXQoZWRnZS50YXJnZXQsIHsKICAgICAgICBub2RlOiBhd2FpdCBrdi5nZXQoYGdyYXBoOm5vZGU6JHtlZGdlLnRhcmdldH1gKSwKICAgICAgICByZWFzb246IGBjb25uZWN0ZWQgZnJvbSAke2VkZ2Uuc291cmNlfWAsCiAgICAgIH0pOwogICAgfQogIH0KICAKICByZXR1cm4gQXJyYXkuZnJvbShmcm9udGllci52YWx1ZXMoKSk7Cn0KYGBgCgojIyBHcmFwaCArIE1lbW9yeSDlj4zlkJHpk77mjqUKCmBgYHR5cGVzY3JpcHQKaW50ZXJmYWNlIEdyYXBoTm9kZSB7CiAgLy8gLi4uCiAgbWVtb3J5SWRzOiBzdHJpbmdbXTsgIC8vIOadpea6kOiusOW/hgp9CgovLyDlnKggc2VhcmNoIOe7k+aenOS4reWKoOWbvuS4iuS4i+aWhwphc3luYyBmdW5jdGlvbiBlbnJpY2hXaXRoR3JhcGgocmVzdWx0czogTWVtb3J5RW50cnlbXSkgewogIHJldHVybiBQcm9taXNlLmFsbChyZXN1bHRzLm1hcChhc3luYyAobWVtb3J5KSA9PiB7CiAgICAvLyDmib7ljIXlkKvmraQgbWVtb3J5IOeahCBncmFwaCBub2RlcwogICAgY29uc3Qgbm9kZXMgPSBhd2FpdCBrdi5saXN0KHsKICAgICAgcHJlZml4OiAiZ3JhcGg6bm9kZToiLAogICAgICBmaWx0ZXI6IG4gPT4gbi5tZW1vcnlJZHMuaW5jbHVkZXMobWVtb3J5LmlkKSwKICAgIH0pOwogICAgcmV0dXJuIHsgLi4ubWVtb3J5LCBncmFwaE5vZGVzOiBub2RlcyB9OwogIH0pKTsKfQpgYGAKCiMjIOaAp+iDvQoKfCDmk43kvZwgfCAxMDAg6IqC54K5IHwgMWsg6IqC54K5IHwgMTBrIOiKgueCuSB8CnwtLS0tLS18LS0tLS0tLS0tLXwtLS0tLS0tLS18LS0tLS0tLS0tLXwKfCBBZGQgbm9kZSB8IH41bXMgfCB+NW1zIHwgfjVtcyB8CnwgQWRkIGVkZ2UgfCB+NW1zIHwgfjVtcyB8IH41bXMgfAp8IEJGUyBkZXB0aCAyIHwgfjMwbXMgfCB+MjAwbXMgfCB+MnMgfAp8IEJGUyBkZXB0aCAzIHwgfjgwbXMgfCB+NjAwbXMgfCB+NnMgfAp8IFN1YmdyYXBoIDItaG9wIHwgfjUwbXMgfCB+MzAwbXMgfCB+M3MgfAoKIyMg5bey55+l6ZmQ5Yi2CgotIExMTSBleHRyYWN0IGVudGl0eS9yZWxhdGlvbiDotKjph4/lhrPlrprlm77otKjph48KLSDlpKflm77vvIg+MTBrIOiKgueCue+8ieafpeivouaFou+8jOmcgOiAg+iZkSBtYXRlcmlhbGl6ZQotIOaXtuW6j+WbvuafpeivouimgeWFqOaJqyBtZW1vcnlfZnRz77yM55uu5YmN5rKh54m55Yir5LyY5YyWCg==
+# Knowledge Graph
+
+> agentmemory 内部知识图谱（src/functions/graph.ts 30 symbols）
+
+## 节点 / 边
+
+```ts
+type NodeType = "entity" | "concept" | "fact" | "rule" | "lesson" | "skill"
+type EdgeType = "references" | "causes" | "temporal-after" | "related" |
+                "supports" | "contradicts" | "derived-from" | "example-of"
+```
+
+## 何时建图
+
+从 `remember` 自动抽取 entity + relation：
+
+```typescript
+// 在 mem::remember 中
+async function remember(input) {
+  const entry = await persistMemory(input);
+  
+  // 自动建图 (并行, 不阻塞)
+  Promise.all([
+    extractEntities(entry).then(entities => 
+      entities.forEach(e => addGraphNode(e))
+    ),
+    extractRelations(entry).then(rels => 
+      rels.forEach(r => addGraphEdge(r))
+    ),
+  ]).catch(() => {});  // 静默失败
+  
+  return { id: entry.id };
+}
+```
+
+## MCP 工具
+
+```
+memory_graph_add_node(type, label, properties?, memoryIds?)
+memory_graph_add_edge(source, target, type, weight?, confidence?)
+memory_graph_query(nodeId, depth?, direction?)
+memory_graph_search(query, type?, limit?)
+memory_graph_remove_node(nodeId)
+memory_graph_remove_edge(edgeId)
+```
+
+## 查询模式
+
+### 1. Forward BFS
+
+```typescript
+// src/functions/graph-retrieval.ts
+async function forwardBFS(startId: string, maxDepth = 3) {
+  const visited = new Set<string>();
+  const queue: { id: string; depth: number; path: string[] }[] = [
+    { id: startId, depth: 0, path: [startId] }
+  ];
+  const results: { node: GraphNode; path: string[]; depth: number }[] = [];
+  
+  while (queue.length > 0) {
+    const { id, depth, path } = queue.shift()!;
+    if (visited.has(id) || depth > maxDepth) continue;
+    visited.add(id);
+    
+    const node = await kv.get(`graph:node:${id}`);
+    if (!node) continue;
+    
+    results.push({ node, path, depth });
+    
+    // Outgoing edges
+    const outEdges = await kv.list({
+      prefix: `graph:edge:`,
+      filter: e => e.source === id,
+    });
+    
+    for (const edge of outEdges) {
+      if (!visited.has(edge.target)) {
+        queue.push({ id: edge.target, depth: depth + 1, path: [...path, edge.target] });
+      }
+    }
+  }
+  
+  return results;
+}
+```
+
+### 2. Bidirectional
+
+```typescript
+async function bidirectional(startId: string, endId: string, maxDepth = 4) {
+  // BFS from both ends
+  const forward = await bfs(startId, maxDepth);
+  const backward = await bfs(endId, maxDepth);
+  
+  // Find intersection
+  const intersect = forward.filter(n => 
+    backward.some(m => m.node.id === n.node.id)
+  );
+  
+  return intersect;
+}
+```
+
+### 3. Subgraph Extraction
+
+```typescript
+async function extractSubgraph(seedIds: string[], hops: number = 2) {
+  const nodes = new Map<string, GraphNode>();
+  const edges = new Map<string, GraphEdge>();
+  
+  // BFS expansion
+  const queue = [...seedIds];
+  let depth = 0;
+  
+  while (queue.length > 0 && depth <= hops) {
+    const next: string[] = [];
+    for (const id of queue) {
+      if (nodes.has(id)) continue;
+      const node = await kv.get(`graph:node:${id}`);
+      if (!node) continue;
+      nodes.set(id, node);
+      
+      const nodeEdges = await kv.list({
+        prefix: `graph:edge:`,
+        filter: e => e.source === id || e.target === id,
+      });
+      for (const edge of nodeEdges) {
+        edges.set(edge.id, edge);
+        next.push(edge.source === id ? edge.target : edge.source);
+      }
+    }
+    queue.length = 0;
+    queue.push(...next);
+    depth++;
+  }
+  
+  return {
+    nodes: Array.from(nodes.values()),
+    edges: Array.from(edges.values()),
+  };
+}
+```
+
+## Temporal Graph
+
+时间维度上的图（"X 之后发生了什么"）：
+
+```typescript
+// src/functions/temporal-graph.ts
+async function temporalQuery(input: {
+  startTime: string;
+  endTime: string;
+  nodeTypes?: NodeType[];
+}) {
+  // 1. 在时间窗口内 search memories
+  const memories = await search({
+    timeRange: { start: input.startTime, end: input.endTime },
+  });
+  
+  // 2. 用 memories 作为 graph seeds
+  const seedIds = memories.flatMap(m => m.nodeIds);
+  
+  // 3. 提取 subgraph
+  const subgraph = await extractSubgraph(seedIds, 2);
+  
+  // 4. 标记 temporal edges
+  const temporalEdges = subgraph.edges.filter(e => 
+    e.type === "temporal-after"
+  );
+  
+  return {
+    nodes: subgraph.nodes,
+    edges: subgraph.edges,
+    temporalEdges,
+    timeRange: { start: input.startTime, end: input.endTime },
+  };
+}
+```
+
+## Frontier 探索
+
+"图边界" — 已知节点 + 1 跳未探索的节点：
+
+```typescript
+// src/functions/frontier.ts
+async function frontier(input: { scope: string; maxDepth?: number }) {
+  const visited = await kv.list({ prefix: "graph:by-scope:" });
+  const allEdges = await kv.list({ prefix: "graph:edge:" });
+  
+  const frontier = new Map<string, { node: GraphNode; reason: string }>();
+  
+  for (const edge of allEdges) {
+    if (visited.has(edge.source) && !visited.has(edge.target)) {
+      frontier.set(edge.target, {
+        node: await kv.get(`graph:node:${edge.target}`),
+        reason: `connected from ${edge.source}`,
+      });
+    }
+  }
+  
+  return Array.from(frontier.values());
+}
+```
+
+## Graph + Memory 双向链接
+
+```typescript
+interface GraphNode {
+  // ...
+  memoryIds: string[];  // 来源记忆
+}
+
+// 在 search 结果中加图上下文
+async function enrichWithGraph(results: MemoryEntry[]) {
+  return Promise.all(results.map(async (memory) => {
+    // 找包含此 memory 的 graph nodes
+    const nodes = await kv.list({
+      prefix: "graph:node:",
+      filter: n => n.memoryIds.includes(memory.id),
+    });
+    return { ...memory, graphNodes: nodes };
+  }));
+}
+```
+
+## 性能
+
+| 操作 | 100 节点 | 1k 节点 | 10k 节点 |
+|------|----------|---------|----------|
+| Add node | ~5ms | ~5ms | ~5ms |
+| Add edge | ~5ms | ~5ms | ~5ms |
+| BFS depth 2 | ~30ms | ~200ms | ~2s |
+| BFS depth 3 | ~80ms | ~600ms | ~6s |
+| Subgraph 2-hop | ~50ms | ~300ms | ~3s |
+
+## 已知限制
+
+- LLM extract entity/relation 质量决定图质量
+- 大图（>10k 节点）查询慢，需考虑 materialize
+- 时序图查询要全扫 memory_fts，目前没特别优化

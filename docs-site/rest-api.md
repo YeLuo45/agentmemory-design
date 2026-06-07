@@ -1,1 +1,253 @@
-IyBSRVNUIEFQSQoKPiAxMjggUkVTVCBlbmRwb2ludHMgKHNyYy90cmlnZ2Vycy9hcGkudHMpCgojIyDot6/lvoTliY3nvIAKCuaJgOaciSBlbmRwb2ludCDpg73lnKggYC9hZ2VudG1lbW9yeS8uLi5gIOS4i+OAggoKIyMg6Ym05p2DCgpgYGB0eXBlc2NyaXB0Ci8vIOavj+S4qiBlbmRwb2ludCDnlKggY2hlY2tBdXRoCmZ1bmN0aW9uIGNoZWNrQXV0aChyZXE6IEFwaVJlcXVlc3QsIHNlY3JldDogc3RyaW5nKTogUmVzcG9uc2UgfCBudWxsIHsKICBjb25zdCBhdXRoSGVhZGVyID0gcmVxLmhlYWRlcnMuYXV0aG9yaXphdGlvbiB8fCAiIjsKICBpZiAoIWF1dGhIZWFkZXIuc3RhcnRzV2l0aCgiQmVhcmVyICIpKSB7CiAgICByZXR1cm4geyBzdGF0dXNfY29kZTogNDAxLCBib2R5OiB7IGVycm9yOiAibWlzc2luZyBiZWFyZXIiIH0gfTsKICB9CiAgY29uc3QgdG9rZW4gPSBhdXRoSGVhZGVyLnNsaWNlKDcpOwogIGlmICh0b2tlbiAhPT0gc2VjcmV0KSB7CiAgICByZXR1cm4geyBzdGF0dXNfY29kZTogNDAxLCBib2R5OiB7IGVycm9yOiAiaW52YWxpZCB0b2tlbiIgfSB9OwogIH0KICByZXR1cm4gbnVsbDsgIC8vIOmJtOadg+mAmui/hwp9CmBgYAoK546v5aKD5Y+Y6YePIGBBR0VOVE1FTU9SWV9BUElfS0VZYCDorr4gc2VjcmV044CCCgojIyBFbmRwb2ludCDliIbnsbsKCiMjIyBNZW1vcnkgKDIwKykKCmBgYApQT1NUICAgL2FnZW50bWVtb3J5L3JlbWVtYmVyICAgICAgICAgICAgIyBtZW06OnJlbWVtYmVyClBPU1QgICAvYWdlbnRtZW1vcnkvc2VhcmNoICAgICAgICAgICAgICAjIG1lbTo6c2VhcmNoClBPU1QgICAvYWdlbnRtZW1vcnkvZm9yZ2V0ICAgICAgICAgICAgICAgIyBtZW06OmZvcmdldApHRVQgICAgL2FnZW50bWVtb3J5L2dldC86aWQgICAgICAgICAgICAgICMgbWVtOjpnZXQKR0VUICAgIC9hZ2VudG1lbW9yeS9saXN0ICAgICAgICAgICAgICAgICAjIG1lbTo6bGlzdApQVVQgICAgL2FnZW50bWVtb3J5L3VwZGF0ZS86aWQgICAgICAgICAgICMgbWVtOjp1cGRhdGUKR0VUICAgIC9hZ2VudG1lbW9yeS9jb3VudCAgICAgICAgICAgICAgICAjIG1lbTo6Y291bnQKUE9TVCAgIC9hZ2VudG1lbW9yeS9vYnNlcnZlICAgICAgICAgICAgICAjIG1lbTo6b2JzZXJ2ZQpQT1NUICAgL2FnZW50bWVtb3J5L2VucmljaCAgICAgICAgICAgICAgICMgbWVtOjplbnJpY2gKUE9TVCAgIC9hZ2VudG1lbW9yeS9wcm9maWxlL2dldCAgICAgICAgICAjIG1lbTo6cHJvZmlsZQpQT1NUICAgL2FnZW50bWVtb3J5L3Byb2ZpbGUvc2V0ICAgICAgICAgICMgbWVtOjpwcm9maWxlClBPU1QgICAvYWdlbnRtZW1vcnkvYWN0aW9ucyAgICAgICAgICAgICAgIyBtZW06OmFjdGlvbnMKUE9TVCAgIC9hZ2VudG1lbW9yeS9zaWduYWxzICAgICAgICAgICAgICAjIG1lbTo6c2lnbmFscwpQT1NUICAgL2FnZW50bWVtb3J5L2NvbnRleHQgICAgICAgICAgICAgICMgbWVtOjpjb250ZXh0ClBPU1QgICAvYWdlbnRtZW1vcnkvd29ya2luZy1tZW1vcnkgICAgICAgIyBtZW06OndvcmtpbmctbWVtb3J5ClBPU1QgICAvYWdlbnRtZW1vcnkvc2xvdHMgICAgICAgICAgICAgICAgIyBtZW06OnNsb3RzClBPU1QgICAvYWdlbnRtZW1vcnkvYnJhbmNoLWF3YXJlICAgICAgICAgIyBtZW06OmJyYW5jaC1hd2FyZQpgYGAKCiMjIyBTZWFyY2ggKDEwKykKCmBgYApQT1NUICAgL2FnZW50bWVtb3J5L3NtYXJ0LXNlYXJjaCAgICAgICAgICMgbWVtOjpzbWFydC1zZWFyY2gKUE9TVCAgIC9hZ2VudG1lbW9yeS92aXNpb24tc2VhcmNoICAgICAgICAjIG1lbTo6dmlzaW9uLXNlYXJjaApQT1NUICAgL2FnZW50bWVtb3J5L3F1ZXJ5LWV4cGFuc2lvbiAgICAgICMgbWVtOjpxdWVyeS1leHBhbnNpb24KUE9TVCAgIC9hZ2VudG1lbW9yeS9zbGlkaW5nLXdpbmRvdyAgICAgICAjIG1lbTo6c2xpZGluZy13aW5kb3cKUE9TVCAgIC9hZ2VudG1lbW9yeS90ZW1wb3JhbC1ncmFwaCAgICAgICAjIG1lbTo6dGVtcG9yYWwtZ3JhcGgKUE9TVCAgIC9hZ2VudG1lbW9yeS9mcm9udGllciAgICAgICAgICAgICAjIG1lbTo6ZnJvbnRpZXIKYGBgCgojIyMgQ3J5c3RhbGxpemUgKDEwKykKCmBgYApQT1NUICAgL2FnZW50bWVtb3J5L2NyeXN0YWxsaXplICAgICAgICAgICMgbWVtOjpjcnlzdGFsbGl6ZQpQT1NUICAgL2FnZW50bWVtb3J5L2NvbnNvbGlkYXRlICAgICAgICAgICMgbWVtOjpjb25zb2xpZGF0ZQpQT1NUICAgL2FnZW50bWVtb3J5L2xlc3NvbnMgICAgICAgICAgICAgICMgbWVtOjpsZXNzb25zClBPU1QgICAvYWdlbnRtZW1vcnkvcGF0dGVybnMgICAgICAgICAgICAgIyBtZW06OnBhdHRlcm5zClBPU1QgICAvYWdlbnRtZW1vcnkvc2tpbGwtZXh0cmFjdCAgICAgICAgIyBtZW06OnNraWxsLWV4dHJhY3QKUE9TVCAgIC9hZ2VudG1lbW9yeS9zdW1tYXJpemUgICAgICAgICAgICAjIG1lbTo6c3VtbWFyaXplClBPU1QgICAvYWdlbnRtZW1vcnkvcGlwZWxpbmUgICAgICAgICAgICAgIyBtZW06OmNvbnNvbGlkYXRpb24tcGlwZWxpbmUKUE9TVCAgIC9hZ2VudG1lbW9yeS9tZXNoICAgICAgICAgICAgICAgICAjIG1lbTo6bWVzaApQT1NUICAgL2FnZW50bWVtb3J5L3NrZXRjaGVzICAgICAgICAgICAgICMgbWVtOjpza2V0Y2hlcwpgYGAKCiMjIyBHcmFwaCAoMTUrKQoKYGBgClBPU1QgICAvYWdlbnRtZW1vcnkvZ3JhcGgvbm9kZSAgICAgICAgICAgIyBtZW06OmdyYXBoClBPU1QgICAvYWdlbnRtZW1vcnkvZ3JhcGgvZWRnZSAgICAgICAgICAgIyBtZW06OmdyYXBoCkdFVCAgICAvYWdlbnRtZW1vcnkvZ3JhcGgvbm9kZS86aWQgICAgICAgIyBtZW06OmdyYXBoCkRFTEVURSAvYWdlbnRtZW1vcnkvZ3JhcGgvbm9kZS86aWQgICAgICAgIyBtZW06OmdyYXBoCkdFVCAgICAvYWdlbnRtZW1vcnkvZ3JhcGgvZWRnZS86aWQgICAgICAgIyBtZW06OmdyYXBoCkRFTEVURSAvYWdlbnRtZW1vcnkvZ3JhcGgvZWRnZS86aWQgICAgICAgIyBtZW06OmdyYXBoClBPU1QgICAvYWdlbnRtZW1vcnkvZ3JhcGgvcXVlcnkgICAgICAgICAjIG1lbTo6Z3JhcGgtcmV0cmlldmFsClBPU1QgICAvYWdlbnRtZW1vcnkvZ3JhcGgvc2VhcmNoICAgICAgICAjIG1lbTo6Z3JhcGgKR0VUICAgIC9hZ2VudG1lbW9yeS9ncmFwaC9zdWJncmFwaC86aWQgICAjIG1lbTo6Z3JhcGgtcmV0cmlldmFsClBPU1QgICAvYWdlbnRtZW1vcnkvcmVsYXRpb25zICAgICAgICAgICAjIG1lbTo6cmVsYXRpb25zClBPU1QgICAvYWdlbnRtZW1vcnkvZmFjZXRzICAgICAgICAgICAgICAgIyBtZW06OmZhY2V0cwpgYGAKCiMjIyBDb21wcmVzcyAoOCspCgpgYGAKUE9TVCAgIC9hZ2VudG1lbW9yeS9jb21wcmVzcyAgICAgICAgICAgICAjIG1lbTo6Y29tcHJlc3MKUE9TVCAgIC9hZ2VudG1lbW9yeS9jb21wcmVzcy9maWxlICAgICAgICAjIG1lbTo6Y29tcHJlc3MtZmlsZQpQT1NUICAgL2FnZW50bWVtb3J5L2NvbXByZXNzL3N5bnRoZXRpYyAgICMgbWVtOjpjb21wcmVzcy1zeW50aGV0aWMKUE9TVCAgIC9hZ2VudG1lbW9yeS9mbG93LWNvbXByZXNzICAgICAgICAjIG1lbTo6Zmxvdy1jb21wcmVzcwpgYGAKCiMjIyBMaWZlY3ljbGUgKDE1KykKCmBgYApQT1NUICAgL2FnZW50bWVtb3J5L2V2aWN0ICAgICAgICAgICAgICAgICMgbWVtOjpldmljdApQT1NUICAgL2FnZW50bWVtb3J5L2F1dG8tZm9yZ2V0ICAgICAgICAgICMgbWVtOjphdXRvLWZvcmdldApQT1NUICAgL2FnZW50bWVtb3J5L3JldGVudGlvbiAgICAgICAgICAgICMgbWVtOjpyZXRlbnRpb24KUE9TVCAgIC9hZ2VudG1lbW9yeS9kaXNrLXNpemUgICAgICAgICAgICAjIG1lbTo6ZGlzay1zaXplLW1hbmFnZXIKUE9TVCAgIC9hZ2VudG1lbW9yeS9jYXNjYWRlICAgICAgICAgICAgICAjIG1lbTo6Y2FzY2FkZQpQT1NUICAgL2FnZW50bWVtb3J5L2xlYXNlcyAgICAgICAgICAgICAgICMgbWVtOjpsZWFzZXMKUE9TVCAgIC9hZ2VudG1lbW9yeS9pbWFnZS1xdW90YSAgICAgICAgICAjIG1lbTo6aW1hZ2UtcXVvdGEtY2xlYW51cApQT1NUICAgL2FnZW50bWVtb3J5L3NlYXJjaC1oaXN0b3J5LXN3ZWVwICMgbWVtOjpyZWNlbnQtc2VhcmNoZXMtc3dlZXAKYGBgCgojIyMgU25hcHNob3QgKDEwKykKCmBgYApQT1NUICAgL2FnZW50bWVtb3J5L3NuYXBzaG90ICAgICAgICAgICAgICMgbWVtOjpzbmFwc2hvdApHRVQgICAgL2FnZW50bWVtb3J5L3NuYXBzaG90LzppZApQT1NUICAgL2FnZW50bWVtb3J5L2NoZWNrcG9pbnRzICAgICAgICAgICMgbWVtOjpjaGVja3BvaW50cwpHRVQgICAgL2FnZW50bWVtb3J5L3RpbWVsaW5lICAgICAgICAgICAgICMgbWVtOjp0aW1lbGluZQpQT1NUICAgL2FnZW50bWVtb3J5L3JlcGxheSAgICAgICAgICAgICAgICMgbWVtOjpyZXBsYXkKYGBgCgojIyMgSW50ZWdyYXRpb24gKDEwKykKCmBgYApQT1NUICAgL2FnZW50bWVtb3J5L29ic2lkaWFuL2V4cG9ydCAgICAgICMgbWVtOjpvYnNpZGlhbi1leHBvcnQKUE9TVCAgIC9hZ2VudG1lbW9yeS9jbGF1ZGUtYnJpZGdlICAgICAgICAjIG1lbTo6Y2xhdWRlLWJyaWRnZQpQT1NUICAgL2FnZW50bWVtb3J5L3RlYW0gICAgICAgICAgICAgICAgICMgbWVtOjp0ZWFtClBPU1QgICAvYWdlbnRtZW1vcnkvZmlsZS1pbmRleCAgICAgICAgICAgIyBtZW06OmZpbGUtaW5kZXgKUE9TVCAgIC9hZ2VudG1lbW9yeS9pbWFnZS1yZWZzICAgICAgICAgICAjIG1lbTo6aW1hZ2UtcmVmcwpgYGAKCiMjIyBPcHMgKDIwKykKCmBgYApQT1NUICAgL2FnZW50bWVtb3J5L2V4cG9ydCAgICAgICAgICAgICAgICMgbWVtOjpleHBvcnQtaW1wb3J0ClBPU1QgICAvYWdlbnRtZW1vcnkvaW1wb3J0ClBPU1QgICAvYWdlbnRtZW1vcnkvbWlncmF0ZSAgICAgICAgICAgICAgIyBtZW06Om1pZ3JhdGUKUE9TVCAgIC9hZ2VudG1lbW9yeS9taWdyYXRlL3ZlY3RvciAgICAgICAjIG1lbTo6bWlncmF0ZS12ZWN0b3ItaW5kZXgKUE9TVCAgIC9hZ2VudG1lbW9yeS9kaWFnbm9zdGljcyAgICAgICAgICAjIG1lbTo6ZGlhZ25vc3RpY3MKUE9TVCAgIC9hZ2VudG1lbW9yeS9zZW50aW5lbHMgICAgICAgICAgICAjIG1lbTo6c2VudGluZWxzClBPU1QgICAvYWdlbnRtZW1vcnkvYXVkaXQgICAgICAgICAgICAgICAgIyBtZW06OmF1ZGl0CkdFVCAgICAvYWdlbnRtZW1vcnkvYXVkaXQvcmVjZW50ClBPU1QgICAvYWdlbnRtZW1vcnkvYWNjZXNzLXRyYWNrZXIgICAgICAgIyBtZW06OmFjY2Vzcy10cmFja2VyClBPU1QgICAvYWdlbnRtZW1vcnkvcHJpdmFjeSAgICAgICAgICAgICAgIyBtZW06OnByaXZhY3kKUE9TVCAgIC9hZ2VudG1lbW9yeS9nb3Zlcm5hbmNlICAgICAgICAgICAjIG1lbTo6Z292ZXJuYW5jZQpQT1NUICAgL2FnZW50bWVtb3J5L3ZlcmlmeSAgICAgICAgICAgICAgICMgbWVtOjp2ZXJpZnkKUE9TVCAgIC9hZ2VudG1lbW9yeS9yZWZsZWN0ICAgICAgICAgICAgICAjIG1lbTo6cmVmbGVjdApQT1NUICAgL2FnZW50bWVtb3J5L3JvdXRpbmVzICAgICAgICAgICAgICMgbWVtOjpyb3V0aW5lcwpgYGAKCiMjIyBTeXN0ZW0gKDUrKQoKYGBgCkdFVCAgICAvYWdlbnRtZW1vcnkvaGVhbHRoICAgICAgICAgICAgICAgIyBoZWFsdGggY2hlY2sKR0VUICAgIC9hZ2VudG1lbW9yeS9zdGF0cyAgICAgICAgICAgICAgICAjIHN0YXRzCkdFVCAgICAvYWdlbnRtZW1vcnkvdmVyc2lvbgpHRVQgICAgL2FnZW50bWVtb3J5L2F1ZGl0CmBgYAoKIyMg5a2X5q6155m95ZCN5Y2VCgpgYGB0eXBlc2NyaXB0Ci8vIOawuOS4jeS8oCByYXcgYm9keSDnu5kgc2RrLnRyaWdnZXIKc2RrLnJlZ2lzdGVyRnVuY3Rpb24oImFwaTo6cmVtZW1iZXIiLCBhc3luYyAocmVxKSA9PiB7CiAgY29uc3QgYm9keSA9IHJlcS5ib2R5IGFzIFJlY29yZDxzdHJpbmcsIHVua25vd24+OwogIAogIC8vIOeZveWQjeWNlQogIGNvbnN0IHBheWxvYWQgPSB7CiAgICBzY29wZTogdHlwZW9mIGJvZHkuc2NvcGUgPT09ICJzdHJpbmciID8gYm9keS5zY29wZSA6ICJkZWZhdWx0IiwKICAgIGNvbnRlbnQ6IHR5cGVvZiBib2R5LmNvbnRlbnQgPT09ICJzdHJpbmciID8gYm9keS5jb250ZW50IDogIiIsCiAgICB0YWdzOiBBcnJheS5pc0FycmF5KGJvZHkudGFncykgPyBib2R5LnRhZ3MuZmlsdGVyKHQgPT4gdHlwZW9mIHQgPT09ICJzdHJpbmciKSA6IFtdLAogICAgY29uZmlkZW5jZTogdHlwZW9mIGJvZHkuY29uZmlkZW5jZSA9PT0gIm51bWJlciIgPyBib2R5LmNvbmZpZGVuY2UgOiAxLjAsCiAgICBtZXRhZGF0YTogdHlwZW9mIGJvZHkubWV0YWRhdGEgPT09ICJvYmplY3QiID8gYm9keS5tZXRhZGF0YSA6IHt9LAogIH07CiAgCiAgY29uc3QgcmVzdWx0ID0gYXdhaXQgc2RrLnRyaWdnZXIoewogICAgZnVuY3Rpb25faWQ6ICJtZW06OnJlbWVtYmVyIiwKICAgIHBheWxvYWQsCiAgfSk7CiAgCiAgcmV0dXJuIHsgc3RhdHVzX2NvZGU6IDIwMCwgYm9keTogcmVzdWx0IH07Cn0pOwpgYGAKCiMjIOmUmeivr+WTjeW6lAoKYGBganNvbgp7CiAgInN0YXR1c19jb2RlIjogNDAwLAogICJib2R5IjogewogICAgImVycm9yIjogInZhbGlkYXRpb25fZXJyb3IiLAogICAgImRldGFpbHMiOiB7CiAgICAgICJmaWVsZCI6ICJjb250ZW50IiwKICAgICAgIm1lc3NhZ2UiOiAicmVxdWlyZWQiCiAgICB9CiAgfQp9CmBgYAoKfCBDb2RlIHwg5ZCr5LmJIHwKfC0tLS0tLXwtLS0tLS18CnwgMjAwIHwg5oiQ5YqfIHwKfCAyMDEgfCDliJvlu7rmiJDlip8gfAp8IDQwMCB8IHZhbGlkYXRpb24gZXJyb3IgfAp8IDQwMSB8IOmJtOadg+Wksei0pSB8CnwgNDA0IHwg6LWE5rqQ5LiN5a2Y5ZyoIHwKfCA1MDAgfCDlhoXpg6jplJnor68gfAp8IDUwMyB8IGlpaS1lbmdpbmUg5LiN5Y+v55SoIHwKCiMjIEN1cmwg56S65L6LCgpgYGBiYXNoCiMgUmVtZW1iZXIKY3VybCAtWCBQT1NUIGh0dHA6Ly9sb2NhbGhvc3Q6NDkxMzUvYWdlbnRtZW1vcnkvcmVtZW1iZXIgXAogIC1IICJBdXRob3JpemF0aW9uOiBCZWFyZXIgJEFHRU5UTUVNT1JZX0FQSV9LRVkiIFwKICAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiBcCiAgLWQgJ3sKICAgICJzY29wZSI6ICJkZWZhdWx0IiwKICAgICJjb250ZW50IjogIkFzeW5jIGZ1bmN0aW9ucyBzaG91bGQgYWx3YXlzIGhhbmRsZSBlcnJvcnMgd2l0aCB0cnkvY2F0Y2giLAogICAgInRhZ3MiOiBbImphdmFzY3JpcHQiLCAiYXN5bmMiLCAiYmVzdC1wcmFjdGljZSJdLAogICAgImNvbmZpZGVuY2UiOiAwLjkKICB9JwoKIyBTZWFyY2gKY3VybCAtWCBQT1NUIGh0dHA6Ly9sb2NhbGhvc3Q6NDkxMzUvYWdlbnRtZW1vcnkvc2VhcmNoIFwKICAtSCAiQXV0aG9yaXphdGlvbjogQmVhcmVyICRBR0VOVE1FTU9SWV9BUElfS0VZIiBcCiAgLUggIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiIgXAogIC1kICd7CiAgICAicXVlcnkiOiAiYXN5bmMgZXJyb3IgaGFuZGxpbmciLAogICAgInNjb3BlIjogImRlZmF1bHQiLAogICAgImxpbWl0IjogNSwKICAgICJtb2RlIjogImh5YnJpZCIKICB9JwoKIyBDcnlzdGFsbGl6ZQpjdXJsIC1YIFBPU1QgaHR0cDovL2xvY2FsaG9zdDo0OTEzNS9hZ2VudG1lbW9yeS9jcnlzdGFsbGl6ZSBcCiAgLUggIkF1dGhvcml6YXRpb246IEJlYXJlciAkQUdFTlRNRU1PUllfQVBJX0tFWSIgXAogIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFwKICAtZCAneyAidGltZVdpbmRvdyI6ICI3ZCIsICJtaW5DbHVzdGVyU2l6ZSI6IDMgfScKYGBgCgojIyDmgKfog70KCnwgRW5kcG9pbnQgfCDlhbjlnovlu7bov58gfAp8LS0tLS0tLS0tLXwtLS0tLS0tLS0tfAp8IGAvcmVtZW1iZXJgIHwgfjEwbXMgfAp8IGAvc2VhcmNoYCAoaHlicmlkKSB8IH4zMC0xMDBtcyB8CnwgYC9jcnlzdGFsbGl6ZWAgfCB+NS0zMHMgKExMTSBib3VuZCkgfAp8IGAvZ3JhcGgvcXVlcnlgIHwgfjUwLTIwMG1zIHwKfCBgL2hlYWx0aGAgfCA8MW1zIHwK
+# REST API
+
+> 128 REST endpoints (src/triggers/api.ts)
+
+## 路径前缀
+
+所有 endpoint 都在 `/agentmemory/...` 下。
+
+## 鉴权
+
+```typescript
+// 每个 endpoint 用 checkAuth
+function checkAuth(req: ApiRequest, secret: string): Response | null {
+  const authHeader = req.headers.authorization || "";
+  if (!authHeader.startsWith("Bearer ")) {
+    return { status_code: 401, body: { error: "missing bearer" } };
+  }
+  const token = authHeader.slice(7);
+  if (token !== secret) {
+    return { status_code: 401, body: { error: "invalid token" } };
+  }
+  return null;  // 鉴权通过
+}
+```
+
+环境变量 `AGENTMEMORY_API_KEY` 设 secret。
+
+## Endpoint 分类
+
+### Memory (20+)
+
+```
+POST   /agentmemory/remember            # mem::remember
+POST   /agentmemory/search              # mem::search
+POST   /agentmemory/forget               # mem::forget
+GET    /agentmemory/get/:id              # mem::get
+GET    /agentmemory/list                 # mem::list
+PUT    /agentmemory/update/:id           # mem::update
+GET    /agentmemory/count                # mem::count
+POST   /agentmemory/observe              # mem::observe
+POST   /agentmemory/enrich               # mem::enrich
+POST   /agentmemory/profile/get          # mem::profile
+POST   /agentmemory/profile/set          # mem::profile
+POST   /agentmemory/actions              # mem::actions
+POST   /agentmemory/signals              # mem::signals
+POST   /agentmemory/context              # mem::context
+POST   /agentmemory/working-memory       # mem::working-memory
+POST   /agentmemory/slots                # mem::slots
+POST   /agentmemory/branch-aware         # mem::branch-aware
+```
+
+### Search (10+)
+
+```
+POST   /agentmemory/smart-search         # mem::smart-search
+POST   /agentmemory/vision-search        # mem::vision-search
+POST   /agentmemory/query-expansion      # mem::query-expansion
+POST   /agentmemory/sliding-window       # mem::sliding-window
+POST   /agentmemory/temporal-graph       # mem::temporal-graph
+POST   /agentmemory/frontier             # mem::frontier
+```
+
+### Crystallize (10+)
+
+```
+POST   /agentmemory/crystallize          # mem::crystallize
+POST   /agentmemory/consolidate          # mem::consolidate
+POST   /agentmemory/lessons              # mem::lessons
+POST   /agentmemory/patterns             # mem::patterns
+POST   /agentmemory/skill-extract        # mem::skill-extract
+POST   /agentmemory/summarize            # mem::summarize
+POST   /agentmemory/pipeline             # mem::consolidation-pipeline
+POST   /agentmemory/mesh                 # mem::mesh
+POST   /agentmemory/sketches             # mem::sketches
+```
+
+### Graph (15+)
+
+```
+POST   /agentmemory/graph/node           # mem::graph
+POST   /agentmemory/graph/edge           # mem::graph
+GET    /agentmemory/graph/node/:id       # mem::graph
+DELETE /agentmemory/graph/node/:id       # mem::graph
+GET    /agentmemory/graph/edge/:id       # mem::graph
+DELETE /agentmemory/graph/edge/:id       # mem::graph
+POST   /agentmemory/graph/query         # mem::graph-retrieval
+POST   /agentmemory/graph/search        # mem::graph
+GET    /agentmemory/graph/subgraph/:id   # mem::graph-retrieval
+POST   /agentmemory/relations           # mem::relations
+POST   /agentmemory/facets               # mem::facets
+```
+
+### Compress (8+)
+
+```
+POST   /agentmemory/compress             # mem::compress
+POST   /agentmemory/compress/file        # mem::compress-file
+POST   /agentmemory/compress/synthetic   # mem::compress-synthetic
+POST   /agentmemory/flow-compress        # mem::flow-compress
+```
+
+### Lifecycle (15+)
+
+```
+POST   /agentmemory/evict                # mem::evict
+POST   /agentmemory/auto-forget          # mem::auto-forget
+POST   /agentmemory/retention            # mem::retention
+POST   /agentmemory/disk-size            # mem::disk-size-manager
+POST   /agentmemory/cascade              # mem::cascade
+POST   /agentmemory/leases               # mem::leases
+POST   /agentmemory/image-quota          # mem::image-quota-cleanup
+POST   /agentmemory/search-history-sweep # mem::recent-searches-sweep
+```
+
+### Snapshot (10+)
+
+```
+POST   /agentmemory/snapshot             # mem::snapshot
+GET    /agentmemory/snapshot/:id
+POST   /agentmemory/checkpoints          # mem::checkpoints
+GET    /agentmemory/timeline             # mem::timeline
+POST   /agentmemory/replay               # mem::replay
+```
+
+### Integration (10+)
+
+```
+POST   /agentmemory/obsidian/export      # mem::obsidian-export
+POST   /agentmemory/claude-bridge        # mem::claude-bridge
+POST   /agentmemory/team                 # mem::team
+POST   /agentmemory/file-index           # mem::file-index
+POST   /agentmemory/image-refs           # mem::image-refs
+```
+
+### Ops (20+)
+
+```
+POST   /agentmemory/export               # mem::export-import
+POST   /agentmemory/import
+POST   /agentmemory/migrate              # mem::migrate
+POST   /agentmemory/migrate/vector       # mem::migrate-vector-index
+POST   /agentmemory/diagnostics          # mem::diagnostics
+POST   /agentmemory/sentinels            # mem::sentinels
+POST   /agentmemory/audit                # mem::audit
+GET    /agentmemory/audit/recent
+POST   /agentmemory/access-tracker       # mem::access-tracker
+POST   /agentmemory/privacy              # mem::privacy
+POST   /agentmemory/governance           # mem::governance
+POST   /agentmemory/verify               # mem::verify
+POST   /agentmemory/reflect              # mem::reflect
+POST   /agentmemory/routines             # mem::routines
+```
+
+### System (5+)
+
+```
+GET    /agentmemory/health               # health check
+GET    /agentmemory/stats                # stats
+GET    /agentmemory/version
+GET    /agentmemory/audit
+```
+
+## 字段白名单
+
+```typescript
+// 永不传 raw body 给 sdk.trigger
+sdk.registerFunction("api::remember", async (req) => {
+  const body = req.body as Record<string, unknown>;
+  
+  // 白名单
+  const payload = {
+    scope: typeof body.scope === "string" ? body.scope : "default",
+    content: typeof body.content === "string" ? body.content : "",
+    tags: Array.isArray(body.tags) ? body.tags.filter(t => typeof t === "string") : [],
+    confidence: typeof body.confidence === "number" ? body.confidence : 1.0,
+    metadata: typeof body.metadata === "object" ? body.metadata : {},
+  };
+  
+  const result = await sdk.trigger({
+    function_id: "mem::remember",
+    payload,
+  });
+  
+  return { status_code: 200, body: result };
+});
+```
+
+## 错误响应
+
+```json
+{
+  "status_code": 400,
+  "body": {
+    "error": "validation_error",
+    "details": {
+      "field": "content",
+      "message": "required"
+    }
+  }
+}
+```
+
+| Code | 含义 |
+|------|------|
+| 200 | 成功 |
+| 201 | 创建成功 |
+| 400 | validation error |
+| 401 | 鉴权失败 |
+| 404 | 资源不存在 |
+| 500 | 内部错误 |
+| 503 | iii-engine 不可用 |
+
+## Curl 示例
+
+```bash
+# Remember
+curl -X POST http://localhost:49135/agentmemory/remember \
+  -H "Authorization: Bearer $AGENTMEMORY_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "scope": "default",
+    "content": "Async functions should always handle errors with try/catch",
+    "tags": ["javascript", "async", "best-practice"],
+    "confidence": 0.9
+  }'
+
+# Search
+curl -X POST http://localhost:49135/agentmemory/search \
+  -H "Authorization: Bearer $AGENTMEMORY_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "query": "async error handling",
+    "scope": "default",
+    "limit": 5,
+    "mode": "hybrid"
+  }'
+
+# Crystallize
+curl -X POST http://localhost:49135/agentmemory/crystallize \
+  -H "Authorization: Bearer $AGENTMEMORY_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{ "timeWindow": "7d", "minClusterSize": 3 }'
+```
+
+## 性能
+
+| Endpoint | 典型延迟 |
+|----------|----------|
+| `/remember` | ~10ms |
+| `/search` (hybrid) | ~30-100ms |
+| `/crystallize` | ~5-30s (LLM bound) |
+| `/graph/query` | ~50-200ms |
+| `/health` | <1ms |
