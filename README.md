@@ -1,8 +1,1 @@
-# agentmemory Design
-
-agentmemory — 为 AI 编码代理提供持久化记忆系统。建在 iii-engine 之上，跨 10+ AI 代理平台。
-
-- 源码：https://github.com/rohitg00/agentmemory
-- 本地：/home/hermes/projects/agentmemory
-- iii-engine: https://github.com/iii-hq/iii
-- 衍生 Gist: https://gist.github.com/rohitg00/2067ab416f7bbe447c1977edaaa681e2 (1.3k stars)
+IyBhZ2VudG1lbW9yeSBEZXNpZ24KCmFnZW50bWVtb3J5IOKAlCDkuLogQUkg57yW56CB5Luj55CG5o+Q5L6b5oyB5LmF5YyW6K6w5b+G57O757uf44CC5bu65ZyoIGlpaS1lbmdpbmUg5LmL5LiK77yM6LeoIDEwKyBBSSDku6PnkIblubPlj7DjgIIKCi0g5rqQ56CB77yaaHR0cHM6Ly9naXRodWIuY29tL3JvaGl0ZzAwL2FnZW50bWVtb3J5Ci0g5pys5Zyw77yaL2hvbWUvaGVybWVzL3Byb2plY3RzL2FnZW50bWVtb3J5Ci0gaWlpLWVuZ2luZTogaHR0cHM6Ly9naXRodWIuY29tL2lpaS1ocS9paWkKLSDooY3nlJ8gR2lzdDogaHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vcm9oaXRnMDAvMjA2N2FiNDE2ZjdiYmU0NDdjMTk3N2VkYWFhNjgxZTIgKDEuM2sgc3RhcnMpCg==
